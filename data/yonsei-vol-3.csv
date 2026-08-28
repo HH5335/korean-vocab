@@ -1,0 +1,606 @@
+entry_id,volume,chapter,unit,sequence,source_order,korean,chinese,english,entry_kind,pos,pos_zh,origin_type,origin_detail,pronunciation,dictionary_source,dictionary_candidate_count,match_method,english_method,match_confidence,review_status,revision_note
+v03-c01-u01-001,3,1,1,1,1,시간을 내다,腾出时间，抽空,make time,expression,표현,表达,expression,시간(時間) + 내다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u01-002,3,1,1,2,2,마음을 먹다,下决心,make up one's mind,expression,표현,表达,expression,마음(固) + 먹다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u01-003,3,1,1,3,3,가능하다,可能,possible; able,lexeme,형용사,形,hybrid,可能하다,가ː능하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u01-004,3,1,1,4,4,모으다,收集,collect; gather,lexeme,동사,动,native,,,Korean Basic Dictionary,8,editorial_override,editorial_override,1.0,verified,收集义；原英文 obtain/procure 误配到另一义项。
+v03-c01-u01-005,3,1,1,5,5,세계,世界,world; universe,lexeme,명사,名,hanja,世界,세ː계/세ː게,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c01-u01-006,3,1,1,6,6,거의,几乎，差不多,nearly; almost,lexeme,부사,副,native,,거의/거이,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u01-007,3,1,1,7,7,수집하다,收集,collect; gather,lexeme,동사,动,hybrid,收集하다,수지파다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c01-u01-008,3,1,1,8,8,감상하다,欣赏，鉴赏,appreciate,lexeme,동사,动,hybrid,鑑賞하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u01-009,3,1,1,9,9,두다,下（棋）,play,lexeme,동사,动,native,,,Korean Basic Dictionary,28,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u01-010,3,1,1,10,10,요가,瑜伽,yoga,lexeme,명사,名,loanword,yoga,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u01-011,3,1,1,11,11,다양하다,各种各样，多样,various; diverse,lexeme,형용사,形,hybrid,多樣하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u01-012,3,1,1,12,12,장르,体裁,genre,lexeme,명사,名,loanword,genre,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u01-013,3,1,1,13,13,공포,恐怖,fear,lexeme,명사,名,hanja,恐怖,공ː포,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u01-014,3,1,1,14,14,개봉하다,开映，首映,release; be coming soon,lexeme,동사,动,hybrid,開封하다,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u02-001,3,1,2,15,15,학원,学院，学习班,private institute; academy; cram school,lexeme,명사,名,hanja,學院,하권,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u02-002,3,1,2,16,16,등록하다,注册，报名,register; enroll,lexeme,동사,动,hybrid,登錄하다,등노카다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u02-003,3,1,2,17,17,완성하다,完成,complete,lexeme,동사,动,hybrid,完成하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-004,3,1,2,18,18,인물화,人物画,figure painting; portrait,lexeme,명사,名,hanja,人物畫,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-005,3,1,2,19,19,풍경화,风景画,landscape,lexeme,명사,名,hanja,風景畫,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-006,3,1,2,20,20,전시회,展示会，展览会,exhibition,lexeme,명사,名,hanja,展示會,전ː시회/전ː시훼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-007,3,1,2,21,21,연주회,演奏会,concert; recital,lexeme,명사,名,hanja,演奏會,연ː주회/연ː주훼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-008,3,1,2,22,22,상영,上映，放映,screening; showing,lexeme,명사,名,hanja,上映,상ː영,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-009,3,1,2,23,23,발표회,发布会，发表会,meeting; conference; concert; exhibition,lexeme,명사,名,hanja,發表會,발표회/발표훼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-010,3,1,2,24,24,동서양,东西方,East and West,lexeme,명사,名,hanja,東西洋,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-011,3,1,2,25,25,정물화,静物画,still life,lexeme,명사,名,hanja,靜物畫,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u02-012,3,1,2,26,26,입장료,门票费,admission fee,lexeme,명사,名,hanja,入場料,입짱뇨,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u03-001,3,1,3,27,27,(동아리에)들다,加入(社团),join (a club),expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c01-u03-002,3,1,3,28,28,관심,关心，感兴趣,interest; attention,lexeme,명사,名,hanja,關心,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u03-003,3,1,3,29,29,동영상,视频,video,lexeme,명사,名,hanja,動映像,동ː녕상,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u03-004,3,1,3,30,30,괜히,白白地,vainly; in vain; to no avail,lexeme,부사,副,native,,괜ː히,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u03-005,3,1,3,31,31,고민하다,苦恼,agonize; writhe,lexeme,동사,动,hybrid,苦悶하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u03-006,3,1,3,32,32,탈출 동아리,假面舞社团,mask dance club,expression,표현,表达,expression,탈출(脫出) + 동아리(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u03-007,3,1,3,33,33,국악 동아리,国乐社团,traditional Korean music club,expression,표현,表达,expression,국악(國樂) + 동아리(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u03-008,3,1,3,34,34,봉사 동아리,公益社团,volunteer club,expression,표현,表达,expression,봉사(奉仕) + 동아리(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u03-009,3,1,3,35,35,합창 동아리,合唱社团,choir club,expression,표현,表达,expression,합창(合唱) + 동아리(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u03-010,3,1,3,36,36,지다,输,lose; be defeated,lexeme,동사,动,native,,,Korean Basic Dictionary,20,editorial_override,editorial_override,1.0,verified,输的义项；原英文 carry 为同形词误配。
+v03-c01-u03-011,3,1,3,37,37,이기다,赢,win; beat; defeat,lexeme,동사,动,native,,,Korean Basic Dictionary,8,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-001,3,1,4,38,38,조사,调查,poll; survey; investigation,lexeme,명사,名,hanja,調査,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-002,3,1,4,39,39,결과,结果,result; outcome,lexeme,명사,名,hanja,結果,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u04-003,3,1,4,40,40,에 따르면,根据，按照,according to; based on,expression,표현,表达,expression,에(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c01-u04-004,3,1,4,41,41,험하다,险峻,rough; rugged; forbidding,lexeme,형용사,形,hybrid,險하다,험ː하다,Korean Basic Dictionary,7,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-005,3,1,4,42,42,관광,观光，旅游,tourism,lexeme,명사,名,hanja,觀光,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u04-006,3,1,4,43,43,감상,欣赏，鉴赏,appreciation,lexeme,명사,名,hanja,鑑賞,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-007,3,1,4,44,44,관람,参观，观看,viewing,lexeme,명사,名,hanja,觀覽,괄람,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u04-008,3,1,4,45,45,오락,娱乐,entertainment,lexeme,명사,名,hanja,娛樂,오ː락,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-009,3,1,4,46,46,이상,以上,or more; and over,lexeme,명사,名,hanja,以上,이ː상,Korean Basic Dictionary,9,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c01-u04-010,3,1,4,47,47,즐기다,爱好，喜爱,enjoy; appreciate; take pleasure in,lexeme,동사,动,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-011,3,1,4,48,48,과정,过程,process,lexeme,명사,名,hanja,過程,과ː정,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-012,3,1,4,49,49,기구,器具,utensil; tool; implement,lexeme,명사,名,hanja,器具,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u04-013,3,1,4,50,50,단독 주택,单独住宅,detached house,expression,표현,表达,hanja,單獨住宅,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u04-014,3,1,4,51,51,화초,花草,flowering plant; flower; plant,lexeme,명사,名,hanja,花草,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c01-u05-001,3,1,5,52,52,활용하다,利用，灵活运用,use; utilize,lexeme,동사,动,hybrid,活用하다,화룡하다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u05-002,3,1,5,53,53,벗어나다,摆脱，脱离,deviate from,lexeme,동사,动,native,,,Korean Basic Dictionary,10,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c01-u05-003,3,1,5,54,54,스스로,自己,oneself,lexeme,명사,名,native,,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u01-001,3,2,1,55,55,이사를 오다,搬来,move in,expression,표현,表达,expression,이사(移徙) + 오다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-002,3,2,1,56,56,그렇지 않아도,不然也,as it happens; anyway,expression,표현,表达,expression,그렇지(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-003,3,2,1,57,57,궁금하다,好奇,curious,lexeme,형용사,形,native,,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u01-004,3,2,1,58,58,인사를 가다,问候,go introduce oneself,expression,표현,表达,expression,인사(人事) + 가다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-005,3,2,1,59,59,이사 떡,搬家糕,housewarming rice cake,expression,표현,表达,expression,이사(移徙) + 떡(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-006,3,2,1,60,60,맛을 보다,品尝,taste; sample,expression,표현,表达,expression,보다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-007,3,2,1,61,61,인사를 받다,接受问候,receive a greeting,expression,표현,表达,expression,인사(人事) + 받다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-008,3,2,1,62,62,인사를 드리다,致以问候，请安,offer one's greetings,expression,표현,表达,expression,인사(人事) + 드리다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-009,3,2,1,63,63,인사를 시키다,使......问候,have someone say hello,expression,표현,表达,expression,인사(人事) + 시키다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-010,3,2,1,64,64,인사를 나누다,互相问候,exchange greetings,expression,표현,表达,expression,인사(人事) + 나누다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u01-011,3,2,1,65,65,위로하다,安慰，慰劳，慰问,console; comfort,lexeme,동사,动,hybrid,慰勞하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u01-012,3,2,1,66,66,청하다,请求，邀请,request; appeal,lexeme,동사,动,hybrid,請하다,,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u01-013,3,2,1,67,67,무표정하다,毫无表情，呆板,expressionless,lexeme,형용사,形,hybrid,無表情하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u01-014,3,2,1,68,68,고려하다,考虑，斟酌,consider,lexeme,동사,动,hybrid,考慮하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-001,3,2,2,69,69,앞머리,刘海儿,forelock,lexeme,명사,名,native,,암머리,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u02-002,3,2,2,70,70,찌르다,扎，刺,pierce; poke; prick; insert; stick,lexeme,동사,动,native,,,Korean Basic Dictionary,7,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u02-003,3,2,2,71,71,염색,染发,dyeing,lexeme,명사,名,hanja,染色,염ː색,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-004,3,2,2,72,72,짙다,深，浓,thick,lexeme,형용사,形,native,,짇따,Korean Basic Dictionary,7,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u02-005,3,2,2,73,73,갈색,褐色,brown,lexeme,명사,名,hanja,褐色,갈쌕,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-006,3,2,2,74,74,머리를 다듬다,修剪头发,trim one's hair,expression,표현,表达,expression,머리(固) + 다듬다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u02-007,3,2,2,75,75,굽을 갈다,换鞋跟,replace a shoe heel,expression,표현,表达,expression,갈다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u02-008,3,2,2,76,76,파마를 하다,烫发,get a perm,expression,표현,表达,expression,파마(←permanent) + 하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u02-009,3,2,2,77,77,미용실,美发厅,beauty parlor; beauty salon,lexeme,명사,名,hanja,美容室,미ː용실,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-010,3,2,2,78,78,펴다,展开，打开,open; spread out,lexeme,동사,动,native,,,Korean Basic Dictionary,6,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u02-011,3,2,2,79,79,미용사,美发师,beautician; hairdresser,lexeme,명사,名,hanja,美容師,미ː용사,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-012,3,2,2,80,80,드라이,吹风,drying,lexeme,명사,名,loanword,dry,,Korean Basic Dictionary,2,editorial_override,dictionary_equivalent,1.0,verified,移除 origin_detail 中的派生词抽取噪声与尾随 0。
+v03-c02-u02-013,3,2,2,81,81,두께,厚度,thickness,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u02-014,3,2,2,82,82,덮다,盖,cover,lexeme,동사,动,native,,덥따,Korean Basic Dictionary,6,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u02-015,3,2,2,83,83,세탁물,要洗的衣物,laundry,lexeme,명사,名,hanja,洗濯物,세ː탕물,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u03-001,3,2,3,84,84,구하다,求，找,look for; obtain,lexeme,동사,动,hybrid,求하다,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u03-002,3,2,3,85,85,초보자,新手,beginner; novice,lexeme,명사,名,hanja,初步者,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-003,3,2,3,86,86,경험,经验,experience,lexeme,명사,名,hanja,經驗,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-004,3,2,3,87,87,근무 시간,工作时间,work hours,expression,표현,表达,hanja,勤務時間,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-005,3,2,3,88,88,다들,大家，所有人,everyone; all,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c02-u03-006,3,2,3,89,89,경력자,有经验者,experienced worker,lexeme,명사,名,hanja,經歷者,경녁짜,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-007,3,2,3,90,90,이력서,简历,curriculum vitae; one's life history,lexeme,명사,名,hanja,履歷書,이ː력써,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-008,3,2,3,91,91,시간제,按时间；计时,being by the hour,lexeme,명사,名,hanja,時間制,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,Merged continuation gloss: 计时
+v03-c02-u03-009,3,2,3,92,92,보수,报酬,reward; repay,lexeme,명사,名,hanja,報酬,보ː수,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u03-010,3,2,3,93,93,자기 소개서,自我介绍,personal statement,expression,표현,表达,expression,자기(自己) + 소개서(紹介書),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u03-011,3,2,3,94,94,업무,业务,work; task; business,lexeme,명사,名,hanja,業務,엄무,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-012,3,2,3,95,95,능통자,精通某方面的人,expert; proficient person,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c02-u03-013,3,2,3,96,96,면접,面试,interview; oral test,lexeme,명사,名,hanja,面接,면ː접,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u03-014,3,2,3,97,97,판매,卖，销售,sale; selling,lexeme,명사,名,hanja,販賣,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-015,3,2,3,98,98,지원하다,报名，应聘,apply,lexeme,동사,动,hybrid,志願하다,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u03-016,3,2,3,99,99,구인 광고,招聘广告,job advertisement,expression,표현,表达,expression,구인(求人) + 광고(廣告),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u03-017,3,2,3,100,100,주유,加油,refueling,lexeme,명사,名,hanja,注油,주ː유,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u03-018,3,2,3,101,101,매점,小卖店,snack bar; shop,lexeme,명사,名,hanja,賣店,매ː점,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-001,3,2,4,102,102,(전화가)걸리다,拨通,get through (by phone),expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c02-u04-002,3,2,4,103,103,수리,修理,repair; fixing,lexeme,명사,名,hanja,修理,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u04-003,3,2,4,104,104,(돈이)들다,需要钱,cost money,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c02-u04-004,3,2,4,105,105,구입하다,购买,purchase,lexeme,동사,动,hybrid,購入하다,구이파다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-005,3,2,4,106,106,맡기다,委托，交给,entrust; leave something with,lexeme,동사,动,native,,맏끼다,Korean Basic Dictionary,8,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u04-006,3,2,4,107,107,사용 설명서를 보다,看使用说明书,consult the user manual,expression,표현,表达,expression,사용(使用) + 설명서(說明書) + 보다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u04-007,3,2,4,108,108,문의하다,询问，调查,ask; inquire,lexeme,동사,动,hybrid,問議하다,무ː늬하다/무ː니하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-008,3,2,4,109,109,서비스 센터에 맡기다,交给售后服务中心,leave it at a service center,expression,표현,表达,expression,서비스(service) + 센터(center) + 맡기다(固),,Korean Basic Dictionary,0,editorial_override,editorial_override,1.0,verified,保留人工英文释义，并移除 서비스 派生词抽取噪声与尾随 0。
+v03-c02-u04-009,3,2,4,110,110,수리를 요청하다,报修,request a repair,expression,표현,表达,expression,수리(修理) + 요청하다(要請하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u04-010,3,2,4,111,111,서비스 센터에서 찾다,去售后服务中心领取,pick it up from the service center,expression,표현,表达,expression,서비스(service) + 센터(center) + 찾다(固),,Korean Basic Dictionary,0,editorial_override,editorial_override,1.0,verified,保留人工英文释义，并移除 서비스 派生词抽取噪声与尾随 0。
+v03-c02-u04-011,3,2,4,112,112,수리를 받다,进行维修,have something repaired,expression,표현,表达,expression,수리(修理) + 받다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c02-u04-012,3,2,4,113,113,배터리,电池,battery,lexeme,명사,名,loanword,battery,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-013,3,2,4,114,114,충전하다,充电,recharge,lexeme,동사,动,hybrid,充電하다,,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u04-014,3,2,4,115,115,온도,温度,temperature,lexeme,명사,名,hanja,溫度,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-015,3,2,4,116,116,젖다,湿,get wet,lexeme,동사,动,native,,젇따,Korean Basic Dictionary,7,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u04-016,3,2,4,117,117,자판,键盘,keyboard,lexeme,명사,名,hanja,字板,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-017,3,2,4,118,118,화면,画面,picture; image,lexeme,명사,名,hanja,畫面,화ː면,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c02-u04-018,3,2,4,119,119,뾰족하다,尖，尖细,pointed; sharp,lexeme,형용사,形,native,,뾰조카다,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u04-019,3,2,4,120,120,액정,液晶画面,liquid crystal,lexeme,명사,名,hanja,液晶,액쩡,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u04-020,3,2,4,121,121,작동,运转，发动,operation,lexeme,명사,名,hanja,作動,작똥,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u05-001,3,2,5,122,122,돌리다,分送，分发,distribute; deliver,lexeme,동사,动,native,,,Korean Basic Dictionary,18,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c02-u05-002,3,2,5,123,123,팥,红豆,red bean,lexeme,명사,名,native,,팓,Korean Basic Dictionary,4,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u05-003,3,2,5,124,124,시루,蒸笼,earthenware steamer,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c02-u05-004,3,2,5,125,125,조리 기구,厨具,cooking utensils,expression,표현,表达,expression,조리(笊籬) + 기구(器具),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u01-001,3,3,1,126,126,안색,脸色,complexion,lexeme,명사,名,hanja,顔色,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-002,3,3,1,127,127,몸살이 나다,因感冒而浑身酸痛,come down with body aches,expression,표현,表达,expression,몸살(固) + 나다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u01-003,3,3,1,128,128,무리하다,过度，过分,be too much; be impractical; be out of reach,lexeme,동사,动,hybrid,無理하다,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u01-004,3,3,1,129,129,뭐니 뭐니 해도,无论如何；不管怎样,Even if people say something is like this or that; no matter what people say.,expression,표현,表达,expression,,,,0,unmatched,dictionary_definition,0.15,low,Merged continuation gloss: 不管怎样
+v03-c03-u01-005,3,3,1,130,130,잃다,失去，丢,lose,lexeme,동사,动,native,,일타,Korean Basic Dictionary,11,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u01-006,3,3,1,131,131,스트레스,压力,stress,lexeme,명사,名,loanword,stress,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-007,3,3,1,132,132,불면증,失眠症,insomnia,lexeme,명사,名,hanja,不眠症,불면쯩,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-008,3,3,1,133,133,흡연,吸烟,smoking,lexeme,명사,名,hanja,吸煙,흐변,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-009,3,3,1,134,134,비만,肥胖,obesity; fatness,lexeme,명사,名,hanja,肥滿,비ː만,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-010,3,3,1,135,135,고혈압,高血压,high blood pressure,lexeme,명사,名,hanja,高血壓,고혀랍,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-011,3,3,1,136,136,운동 부족,缺乏运动,lack of exercise,expression,표현,表达,expression,운동(運動) + 부족(不足),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u01-012,3,3,1,137,137,야근,夜班,working overtime; night duty,lexeme,명사,名,hanja,夜勤,야ː근,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u01-013,3,3,1,138,138,유혹,诱惑，引诱,enticement; lure,lexeme,명사,名,hanja,誘惑,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u01-014,3,3,1,139,139,뿌리치다,甩开，拒绝,shake off,lexeme,동사,动,native,,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u01-015,3,3,1,140,140,충고,忠告,advice,lexeme,명사,名,hanja,忠告,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-001,3,3,2,141,141,상쾌하다,爽快，舒畅,refreshing,lexeme,형용사,形,hybrid,爽快하다,상ː쾌하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-002,3,3,2,142,142,식욕,食欲,appetite,lexeme,명사,名,hanja,食慾,시굑,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-003,3,3,2,143,143,유지하다,保持,keep; maintain,lexeme,동사,动,hybrid,維持하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-004,3,3,2,144,144,노력,努力,effort; endeavor; hard work,lexeme,명사,名,hanja,努力,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u02-005,3,3,2,145,145,깨우다,叫醒,wake up,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-006,3,3,2,146,146,체중이 줄다,体重下降,lose weight,expression,표현,表达,expression,체중(體重) + 줄다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u02-007,3,3,2,147,147,근육이 생기다,练出肌肉,build muscle,expression,표현,表达,expression,근육(筋肉) + 생기다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u02-008,3,3,2,148,148,피로가 풀리다,消除疲劳,recover from fatigue,expression,표현,表达,expression,피로(疲勞) + 풀리다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u02-009,3,3,2,149,149,스트레스가 풀리다,消除压力,relieve stress,expression,표현,表达,expression,스트레스(stress) + 풀리다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u02-010,3,3,2,150,150,열량을 소모하다,消耗热量,burn calories,expression,표현,表达,expression,열량(熱量) + 소모하다(消耗하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u02-011,3,3,2,151,151,다이어트,减肥，瘦身,diet,lexeme,명사,名,loanword,diet,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-012,3,3,2,152,152,소비,消费,consumption,lexeme,명사,名,hanja,消費,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-013,3,3,2,153,153,장바구니,菜篮子,shopping basket,lexeme,명사,名,hybrid,場바구니,장빠구니,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u02-014,3,3,2,154,154,대중교통,公共交通,public transportation,lexeme,명사,名,hanja,大衆交通,대ː중교통,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-001,3,3,3,155,155,번거롭다,繁琐，麻烦,inconvenient; cumbersome,lexeme,형용사,形,native,,번거롭따,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u03-002,3,3,3,156,156,손이 가다,费事,To keep eating something because it is delicious.,expression,표현,表达,expression,가다(固),,Korean Basic Dictionary,0,component_match,dictionary_definition,0.42,low,
+v03-c03-u03-003,3,3,3,157,157,대표적이다,有代表性的,representative; typical,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c03-u03-004,3,3,3,158,158,건강식,健康食品,health food,lexeme,명사,名,hanja,健康食,건ː강식,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-005,3,3,3,159,159,김장철,做泡菜的季节,gimjangchul; kimchi-making season,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-006,3,3,3,160,160,김장하다,做过冬泡菜,make kimchi for the winter,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-007,3,3,3,161,161,육류,肉类,meat; poultry,lexeme,명사,名,hanja,肉類,융뉴,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-008,3,3,3,162,162,생선류,鱼类,fish and seafood,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c03-u03-009,3,3,3,163,163,곡류,谷类,grain,lexeme,명사,名,hanja,穀類,공뉴,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u03-010,3,3,3,164,164,유기농 식품,有机食品,organic food,expression,표현,表达,expression,유기농(有機農) + 식품(食品),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u03-011,3,3,3,165,165,인스턴트 식품,快餐,instant food,expression,표현,表达,expression,인스턴트(instant) + 식품(食品),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u03-012,3,3,3,166,166,발효 식품,发酵食品,fermented food,expression,표현,表达,expression,발효(醱酵) + 식품(食品),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c03-u03-013,3,3,3,167,167,탄산음료,碳酸饮料,soda; carbonated drink,lexeme,명사,名,hanja,炭酸飮料,탄ː사늠뇨,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-014,3,3,3,168,168,식습관,饮食习惯,eating habits; diet,lexeme,명사,名,hanja,食習慣,식씁꽌,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-015,3,3,3,169,169,화학조미료,化学调料,flavor enhancer; artificial flavors; chemical condiment,lexeme,명사,名,hanja,化學調味料,화ː학쪼미료,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-016,3,3,3,170,170,꿀,蜂蜜,honey,lexeme,명사,名,native,,,Korean Basic Dictionary,2,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u03-017,3,3,3,171,171,씹다,嚼,chew; masticate,lexeme,동사,动,native,,씹따,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u03-018,3,3,3,172,172,골고루,均匀,equally; evenly,lexeme,부사,副,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u04-001,3,3,4,173,173,장수,长寿,longevity,lexeme,명사,名,hanja,長壽,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u04-002,3,3,4,174,174,비결,秘诀,secret; know-how,lexeme,명사,名,hanja,祕訣,비ː결,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-003,3,3,4,175,175,정하다,定，确定,decide,lexeme,동사,动,hybrid,定하다,정ː하다,Korean Basic Dictionary,7,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u04-004,3,3,4,176,176,식사량,饭量,portion of food,lexeme,명사,名,hanja,食事量,식싸량,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-005,3,3,4,177,177,중요하다,重要,important,lexeme,형용사,形,hybrid,重要하다,중ː요하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-006,3,3,4,178,178,과식,暴食，吃得过多,overeating,lexeme,명사,名,hanja,過食,과ː식,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-007,3,3,4,179,179,소식,吃得不多，饭量小,light eating; eating little,lexeme,명사,名,hanja,小食,소ː식,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u04-008,3,3,4,180,180,편식,偏食,eating only what one wants,lexeme,명사,名,hanja,偏食,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-009,3,3,4,181,181,채식,素食,vegetarian diet,lexeme,명사,名,hanja,菜食,채ː식,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-010,3,3,4,182,182,육식,肉食,meat diet,lexeme,명사,名,hanja,肉食,육씩,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u04-011,3,3,4,183,183,규칙적이다,有规律的,regular; systematic,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c03-u04-012,3,3,4,184,184,불규칙하다,不规律的,irregular,lexeme,형용사,形,hybrid,不規則하다,불규치카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-013,3,3,4,185,185,민간요법,偏方,home remedy; folk remedy,lexeme,명사,名,hanja,民間療法,민간뇨뻡,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-014,3,3,4,186,186,양치하다,刷牙,brush teeth,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u04-015,3,3,4,187,187,미지근하다,温热,lukewarm; tepid; warmish,lexeme,형용사,形,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u04-016,3,3,4,188,188,효과,效果,effect; efficacy,lexeme,명사,名,hanja,效果,효ː과/효ː꽈,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u04-017,3,3,4,189,189,눕다,躺,lie down; lay oneself down; lie,lexeme,동사,动,native,,눕ː따,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u04-018,3,3,4,190,190,올리다,抬，举,increase; raise,lexeme,동사,动,native,,,Korean Basic Dictionary,17,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u04-019,3,3,4,191,191,긴장,紧张,nervousness; tension,lexeme,명사,名,hanja,緊張,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u04-020,3,3,4,192,192,입구,入口,entrance; entry; gate,lexeme,명사,名,hanja,入口,입꾸,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c03-u05-001,3,3,5,193,193,회복하다,恢复,recover; regain; revitalize,lexeme,동사,动,hybrid,回復/恢復하다,회보카다/훼보카다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c03-u05-002,3,3,5,194,194,기운,劲头儿,effect; influence,lexeme,명사,名,native,,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c03-u05-003,3,3,5,195,195,영양,营养,nutrition; nutrient,lexeme,명사,名,hanja,營養,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-001,3,4,1,196,196,뮤지컬,音乐剧,musical,lexeme,명사,名,loanword,musical,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-002,3,4,1,197,197,감동적이다,感人,moving; touching,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u01-003,3,4,1,198,198,무대,舞台,stage,lexeme,명사,名,hanja,舞臺,무ː대,Korean Basic Dictionary,8,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u01-004,3,4,1,199,199,의상,服装,clothes; garment,lexeme,명사,名,hanja,衣裳,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u01-005,3,4,1,200,200,말할 것도 없다,不用说,For something to be definitely so even if it is not said.,expression,표현,表达,expression,없다(固),,Korean Basic Dictionary,0,component_match,dictionary_definition,0.42,low,
+v03-c04-u01-006,3,4,1,201,201,공연,演出,performance; show,lexeme,명사,名,hanja,公演,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-007,3,4,1,202,202,자막,字幕,subtitles; caption,lexeme,명사,名,hanja,字幕,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-008,3,4,1,203,203,작품명,作品名,title of the work,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u01-009,3,4,1,204,204,관람 연령,观众年龄,audience age rating,expression,표현,表达,expression,관람(觀覽) + 연령(年齡),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u01-010,3,4,1,205,205,공연 장소,演出地点,performance venue,expression,표현,表达,expression,공연(公演) + 장소(場所),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u01-011,3,4,1,206,206,공연 일시,演出时间,performance date and time,expression,표현,表达,expression,공연(公演) + 일시(一時),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u01-012,3,4,1,207,207,작품 해설,作品解说,commentary on the work,expression,표현,表达,expression,작품(作品) + 해설(解說),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u01-013,3,4,1,208,208,비슷하다,相似,similar,lexeme,형용사,形,native,,비스타다,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u01-014,3,4,1,209,209,특징,特点,distinct characteristic; peculiarity; feature,lexeme,명사,名,hanja,特徵,특찡,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-015,3,4,1,210,210,화려하다,华丽,colorful; flashy; splendid,lexeme,형용사,形,hybrid,華麗하다,,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u01-016,3,4,1,211,211,관객,观众,audience; concertgoer; theatergoer; moviegoer,lexeme,명사,名,hanja,觀客,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u01-017,3,4,1,212,212,알리다,告知,inform; tell; notify,lexeme,동사,动,native,,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u02-001,3,4,2,213,213,좌석,座位,seat,lexeme,명사,名,hanja,座席,좌ː석,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u02-002,3,4,2,214,214,인터넷 사이트,网站,website,expression,표현,表达,expression,인터넷(internet) + 사이트(site),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u02-003,3,4,2,215,215,가입하다,加入,join; sign up,lexeme,동사,动,hybrid,加入하다,가이파다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-004,3,4,2,216,216,선택하다,选择,choose; make a choice; select,lexeme,동사,动,hybrid,選擇하다,선ː태카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-005,3,4,2,217,217,간단하다,简单,simple,lexeme,형용사,形,hybrid,簡單하다,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u02-006,3,4,2,218,218,알려 주다,告诉,tell; let someone know,expression,표현,表达,expression,주다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u02-007,3,4,2,219,219,취소하다,取消,cancel,lexeme,동사,动,hybrid,取消하다,취ː소하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-008,3,4,2,220,220,환불 받다,退款,get a refund,expression,표현,表达,expression,환불(還拂) + 받다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u02-009,3,4,2,221,221,변경하다,变更，更改,change; alter,lexeme,동사,动,hybrid,變更하다,변ː경하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-010,3,4,2,222,222,인원수,人数,number of people,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u02-011,3,4,2,223,223,매진되다,卖完,be sold out,lexeme,동사,动,hybrid,賣盡되다,매ː진되다/매ː진뒈다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-012,3,4,2,224,224,폰뱅킹,电话银行,phone banking; telephone banking,lexeme,명사,名,loanword,phone banking,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u02-013,3,4,2,225,225,당일,当天,that day; within the same day,lexeme,명사,名,hanja,當日,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-001,3,4,3,226,226,목소리,嗓音,voice,lexeme,명사,名,native,,목쏘리,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u03-002,3,4,3,227,227,연기,演技,acting; performance,lexeme,명사,名,hanja,演技,연ː기,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u03-003,3,4,3,228,228,훌륭하다,优秀，出色,great; excellent; outstanding,lexeme,형용사,形,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-004,3,4,3,229,229,대사,台词,line,lexeme,명사,名,hanja,臺詞/臺辭,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u03-005,3,4,3,230,230,마지막,最后,last,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-006,3,4,3,231,231,인상적이다,印象深刻,impressive,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u03-007,3,4,3,232,232,환상적이다,梦幻的，神奇的,fantastic; magical,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u03-008,3,4,3,233,233,심각하다,严肃，严峻,serious; grave,lexeme,형용사,形,hybrid,深刻하다,심ː가카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-009,3,4,3,234,234,신나다,兴奋，开心,become happy; become delighted; become elated,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-010,3,4,3,235,235,백문이 불여일견,百闻不如一见,seeing is believing,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c04-u03-011,3,4,3,236,236,평범하다,平凡,ordinary; usual; common,lexeme,형용사,形,hybrid,平凡하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u03-012,3,4,3,237,237,영원히,永远,eternally; everlastingly; forever,lexeme,부사,副,hybrid,永遠히,영ː원히,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-001,3,4,4,238,238,사물놀이,四物游戏,samulnori; Korean percussion music and performance,lexeme,명사,名,hybrid,四物놀이,사ː물로리,Korean Basic Dictionary,1,editorial_override,editorial_override,1.0,verified,保留文化词罗马字并补充可独立理解的英文释义。
+v03-c04-u04-002,3,4,4,239,239,분위기,氛围，气氛,mood,lexeme,명사,名,hanja,雰圍氣,부뉘기,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u04-003,3,4,4,240,240,지루하다,烦人，无聊,boring; tedious,lexeme,형용사,形,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-004,3,4,4,241,241,흥겹다,高兴，兴奋,happy; joyful; merrily,lexeme,형용사,形,hybrid,興겹다,흥ː겹따,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-005,3,4,4,242,242,확,一下子,strongly; powerfully,lexeme,부사,副,native,,,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c04-u04-006,3,4,4,243,243,인기,有人气，受欢迎,popularity,lexeme,명사,名,hanja,人氣,인끼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-007,3,4,4,244,244,제안하다,建议，提议,suggest,lexeme,동사,动,hybrid,提案하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-008,3,4,4,245,245,권하다,劝说，规劝,offer,lexeme,동사,动,hybrid,勸하다,권ː하다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u04-009,3,4,4,246,246,후회하다,后悔,regret; feel remorse; repent,lexeme,동사,动,hybrid,後悔하다,후ː회하다/후ː훼하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-010,3,4,4,247,247,정성,真诚，诚心,heart,lexeme,명사,名,hanja,精誠,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c04-u04-011,3,4,4,248,248,흔들다,晃动，摇动,wave; sway; flap; wag; shake,lexeme,동사,动,native,,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c04-u05-001,3,4,5,249,249,전통 악기,传统乐器,traditional instrument,expression,표현,表达,expression,전통(傳統) + 악기(樂器),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c04-u05-002,3,4,5,250,250,연주,演奏,performance,lexeme,명사,名,hanja,演奏,연ː주,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u01-001,3,5,1,251,251,패션쇼,服装秀,fashion show,lexeme,명사,名,loanword,fashion show,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u01-002,3,5,1,252,252,평,评价,criticism; comment; review,lexeme,명사,名,hanja,評,평ː,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c05-u01-003,3,5,1,253,253,실력,实力，能力,ability; capability,lexeme,명사,名,hanja,實力,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c05-u01-004,3,5,1,254,254,인정을 받다,得到认可,gain recognition,expression,표현,表达,expression,인정(認定) + 받다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u01-005,3,5,1,255,255,겨우,只，仅仅,only; merely,lexeme,부사,副,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c05-u01-006,3,5,1,256,256,성공하다,成功,succeed,lexeme,동사,动,hybrid,成功하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u01-007,3,5,1,257,257,능력이 뛰어나다,能力突出,be highly capable,expression,표현,表达,expression,능력(能力) + 뛰어나다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u01-008,3,5,1,258,258,모습,样子,appearance; look,lexeme,명사,名,native,,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u01-009,3,5,1,259,259,억양,语调,intonation; accent,lexeme,명사,名,hanja,抑揚,어걍,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u01-010,3,5,1,260,260,사투리,方言，土话,dialect,lexeme,명사,名,native,,사ː투리,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u01-011,3,5,1,261,261,원래,原来,origin,lexeme,명사,名,hanja,元來/原來,월래,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u01-012,3,5,1,262,262,끊임없다,不断,incessant; unceasing; ceaseless,lexeme,형용사,形,native,,끄니멉따,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-001,3,5,2,263,263,충분하다,充分，足够,sufficient; enough,lexeme,형용사,形,hybrid,充分하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-002,3,5,2,264,264,무척,非常，极为，特别,very; extremely,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-003,3,5,2,265,265,죽,粥,juk; Korean rice porridge,lexeme,명사,名,hanja,粥,,Korean Basic Dictionary,18,editorial_override,editorial_override,1.0,verified,保留菜名罗马字并补充可独立理解的英文说明。
+v03-c05-u02-004,3,5,2,266,266,챙기다,照顾，准备，整理,pack,lexeme,동사,动,native,,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c05-u02-005,3,5,2,267,267,마치,好像,as if,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-006,3,5,2,268,268,성격이 급하다,性格急躁,be impatient,expression,표현,表达,expression,성격(性格) + 급하다(急하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u02-007,3,5,2,269,269,정이 많다,热情,be warmhearted,expression,표현,表达,expression,많다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u02-008,3,5,2,270,270,냉정하다,冷淡，冷静,cold; callous; indifferent,lexeme,형용사,形,hybrid,冷情하다,냉ː정하다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u02-009,3,5,2,271,271,게으르다,懒惰,lazy,lexeme,형용사,形,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-010,3,5,2,272,272,고집이 세다,固执,be stubborn,expression,표현,表达,expression,고집(固執) + 세다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u02-011,3,5,2,273,273,말이 많다,话多，嘴碎,be talkative,expression,표현,表达,expression,많다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u02-012,3,5,2,274,274,무뚝뚝하다,生硬，冷漠,blunt; stiff; brusque,lexeme,형용사,形,native,,무뚝뚜카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-013,3,5,2,275,275,꼼꼼하다,仔细，细致,meticulous; elaborate; careful,lexeme,형용사,形,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-014,3,5,2,276,276,(김치를) 담그다,腌泡菜,make (kimchi),expression,표현,表达,expression,김치(固) + 담그다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u02-015,3,5,2,277,277,사생활,私生活,privacy; private life,lexeme,명사,名,hanja,私生活,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u02-016,3,5,2,278,278,낯설다,陌生,unknown; unfamiliar; unacquainted,lexeme,형용사,形,native,,낟썰다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u03-001,3,5,3,279,279,혹시,或许,by any chance,lexeme,부사,副,hanja,或是,혹씨,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u03-002,3,5,3,280,280,말이다,是说,I mean; speaking of,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c05-u03-003,3,5,3,281,281,돈을 벌다,赚钱,earn money,expression,표현,表达,expression,벌다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u03-004,3,5,3,282,282,기부하다,捐献,donate; contribute,lexeme,동사,动,hybrid,寄附하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-005,3,5,3,283,283,놀랍다,惊人，吃惊,astounding; surprising,lexeme,형용사,形,native,,놀ː랍따,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c05-u03-006,3,5,3,284,284,자신,自己,self; oneself,lexeme,명사,名,hanja,自身,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u03-007,3,5,3,285,285,대단하다,了不起,serious; intense,lexeme,형용사,形,native,,대ː단하다,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u03-008,3,5,3,286,286,저축하다,储蓄，存款,save,lexeme,동사,动,hybrid,貯蓄하다,저ː추카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-009,3,5,3,287,287,절약하다,节约,save,lexeme,동사,动,hybrid,節約하다,저랴카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-010,3,5,3,288,288,낭비하다,浪费,waste,lexeme,동사,动,hybrid,浪費하다,낭ː비하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-011,3,5,3,289,289,투자하다,投资,invest,lexeme,동사,动,hybrid,投資하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-012,3,5,3,290,290,미담,美谈,moving story,lexeme,명사,名,hanja,美談,미ː담,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-013,3,5,3,291,291,재산,财产,asset; property,lexeme,명사,名,hanja,財産,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u03-014,3,5,3,292,292,고아원,孤儿院,orphanage,lexeme,명사,名,hanja,孤兒院,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u03-015,3,5,3,293,293,사회,社会,society,lexeme,명사,名,hanja,社會,사회/사훼,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u04-001,3,5,4,294,294,마음이 넓다,心胸宽广,be broad-minded,expression,표현,表达,expression,마음(固) + 넓다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c05-u04-002,3,5,4,295,295,배려하다,关怀，照顾,consider; act thoughtfully,lexeme,동사,动,hybrid,配慮하다,배ː려하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-003,3,5,4,296,296,존경하다,尊敬，尊重,admire,lexeme,동사,动,hybrid,尊敬하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-004,3,5,4,297,297,흐뭇하다,满足，高兴,satisfied; pleased; content,lexeme,형용사,形,native,,흐무타다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-005,3,5,4,298,298,교육자,教育工作者,educator,lexeme,명사,名,hanja,敎育者,교ː육짜,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-006,3,5,4,299,299,연예인,艺人,entertainer,lexeme,명사,名,hanja,演藝人,여ː녜인,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-007,3,5,4,300,300,정치인,政治家,politician,lexeme,명사,名,hanja,政治人,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-008,3,5,4,301,301,사업가,企业家,businessperson; entrepreneur,lexeme,명사,名,hanja,事業家,사ː업까,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-009,3,5,4,302,302,언론인,新闻工作者,journalist,lexeme,명사,名,hanja,言論人,얼로닌,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-010,3,5,4,303,303,장학생,奖学金获得者,scholarship student; scholarship recipient,lexeme,명사,名,hanja,奬學生,장ː학쌩,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-011,3,5,4,304,304,세계적이다,世界性的,global; world-class,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c05-u04-012,3,5,4,305,305,지식,知识,knowledge,lexeme,명사,名,hanja,知識,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u04-013,3,5,4,306,306,인물,人物,person; man,lexeme,명사,名,hanja,人物,,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c05-u05-001,3,5,5,307,307,업적,业绩,achievement; accomplishment; performance,lexeme,명사,名,hanja,業績,업쩍,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u05-002,3,5,5,308,308,발명,发明,invention,lexeme,명사,名,hanja,發明,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c05-u05-003,3,5,5,309,309,지도자,领导,leader; head,lexeme,명사,名,hanja,指導者,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u01-001,3,6,1,310,310,잔치,酒席，宴席,party; feast; banquet,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u01-002,3,6,1,311,311,고생하다,辛苦，吃苦,go through a hardship; have difficulty,lexeme,동사,动,hybrid,苦生하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u01-003,3,6,1,312,312,빈대떡,绿豆煎饼,bindaetteok; mung bean pancake,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u01-004,3,6,1,313,313,안 그래도,反正，不然也,as it happens; anyway,expression,표현,表达,expression,안(固) + 그래도(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u01-005,3,6,1,314,314,회갑 잔치,花甲宴,sixtieth-birthday celebration,expression,표현,表达,expression,회갑(回甲) + 잔치(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u01-006,3,6,1,315,315,차례,祭祀，祭礼,charye; Korean ancestral memorial rite,lexeme,명사,名,hybrid,차禮,,Korean Basic Dictionary,5,editorial_override,editorial_override,1.0,verified,补充可独立理解的英文解释；韩国语基础词典将祭礼义词源标为混合词 차禮，原 origin_detail 保留。
+v03-c06-u01-007,3,6,1,316,316,과장님,科长,section chief,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c06-u01-008,3,6,1,317,317,취향,爱好，取向,taste; preference; liking,lexeme,명사,名,hanja,趣向,취ː향,Korean Basic Dictionary,1,exact_unique_form,dictionary_equivalent,0.78,medium,
+v03-c06-u01-009,3,6,1,318,318,덕분에,幸亏，多亏,thanks to,expression,표현,表达,expression,덕분(德分),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u01-010,3,6,1,319,319,실수하다,失误，弄错,make a mistake; make a slip,lexeme,동사,动,hybrid,失手하다,실쑤하다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u02-001,3,6,2,320,320,야,嗨,hey!,lexeme,감탄사,叹,native,,,Korean Basic Dictionary,5,editorial_override,editorial_override,1.0,verified,本条中文“嗨”对应呼语感叹词；原 ya 只是罗马字且词性误标为名词。
+v03-c06-u02-002,3,6,2,321,321,준비 중이다,正在准备,be preparing; be in preparation,expression,표현,表达,expression,준비(準備),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-003,3,6,2,322,322,아까,刚才,a moment ago,lexeme,명사,名,native,,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c06-u02-004,3,6,2,323,323,안부,问候,news; regards,lexeme,명사,名,hanja,安否,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u02-005,3,6,2,324,324,안부를 전하다,转达问候,send one's regards,expression,표현,表达,expression,안부(安否) + 전하다(傳하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-006,3,6,2,325,325,안부를 묻다,问候，问好,ask how someone is,expression,표현,表达,expression,안부(安否) + 묻다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-007,3,6,2,326,326,안부가 궁금하다,挂念,wonder how someone is,expression,표현,表达,expression,안부(安否) + 궁금하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-008,3,6,2,327,327,안부 전화를 하다,打问候电话,call to see how someone is,expression,표현,表达,expression,안부(安否) + 전화(電話) + 하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-009,3,6,2,328,328,안부 편지를 쓰다,写问候信,write a letter of greeting,expression,표현,表达,expression,안부(安否) + 편지(便紙/片紙) + 쓰다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-010,3,6,2,329,329,안부 문자를 보내다,发送问候短信,send a greeting text,expression,표현,表达,expression,안부(安否) + 문자(文字) + 보내다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-011,3,6,2,330,330,안부 인사를 드리다,请安，致以问候,offer one's regards,expression,표현,表达,expression,안부(安否) + 인사(人事) + 드리다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u02-012,3,6,2,331,331,아깝다,可惜,regrettable,lexeme,형용사,形,native,,아깝따,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c06-u02-013,3,6,2,332,332,직후,以后，以后,next; following,lexeme,명사,名,hanja,直後,지쿠,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u02-014,3,6,2,333,333,식,方式,way; style; manner,lexeme,의존 명사,依存名,hanja,式,,Korean Basic Dictionary,3,editorial_override,editorial_override,1.0,verified,本条 식 表示方式/样式；原英文 sik 只是罗马字。
+v03-c06-u03-001,3,6,3,334,334,오랜만이다,好久不见,long time no see,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c06-u03-002,3,6,3,335,335,신입생,新生,freshman,lexeme,명사,名,hanja,新入生,시닙쌩,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u03-003,3,6,3,336,336,오리엔테이션,入学教育，职前教育,orientation,lexeme,명사,名,loanword,orientation,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u03-004,3,6,3,337,337,곡,首，曲,song; musical piece,lexeme,명사,名,hanja,曲,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u03-005,3,6,3,338,338,신입생 환영회,迎新会,freshman welcome party,expression,표현,表达,expression,신입생(新入生) + 환영회(歡迎會),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u03-006,3,6,3,339,339,새내기,新人，新成员,newcomer; freshman,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u03-007,3,6,3,340,340,여부,与否,yes or no; whether or not,lexeme,명사,名,hanja,與否,여ː부,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u03-008,3,6,3,341,341,일단,一旦，先,once,lexeme,부사,副,hanja,一旦,일딴,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u03-009,3,6,3,342,342,그냥,就那样,as it is; as it stands,lexeme,부사,副,native,,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u03-010,3,6,3,343,343,장기 자랑,展示特长,talent show,expression,표현,表达,expression,장기(長技) + 자랑(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c06-u04-001,3,6,4,344,344,슬슬,慢慢地,slowly,lexeme,부사,副,native,,,Korean Basic Dictionary,8,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u04-002,3,6,4,345,345,회식,会餐,dining together; group dinner,lexeme,명사,名,hanja,會食,회ː식/훼ː식,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-003,3,6,4,346,346,참석하다,参加,attend,lexeme,동사,动,hybrid,參席하다,참서카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-004,3,6,4,347,347,잔뜩,满，实,full; fully; to capacity,lexeme,부사,副,native,,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u04-005,3,6,4,348,348,기대하다,期待,expect; anticipate,lexeme,동사,动,hybrid,期待/企待하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-006,3,6,4,349,349,2차,第二轮,second round; after-party,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c06-u04-007,3,6,4,350,350,야유회,郊游,picnic; outing,lexeme,명사,名,hanja,野遊會,야ː유회/야ː유훼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-008,3,6,4,351,351,오해,误会,misunderstanding,lexeme,명사,名,hanja,誤解,오ː해,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-009,3,6,4,352,352,폭탄주,炮弹酒,mixed liquor; bomb-shot,lexeme,명사,名,hanja,爆彈酒,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-010,3,6,4,353,353,산낙지,生章鱼,live octopus,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c06-u04-011,3,6,4,354,354,마술,魔术,magic; trick,lexeme,명사,名,hanja,魔術,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c06-u04-012,3,6,4,355,355,건의하다,建议,suggest; propose,lexeme,동사,动,hybrid,建議하다,거ː늬하다/거ː니하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-013,3,6,4,356,356,회신,回信,reply; answer,lexeme,명사,名,hanja,回信,회신/훼신,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u04-014,3,6,4,357,357,목적,目的,purpose,lexeme,명사,名,hanja,目的,목쩍,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u05-001,3,6,5,358,358,방식,方式,way; means,lexeme,명사,名,hanja,方式,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u05-002,3,6,5,359,359,손윗사람,长辈,elder; senior,lexeme,명사,名,native,,소뉘싸람/소뉟싸람,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u05-003,3,6,5,360,360,손아랫사람,晚辈,junior; inferior,lexeme,명사,名,native,,손아래싸람/손아랟싸람,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c06-u05-004,3,6,5,361,361,각자,各自,each; individual,lexeme,명사,名,hanja,各自,각짜,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c06-u05-005,3,6,5,362,362,부담하다,负担,shoulder; bear,lexeme,동사,动,hybrid,負擔하다,부ː담하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u01-001,3,7,1,363,363,어떡하다,怎么办,what should one do?; what can be done?,lexeme,동사,动,native,,,Korean Basic Dictionary,1,editorial_override,editorial_override,1.0,verified,어떻게 하다 的缩约动词；原英文只有罗马字。
+v03-c07-u01-002,3,7,1,364,364,그만,就那样,right,lexeme,부사,副,native,,,Korean Basic Dictionary,8,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c07-u01-003,3,7,1,365,365,일기장,日记本,diary; journal,lexeme,명사,名,hanja,日記帳,일기짱,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u01-004,3,7,1,366,366,비밀,秘密,secret; covertness,lexeme,명사,名,hanja,祕密,비ː밀,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u01-005,3,7,1,367,367,내용,内容,content; details; circumstances,lexeme,명사,名,hanja,內容,내ː용,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c07-u01-006,3,7,1,368,368,잘못하다,做错，弄错,commit an error; blunder; misdo,lexeme,동사,动,native,,잘모타다,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c07-u01-007,3,7,1,369,369,착각하다,错以为，误以为,delude oneself; mistake,lexeme,동사,动,hybrid,錯覺하다,착까카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u01-008,3,7,1,370,370,오해하다,误会，误解,misunderstand,lexeme,동사,动,hybrid,誤解하다,오ː해하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u01-009,3,7,1,371,371,커피를 뽑다,从自动贩卖机上接咖啡,dispense coffee,expression,표현,表达,expression,커피(coffee) + 뽑다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u01-010,3,7,1,372,372,생강차,生姜茶,saenggangcha; ginger tea,lexeme,명사,名,hybrid,生薑차,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u01-011,3,7,1,373,373,할 수 없이,没办法,with no other choice,expression,표현,表达,expression,할(割) + 수(固) + 없이(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u01-012,3,7,1,374,374,제대로,合乎要求,right,lexeme,부사,副,native,,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u01-013,3,7,1,375,375,렌즈,透镜，镜头,lens,lexeme,명사,名,loanword,lens,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u01-014,3,7,1,376,376,멀리서,从远处,from afar,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c07-u02-001,3,7,2,377,377,친하다,亲近,close,lexeme,형용사,形,hybrid,親하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u02-002,3,7,2,378,378,끼리,(同类的）一群,among themselves; with each other,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c07-u02-003,3,7,2,379,379,비위생적이다,不卫生的,unhygienic,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c07-u02-004,3,7,2,380,380,불평하다,埋怨，抱怨,complain; grumble,lexeme,동사,动,hybrid,不平하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u02-005,3,7,2,381,381,사이,关系,relationship,lexeme,명사,名,native,,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u02-006,3,7,2,382,382,식사 예절,用餐礼节,table manners,expression,표현,表达,expression,식사(食事) + 예절(禮節),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u02-007,3,7,2,383,383,방문 예절,拜访礼节,visiting etiquette,expression,표현,表达,expression,방문(訪問) + 예절(禮節),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u02-008,3,7,2,384,384,언어 예절,说话礼节,speech etiquette,expression,표현,表达,expression,언어(言語) + 예절(禮節),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u02-009,3,7,2,385,385,전화 예절,电话礼节,telephone etiquette,expression,표현,表达,expression,전화(電話) + 예절(禮節),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u02-010,3,7,2,386,386,동성,同性,same sex,lexeme,명사,名,hanja,同性,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u02-011,3,7,2,387,387,친근감,亲近感,friendliness,lexeme,명사,名,hanja,親近感,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u02-012,3,7,2,388,388,표현,表达,expression; representation,lexeme,명사,名,hanja,表現,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u02-013,3,7,2,389,389,다닥다닥,密密麻麻地,in clusters; closely,lexeme,부사,副,native,,다닥따닥,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c07-u02-014,3,7,2,390,390,개성,个性,characteristic,lexeme,명사,名,hanja,個性,개ː성,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u02-015,3,7,2,391,391,꾸미다,装饰，打扮,decorate; adorn,lexeme,동사,动,native,,,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u02-016,3,7,2,392,392,문화 충격,文化冲击,culture shock,expression,표현,表达,expression,문화(文化) + 충격(衝擊),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u03-001,3,7,3,393,393,들르다,顺便去,drop by,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u03-002,3,7,3,394,394,부담,负担,burden; pressure,lexeme,명사,名,hanja,負擔,부ː담,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u03-003,3,7,3,395,395,직접적으로,直接,directly,expression,표현,表达,expression,직접적(直接的),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u03-004,3,7,3,396,396,그럴 리가요,怎么会呢,How could that be?,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c07-u03-005,3,7,3,397,397,오히려,反倒是,on the contrary,lexeme,부사,副,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u03-006,3,7,3,398,398,볼일,要办的事儿,business; things to do,lexeme,명사,名,native,,볼ː릴,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u03-007,3,7,3,399,399,사과하다,道歉,apologize,lexeme,동사,动,hybrid,謝過하다,사ː과하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u03-008,3,7,3,400,400,변명하다,辩解，辨明,make an excuse; justify,lexeme,동사,动,hybrid,辨明하다,변ː명하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u03-009,3,7,3,401,401,용서를 빌다,祈求宽恕，求饶,beg for forgiveness,expression,표현,表达,expression,용서(容恕) + 빌다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u03-010,3,7,3,402,402,양해를 구하다,求得原谅,ask for understanding,expression,표현,表达,expression,양해(諒解) + 구하다(求하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u03-011,3,7,3,403,403,행동,行动,action; movement behavior; deed,lexeme,명사,名,hanja,行動,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u03-012,3,7,3,404,404,옳다,对，正确,right; righteous,lexeme,형용사,形,native,,올타,Korean Basic Dictionary,7,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u03-013,3,7,3,405,405,횟수,次数，回数,number of times; frequency,lexeme,명사,名,hanja,回數,회쑤/휃쑤,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u04-001,3,7,4,406,406,오해를 사다,引起误会,cause a misunderstanding,expression,표현,表达,expression,오해(誤解) + 사다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c07-u04-002,3,7,4,407,407,부딪치다,碰，撞,hit; bump; crash,lexeme,동사,动,native,,부딛치다,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u04-003,3,7,4,408,408,계속,继续,continuance; succession,lexeme,명사,名,hanja,繼續,계ː속/게ː속,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c07-u04-004,3,7,4,409,409,표현하다,表示，表达,express; represent; manifest,lexeme,동사,动,hybrid,表現하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u04-005,3,7,4,410,410,화해하다,和解,reconcile; settle; compromise,lexeme,동사,动,hybrid,和解하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u04-006,3,7,4,411,411,알아듣다,听懂，听明白,catch; get; comprehend,lexeme,동사,动,native,,아라듣따,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u04-007,3,7,4,412,412,설득하다,说服,persuade,lexeme,동사,动,hybrid,說得하다,설뜨카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u04-008,3,7,4,413,413,진심,真心,truth; sincerity,lexeme,명사,名,hanja,眞心,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u04-009,3,7,4,414,414,무조건,无条件地,unconditionally,lexeme,부사,副,hanja,無條件,무조껀,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u04-010,3,7,4,415,415,어색하다,尴尬,awkward; embarrassing; uneasy,lexeme,형용사,形,hybrid,語塞하다,어ː새카다,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c07-u04-011,3,7,4,416,416,효과적이다,有效的,effective,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c07-u04-012,3,7,4,417,417,불만,不满,dissatisfaction,lexeme,명사,名,hanja,不滿,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u05-001,3,7,5,418,418,문화권,文化圈,cultural region,lexeme,명사,名,hanja,文化圈,문화꿘,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u05-002,3,7,5,419,419,차이,差异，不同,difference,lexeme,명사,名,hanja,差異,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c07-u05-003,3,7,5,420,420,팔짱을 끼다,挽着胳膊,link arms,expression,표현,表达,expression,팔짱(固) + 끼다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u01-001,3,8,1,421,421,일정,日程,program; schedule,lexeme,명사,名,hanja,日程,일쩡,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c08-u01-002,3,8,1,422,422,전체,全体,whole,lexeme,명사,名,hanja,全體,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-003,3,8,1,423,423,의논하다,商量，讨论,discuss,lexeme,동사,动,hybrid,議論하다,,Korean Basic Dictionary,1,editorial_override,dictionary_equivalent,1.0,verified,移除词典来源残留标记 ▽。
+v03-c08-u01-004,3,8,1,424,424,회원,会员,member,lexeme,명사,名,hanja,會員,회ː원/훼ː원,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-005,3,8,1,425,425,준비물,要准备的东西,supplies,lexeme,명사,名,hanja,準備物,준ː비물,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-006,3,8,1,426,426,진행,进行,progress,lexeme,명사,名,hanja,進行,진ː행,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u01-007,3,8,1,427,427,도시락,盒饭,lunchbox; packed lunch,lexeme,명사,名,native,,,Korean Basic Dictionary,2,editorial_override,editorial_override,1.0,verified,盒饭义；原英文 picnic 误配。
+v03-c08-u01-008,3,8,1,428,428,간식,零食,snack,lexeme,명사,名,hanja,間食,간ː식,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-009,3,8,1,429,429,잔디밭,草地,lawn; grassplot,lexeme,명사,名,native,,잔디받,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-010,3,8,1,430,430,(도시락을) 싸다,带盒饭,pack (a lunchbox),expression,표현,表达,expression,도시락(固) + 싸다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u01-011,3,8,1,431,431,구체적이다,具体的,specific; concrete,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c08-u01-012,3,8,1,432,432,나누다,分,divide; split,lexeme,동사,动,native,,,Korean Basic Dictionary,9,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c08-u01-013,3,8,1,433,433,장점,长处,strength,lexeme,명사,名,hanja,長點,장쩜,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u01-014,3,8,1,434,434,맡다,担任，负责,undertake; take care of; take on; be in charge of; take charge of,lexeme,동사,动,native,,맏따,Korean Basic Dictionary,10,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u01-015,3,8,1,435,435,비상약,紧急药品，备用药,emergency medicine,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c08-u02-001,3,8,2,436,436,어찌나,非常，很,so,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_form,dictionary_equivalent,0.78,medium,
+v03-c08-u02-002,3,8,2,437,437,발음,发音,pronunciation,lexeme,명사,名,hanja,發音,바름,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-003,3,8,2,438,438,마침,刚好，正好,opportunely; just at the time,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-004,3,8,2,439,439,언어 교환,语言交换学习,language exchange,expression,표현,表达,expression,언어(言語) + 교환(交換),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u02-005,3,8,2,440,440,시간이 나다,有时间,have time available,expression,표현,表达,expression,시간(時間) + 나다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u02-006,3,8,2,441,441,모국어,母语,mother tongue,lexeme,명사,名,hanja,母國語,모ː구거,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-007,3,8,2,442,442,기타,其他,etc.; and so on; and such,lexeme,명사,名,hanja,其他,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u02-008,3,8,2,443,443,조사,助词,postpositional particle; postpositional marker,lexeme,명사,名,hanja,助詞,조ː사,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u02-009,3,8,2,444,444,참고,参考，参照,reference,lexeme,명사,名,hanja,參考,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-010,3,8,2,445,445,게시판,告示牌,bulletin board; notice board,lexeme,명사,名,hanja,揭示板,게ː시판,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u02-011,3,8,2,446,446,현지인,当地人,native; local person,lexeme,명사,名,hanja,現地人,현ː지인,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-012,3,8,2,447,447,우정,友情,friendship,lexeme,명사,名,hanja,友情,우ː정,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u02-013,3,8,2,448,448,상관없다,无关,having no relation,lexeme,형용사,形,hybrid,相關없다,상과넙따,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c08-u03-001,3,8,3,449,449,표정,表情,facial expression,lexeme,명사,名,hanja,表情,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u03-002,3,8,3,450,450,어둡다,暗淡，阴沉,dark; dark-colored,lexeme,형용사,形,native,,어둡따,Korean Basic Dictionary,10,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c08-u03-003,3,8,3,451,451,아무,什么，任何,no,lexeme,관형사,冠,native,,아ː무,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u03-004,3,8,3,452,452,아무리,不管怎样,no way,lexeme,감탄사,叹,native,,아ː무리,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u03-005,3,8,3,453,453,말 못할,无法言语,unspeakable; unable to say,expression,표현,表达,expression,말(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-006,3,8,3,454,454,걱정을 하다,担心，担忧,worry,expression,표현,表达,expression,걱정(固) + 하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-007,3,8,3,455,455,문제가 생기다,出问题,a problem arises,expression,표현,表达,expression,문제(問題) + 생기다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-008,3,8,3,456,456,충고를 하다,忠告,give advice,expression,표현,表达,expression,충고(忠告) + 하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-009,3,8,3,457,457,의견을 말하다,表达意见,express an opinion,expression,표현,表达,expression,의견(意見) + 말하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-010,3,8,3,458,458,풀다,解答，消除,settle; come true,lexeme,동사,动,native,,,Korean Basic Dictionary,14,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c08-u03-011,3,8,3,459,459,해결하다,解决,solve; settle; resolve; fix,lexeme,동사,动,hybrid,解決하다,해ː결하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u03-012,3,8,3,460,460,(기분이) 상하다,伤心,feel hurt; be offended,expression,표현,表达,expression,기분(氣分) + 상하다(傷하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u03-013,3,8,3,461,461,적성,适合与否,aptitude,lexeme,명사,名,hanja,適性,적썽,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u03-014,3,8,3,462,462,결국,结果，最后,eventually; finally,lexeme,부사,副,hanja,結局,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u04-001,3,8,4,463,463,입학하다,入学,be enrolled at a school; enter a school,lexeme,동사,动,hybrid,入學하다,이파카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-002,3,8,4,464,464,원서,申请书,application,lexeme,명사,名,hanja,願書,원ː서,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u04-003,3,8,4,465,465,접수시키다,交付,submit; have registered,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c08-u04-004,3,8,4,466,466,성적표,成绩单,report card,lexeme,명사,名,hanja,成績表,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-005,3,8,4,467,467,면접 시험,面试,interview,expression,표현,表达,expression,면접(面接) + 시험(試驗),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u04-006,3,8,4,468,468,그밖에,此外，另外,besides; in addition,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c08-u04-007,3,8,4,469,469,상담실,咨询室,counseling office; counseling center; consultancy,lexeme,명사,名,hanja,相談室,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-008,3,8,4,470,470,상담 교사,咨询老师,school counselor,expression,표현,表达,expression,상담(相談) + 교사(敎師),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u04-009,3,8,4,471,471,조언,指教，指点,advice,lexeme,명사,名,hanja,助言,조ː언,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-010,3,8,4,472,472,상담하다,咨询，商谈,consult; counsel,lexeme,동사,动,hybrid,相談하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-011,3,8,4,473,473,심사,审查,examination; evaluation; screening,lexeme,명사,名,hanja,審査,,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u04-012,3,8,4,474,474,합격자,合格者,successful applicant; successful candidate; winner,lexeme,명사,名,hanja,合格者,합껵짜,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-013,3,8,4,475,475,등록금,学费,tuition,lexeme,명사,名,hanja,登錄金,등녹끔,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-014,3,8,4,476,476,납부,缴纳，交纳,payment,lexeme,명사,名,hanja,納付/納附,납뿌,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-015,3,8,4,477,477,한국학,韩国学,Korean studies,lexeme,명사,名,hanja,韓國學,한ː구칵,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-016,3,8,4,478,478,용지,用纸,paper,lexeme,명사,名,hanja,用紙,용ː지,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-017,3,8,4,479,479,당장,当场，马上,right now,lexeme,명사,名,hanja,當場,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c08-u04-018,3,8,4,480,480,취업,就业,getting a job,lexeme,명사,名,hanja,就業,취ː업,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u04-019,3,8,4,481,481,담임 선생님,班主任,homeroom teacher,expression,표현,表达,expression,담임(擔任) + 선생님(先生님),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c08-u05-001,3,8,5,482,482,교육,教育,education,lexeme,명사,名,hanja,敎育,교ː육,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u05-002,3,8,5,483,483,예의,礼节，礼仪,courtesy; manners,lexeme,명사,名,hanja,禮儀,예의/예이,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u05-003,3,8,5,484,484,공경,恭敬，尊敬,respect,lexeme,명사,名,hanja,恭敬,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c08-u05-004,3,8,5,485,485,스승,老师,teacher,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u01-001,3,9,1,486,486,뭐,什么,what,lexeme,대명사,代,native,,뭐ː,Korean Basic Dictionary,10,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u01-002,3,9,1,487,487,갑자기,突然,suddenly; all of a sudden,lexeme,부사,副,native,,갑짜기,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u01-003,3,9,1,488,488,밤을 새우다,熬夜，通宵,stay up all night,expression,표현,表达,expression,새우다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u01-004,3,9,1,489,489,어쩐지,怪不得，难怪,somehow,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u01-005,3,9,1,490,490,부탁을 받다,接受拜托,be asked a favor,expression,표현,表达,expression,부탁(付託) + 받다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u01-006,3,9,1,491,491,부탁을 들어주다,答应拜托,do someone a favor,expression,표현,表达,expression,부탁(付託) + 들어주다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u01-007,3,9,1,492,492,거절을 하다,拒绝,refuse; decline,expression,표현,表达,expression,거절(拒絕) + 하다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u01-008,3,9,1,493,493,거절을 당하다,被拒绝,be refused; be rejected,expression,표현,表达,expression,거절(拒絕) + 당하다(當하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u01-009,3,9,1,494,494,필기하다,做笔记,write; write down,lexeme,동사,动,hybrid,筆記하다,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u01-010,3,9,1,495,495,한꺼번에,一次，一下子,at a stroke; at one blow; all at once; at the same time; all together,lexeme,부사,副,native,,한꺼버네,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u02-001,3,9,2,496,496,지나가다,路过，经过,pass; cross,lexeme,동사,动,native,,,Korean Basic Dictionary,9,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u02-002,3,9,2,497,497,내밀다,递上，伸出,protrude; stick out; extend,lexeme,동사,动,native,,내ː밀다,Korean Basic Dictionary,6,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u02-003,3,9,2,498,498,기린,长颈鹿,giraffe,lexeme,명사,名,hanja,麒麟,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u02-004,3,9,2,499,499,발짝,步,step,lexeme,의존 명사,依存名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u02-005,3,9,2,500,500,물러나다,后退,step aside; step back; move back,lexeme,동사,动,native,,,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u02-006,3,9,2,501,501,용돈,零花钱,pocket money; allowance,lexeme,명사,名,hybrid,用돈,용ː똔,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u02-007,3,9,2,502,502,추천서,推荐信,letter of recommendation; letter of reference,lexeme,명사,名,hanja,推薦書,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u02-008,3,9,2,503,503,떨어지다,有距离，分离,fall off; come off; be removed,lexeme,동사,动,native,,떠러지다,Korean Basic Dictionary,30,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u02-009,3,9,2,504,504,분명하다,分明，明确,clear,lexeme,형용사,形,hybrid,分明하다,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u02-010,3,9,2,505,505,도움을 청하다,请求帮助,ask for help,expression,표현,表达,expression,도움(固) + 청하다(請하다),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u02-011,3,9,2,506,506,기술,技术,technology,lexeme,명사,名,hanja,技術,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u02-012,3,9,2,507,507,조건,条件,condition,lexeme,명사,名,hanja,條件,조껀,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u03-001,3,9,3,508,508,발표,发表，报告,announcement; presentation; release; roll out,lexeme,명사,名,hanja,發表,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u03-002,3,9,3,509,509,순서,顺序,order; sequence,lexeme,명사,名,hanja,順序,순ː서,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u03-003,3,9,3,510,510,지방,地方,provinces; countryside,lexeme,명사,名,hanja,地方,,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u03-004,3,9,3,511,511,안 되다,不行，不可以,not work; not be allowed,expression,표현,表达,expression,안(固) + 되다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u03-005,3,9,3,512,512,불가능하다,不可能,impossible,lexeme,형용사,形,hybrid,不可能하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u03-006,3,9,3,513,513,승낙,承诺，应允,approval; consent; permission,lexeme,명사,名,hanja,承諾,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u03-007,3,9,3,514,514,이기적이다,自私的,selfish,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c09-u03-008,3,9,3,515,515,한계,边际，额度,limit; boundary,lexeme,명사,名,hanja,限界,한ː계/한ː게,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u03-009,3,9,3,516,516,파악하다,掌握,understand; identify; figure out,lexeme,동사,动,hybrid,把握하다,파아카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u03-010,3,9,3,517,517,쩔쩔매다,手足无措,struggle,lexeme,동사,动,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u04-001,3,9,4,518,518,거래처,客户,customer; client,lexeme,명사,名,hanja,去來處,거ː래처,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u04-002,3,9,4,519,519,귀하다,尊贵，重要,venerable,lexeme,형용사,形,hybrid,貴하다,귀ː하다,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u04-003,3,9,4,520,520,마중을 나가다,迎接，出迎,go out to meet someone,expression,표현,表达,expression,마중(固) + 나가다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u04-004,3,9,4,521,521,통역,翻译，口译,interpretation,lexeme,명사,名,hanja,通譯,,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c09-u04-005,3,9,4,522,522,곤란하다,困难，为难,difficult; embarrassing; awkward,lexeme,형용사,形,hybrid,困難하다,골ː란하다,Korean Basic Dictionary,1,editorial_override,dictionary_equivalent,1.0,verified,移除词典来源残留标记 ▽。
+v03-c09-u04-006,3,9,4,523,523,사모님,对上司、长者的妻子的敬称,one's superior's wife,lexeme,명사,名,hybrid,師母님,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c09-u04-007,3,9,4,524,524,기운이 없다,无精打采,have no energy,expression,표현,表达,expression,기운(固) + 없다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u04-008,3,9,4,525,525,성의가 없다,没诚意,be insincere,expression,표현,表达,expression,성의(誠意) + 없다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c09-u05-001,3,9,5,526,526,속담,谚语,adage; old saying; proverb,lexeme,명사,名,hanja,俗談,속땀,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c09-u05-002,3,9,5,527,527,정직하다,正直,honest,lexeme,형용사,形,hybrid,正直하다,정ː지카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-001,3,10,1,528,528,추억하다,回忆,remember; recall; look back,lexeme,동사,动,hybrid,追憶하다,추어카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-002,3,10,1,529,529,유난히,特别,fastidiously; unusually,lexeme,부사,副,native,,유ː난히,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-003,3,10,1,530,530,관련,相关，联系,being related,lexeme,명사,名,hanja,關聯/關連,괄련,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-004,3,10,1,531,531,말이 나온 김에,说到这儿,now that we're on the subject,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c10-u01-005,3,10,1,532,532,회상,回想,reflection; recollection; retrospection,lexeme,명사,名,hanja,回想,회상/훼상,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-006,3,10,1,533,533,준비,准备,preparation,lexeme,명사,名,hanja,準備,준ː비,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-007,3,10,1,534,534,상상,想象,imagination,lexeme,명사,名,hanja,想像,상ː상,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-008,3,10,1,535,535,반성,反省,introspection; self-contemplation,lexeme,명사,名,hanja,反省,반ː성,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u01-009,3,10,1,536,536,후회,后悔,regret; remorse; repentance,lexeme,명사,名,hanja,後悔,후ː회/후ː훼,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-010,3,10,1,537,537,기억하다,记住，记忆,remember; recall,lexeme,동사,动,hybrid,記憶하다,기어카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u01-011,3,10,1,538,538,깜빡하다,一下子忘记,be blurred,lexeme,동사,动,native,,깜빠카다,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u01-012,3,10,1,539,539,외우다,背诵,memorize,lexeme,동사,动,native,,외우다/웨우다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u01-013,3,10,1,540,540,잔소리,唠叨,nitpicking; preaching; scolding,lexeme,명사,名,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u01-014,3,10,1,541,541,그립다,想念,miss,lexeme,형용사,形,native,,그립따,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u01-015,3,10,1,542,542,단짝 친구,好朋友,best friend,expression,표현,表达,expression,단짝(單짝) + 친구(親舊),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c10-u01-016,3,10,1,543,543,통통하다,胖乎乎的,chubby; stout,lexeme,형용사,形,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u01-017,3,10,1,544,544,땡땡이치다,逃课，逃学,loaf; be idle,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_form,dictionary_equivalent,0.78,medium,
+v03-c10-u01-018,3,10,1,545,545,떠오르다,升起，浮现,come across one's mind; strike,lexeme,동사,动,native,,,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u01-019,3,10,1,546,546,들키다,被发觉,be found,lexeme,동사,动,native,,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u02-001,3,10,2,547,547,변하다,变,change; turn; become different,lexeme,동사,动,hybrid,變하다,변ː하다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u02-002,3,10,2,548,548,양쪽,两侧,both sides; both parties,lexeme,명사,名,hybrid,兩쪽,양ː쪽,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u02-003,3,10,2,549,549,단층,单层,being one-storied,lexeme,명사,名,hanja,單層,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u02-004,3,10,2,550,550,발전되다,发展,be developed; be advanced,lexeme,동사,动,hybrid,發展되다,발쩐되다/발쩐뒈다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u02-005,3,10,2,551,551,시간이 흐르다,时间流逝,time passes,expression,표현,表达,expression,시간(時間) + 흐르다(固),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c10-u02-006,3,10,2,552,552,좋아지다,变好，好起来,get better; improve,expression,표현,表达,expression,,,,0,unmatched,editorial_override,0.15,low,English gloss added by project editorial pass.
+v03-c10-u02-007,3,10,2,553,553,향상되다,提高，向上,improve; enhance; make progress,lexeme,동사,动,hybrid,向上되다,향ː상되다/향ː상뒈다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u02-008,3,10,2,554,554,늘다,增加，增长,be extended,lexeme,동사,动,native,,,Korean Basic Dictionary,6,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u02-009,3,10,2,555,555,바뀌다,被改变,become different,lexeme,동사,动,native,,,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u02-010,3,10,2,556,556,세월,岁月,time,lexeme,명사,名,hanja,歲月,세ː월,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u02-011,3,10,2,557,557,자부심,自豪,pride,lexeme,명사,名,hanja,自負心,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u02-012,3,10,2,558,558,초고속,超高速,superhigh speed; ultrafast speed,lexeme,명사,名,hanja,超高速,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u02-013,3,10,2,559,559,아쉽다,可惜,being a pity,lexeme,형용사,形,native,,아쉽따,Korean Basic Dictionary,4,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u02-014,3,10,2,560,560,예전,过去,past; old days,lexeme,명사,名,native,,예ː전,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-001,3,10,3,561,561,어느새,不知不觉,already; so soon,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-002,3,10,3,562,562,귀국하다,回国,return to one's country,lexeme,동사,动,hybrid,歸國하다,귀ː구카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-003,3,10,3,563,563,사정,事情，情况,situation; circumstances,lexeme,명사,名,hanja,事情,사ː정,Korean Basic Dictionary,4,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u03-004,3,10,3,564,564,바라다,期盼,want; hope; wish,lexeme,동사,动,native,,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u03-005,3,10,3,565,565,가정하다,假定，假设,suppose; assume,lexeme,동사,动,hybrid,假定하다,가ː정하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-006,3,10,3,566,566,상상하다,想象,imagine,lexeme,동사,动,hybrid,想像하다,상ː상하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-007,3,10,3,567,567,추측하다,推测,guess,lexeme,동사,动,hybrid,推測하다,추츠카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-008,3,10,3,568,568,예상하다,预想,forecast; expect,lexeme,동사,动,hybrid,豫想하다,예ː상하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-009,3,10,3,569,569,경우,情况,case; circumstance,lexeme,명사,名,hanja,境遇,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u03-010,3,10,3,570,570,상황,状况,situation; condition,lexeme,명사,名,hanja,狀況,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-011,3,10,3,571,571,상태,状态,condition; state,lexeme,명사,名,hanja,狀態,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-012,3,10,3,572,572,실망하다,失望,be disappointed,lexeme,동사,动,hybrid,失望하다,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-013,3,10,3,573,573,만족하다,满意,be satisfied,lexeme,동사,动,hybrid,滿足하다,만조카다,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u03-014,3,10,3,574,574,대통령,总统,president,lexeme,명사,名,hanja,大統領,대ː통녕,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-015,3,10,3,575,575,태어나다,出生,be born,lexeme,동사,动,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u03-016,3,10,3,576,576,천재,天才,genius,lexeme,명사,名,hanja,天才,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u03-017,3,10,3,577,577,이루다,实现,achieve; accomplish,lexeme,동사,动,native,,,Korean Basic Dictionary,5,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u03-018,3,10,3,578,578,결과적으로,结果,as a result; consequently,expression,표현,表达,expression,결과적(結果的),,Korean Basic Dictionary,0,component_match,editorial_override,0.42,low,English gloss added by project editorial pass.
+v03-c10-u04-001,3,10,4,579,579,드디어,最终,at last; finally,lexeme,부사,副,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-002,3,10,4,580,580,새롭다,新,new; fresh,lexeme,형용사,形,native,,새롭따,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u04-003,3,10,4,581,581,가사,家务,housework; chores,lexeme,명사,名,hanja,家事,,Korean Basic Dictionary,3,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u04-004,3,10,4,582,582,판매되다,出售，上市,be sold,lexeme,동사,动,hybrid,販賣되다,판매되다/판매뒈다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-005,3,10,4,583,583,완벽하다,完美,perfect,lexeme,형용사,形,hybrid,完璧하다,완벼카다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-006,3,10,4,584,584,기능,功能,function; role,lexeme,명사,名,hanja,機能,,Korean Basic Dictionary,3,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u04-007,3,10,4,585,585,신기술,新技术,new technology,lexeme,명사,名,hanja,新技術,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-008,3,10,4,586,586,신형,新型,new style; novelty,lexeme,명사,名,hanja,新型,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-009,3,10,4,587,587,신기록,新纪录,new record,lexeme,명사,名,hanja,新記錄,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-010,3,10,4,588,588,신제품,新产品,new product,lexeme,명사,名,hanja,新製品,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-011,3,10,4,589,589,신상품,新商品,new product,lexeme,명사,名,hanja,新商品,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-012,3,10,4,590,590,발표되다,被发表，问世,be published; be released; be rolled out,lexeme,동사,动,hybrid,發表되다,발표되다/발표뒈다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-013,3,10,4,591,591,나타나다,出现,appear; come into sight,lexeme,동사,动,native,,,Korean Basic Dictionary,5,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u04-014,3,10,4,592,592,밝혀지다,查明，弄清楚,be revealed; be disclosed,lexeme,동사,动,native,,발켜지다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u04-015,3,10,4,593,593,알려지다,传开，流传,be well known,lexeme,동사,动,native,,알ː려지다,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u04-016,3,10,4,594,594,발견되다,被发现,be discovered; be found,lexeme,동사,动,hybrid,發見되다,발견되다/발견뒈다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-017,3,10,4,595,595,단순히,单纯地,just,lexeme,부사,副,hybrid,單純히,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u04-018,3,10,4,596,596,관계자,相关人士,interested party,lexeme,명사,名,hanja,關係者,관계자/관게자,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-019,3,10,4,597,597,소비자,消费者,consumer,lexeme,명사,名,hanja,消費者,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-020,3,10,4,598,598,요구,要求,request; demand,lexeme,명사,名,hanja,要求,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u04-021,3,10,4,599,599,응모하다,应征,apply for; enter,lexeme,동사,动,hybrid,應募하다,응ː모하다,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u05-001,3,10,5,600,600,수도,首都,capital,lexeme,명사,名,hanja,首都,,Korean Basic Dictionary,6,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u05-002,3,10,5,601,601,한가운데,正中间,middle; center; heart,lexeme,명사,名,native,,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u05-003,3,10,5,602,602,대표,代表,representative,lexeme,명사,名,hanja,代表,대ː표,Korean Basic Dictionary,2,exact_ambiguous_tie,dictionary_equivalent,0.45,low,
+v03-c10-u05-004,3,10,5,603,603,기적,奇迹,miracle; wonder,lexeme,명사,名,hanja,奇跡/奇迹,,Korean Basic Dictionary,2,exact_ranked_gloss,dictionary_equivalent,0.91,high,
+v03-c10-u05-005,3,10,5,604,604,요지,要地，重地,key points; gist,lexeme,명사,名,hanja,要旨,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,
+v03-c10-u05-006,3,10,5,605,605,중심지,中心地,mecca; center,lexeme,명사,名,hanja,中心地,,Korean Basic Dictionary,1,exact_unique_gloss,dictionary_equivalent,0.97,high,

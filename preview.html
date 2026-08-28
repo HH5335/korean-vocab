@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BluePink 한글 · 蓝粉韩语单词 — 主页预览</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --blue: #5B8DFF;
+    --blue-deep: #3D6BFF;
+    --pink: #FF8FC7;
+    --pink-deep: #FF6FB0;
+    --ink: #2b3452;
+    --ink-2: #6b7494;
+    --line: #e6e9f7;
+    --card: #ffffff;
+  }
+  body {
+    font-family: "Segoe UI", "Microsoft YaHei", "Malgun Gothic", sans-serif;
+    background: linear-gradient(160deg, #eef3ff 0%, #fff0f7 60%, #ffeef6 100%);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- 导航栏 ---------- */
+  .nav {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(255, 255, 255, 0.86);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--line);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 13px 44px;
+  }
+  .logo { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 19px; }
+  .logo .dots { display: flex; gap: 4px; }
+  .logo .dots span { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+  .logo .dots span:nth-child(1) { background: var(--blue); }
+  .logo .dots span:nth-child(2) { background: var(--pink); }
+  .logo small { color: var(--ink-2); font-weight: 600; font-size: 12px; }
+  .nav-links { display: flex; gap: 26px; font-size: 14.5px; font-weight: 600; color: var(--ink-2); }
+  .nav-links .active { color: var(--blue-deep); position: relative; }
+  .nav-links .active::after {
+    content: ""; position: absolute; left: 0; right: 0; bottom: -6px; height: 3px;
+    border-radius: 2px; background: linear-gradient(90deg, var(--blue), var(--pink));
+  }
+  .avatar {
+    width: 36px; height: 36px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--blue), var(--pink));
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-size: 17px; box-shadow: 0 4px 10px rgba(93, 128, 255, .35);
+  }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 34px 24px 60px; }
+
+  /* ---------- Hero ---------- */
+  .hero {
+    position: relative; overflow: hidden;
+    background: linear-gradient(115deg, #4a7dff 0%, #6f96ff 45%, #ff8fc7 100%);
+    border-radius: 26px;
+    padding: 46px 50px;
+    color: #fff;
+    display: flex; justify-content: space-between; align-items: center; gap: 30px;
+    box-shadow: 0 18px 44px rgba(93, 128, 255, .32);
+  }
+  .hero::before, .hero::after {
+    content: ""; position: absolute; border-radius: 50%;
+    background: rgba(255, 255, 255, .14);
+  }
+  .hero::before { width: 240px; height: 240px; top: -90px; right: -60px; }
+  .hero::after { width: 150px; height: 150px; bottom: -70px; right: 220px; }
+  .hero .hello { font-size: 14px; opacity: .9; letter-spacing: 1px; }
+  .hero h1 { font-size: 34px; margin: 10px 0 8px; letter-spacing: .5px; }
+  .hero .sub { font-size: 15px; opacity: .92; }
+  .cta-row { margin-top: 26px; display: flex; gap: 14px; }
+  .btn-main {
+    border: 0; cursor: pointer;
+    background: #fff; color: var(--blue-deep);
+    font-weight: 700; font-size: 15px;
+    padding: 13px 26px; border-radius: 999px;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, .16);
+  }
+  .btn-ghost {
+    border: 1.5px solid rgba(255, 255, 255, .75); cursor: pointer;
+    background: transparent; color: #fff;
+    font-weight: 600; font-size: 15px;
+    padding: 13px 24px; border-radius: 999px;
+  }
+  .hero-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; min-width: 340px; }
+  .stat-card {
+    background: rgba(255, 255, 255, .18);
+    border: 1px solid rgba(255, 255, 255, .28);
+    backdrop-filter: blur(6px);
+    border-radius: 18px; padding: 16px 18px;
+  }
+  .stat-card .label { font-size: 12.5px; opacity: .9; margin-bottom: 6px; }
+  .stat-card .value { font-size: 22px; font-weight: 800; }
+  .stat-card .value small { font-size: 13px; font-weight: 600; opacity: .85; }
+  .mini-bar { height: 7px; border-radius: 4px; background: rgba(255, 255, 255, .3); margin-top: 10px; overflow: hidden; }
+  .mini-bar i { display: block; height: 100%; width: 66%; border-radius: 4px; background: #fff; }
+
+  /* ---------- 区块标题 ---------- */
+  .section { margin-top: 44px; }
+  .sec-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 20px; }
+  .sec-head h2 { font-size: 22px; }
+  .sec-head .hint { color: var(--ink-2); font-size: 13.5px; }
+  .tag {
+    display: inline-block; font-size: 11px; font-weight: 700;
+    padding: 3px 10px; border-radius: 999px; letter-spacing: .5px;
+  }
+  .tag-blue { background: #e4edff; color: var(--blue-deep); }
+  .tag-pink { background: #ffe4f0; color: #e0528f; }
+
+  /* ---------- 词书卡片 ---------- */
+  .grid-books { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+  .book {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 18px; padding: 20px;
+    transition: transform .18s ease, box-shadow .18s ease;
+    cursor: pointer;
+  }
+  .book:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(93, 128, 255, .18); }
+  .book .name { font-weight: 700; font-size: 15.5px; margin: 10px 0 4px; }
+  .book .meta { color: var(--ink-2); font-size: 12.5px; margin-bottom: 14px; }
+  .book .prog { height: 8px; border-radius: 5px; background: #eef1fb; overflow: hidden; }
+  .book .prog i { display: block; height: 100%; border-radius: 5px; background: linear-gradient(90deg, var(--blue), var(--pink)); }
+  .book .prog-text { margin-top: 8px; font-size: 12px; color: var(--ink-2); font-weight: 600; }
+
+  /* ---------- 模式卡片 ---------- */
+  .grid-modes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  .mode {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 20px; padding: 26px;
+    display: flex; flex-direction: column;
+    transition: transform .18s ease, box-shadow .18s ease;
+    cursor: pointer;
+  }
+  .mode:hover { transform: translateY(-4px); box-shadow: 0 14px 30px rgba(255, 111, 176, .18); }
+  .mode .icon {
+    width: 52px; height: 52px; border-radius: 16px;
+    display: flex; align-items: center; justify-content: center; font-size: 26px;
+    margin-bottom: 16px;
+  }
+  .mode:nth-child(1) .icon { background: linear-gradient(135deg, #e4edff, #d3e2ff); }
+  .mode:nth-child(2) .icon { background: linear-gradient(135deg, #ffe4f0, #ffd2e7); }
+  .mode:nth-child(3) .icon { background: linear-gradient(135deg, #e4edff, #ffe4f0); }
+  .mode h3 { font-size: 17.5px; margin-bottom: 6px; }
+  .mode p { color: var(--ink-2); font-size: 13.5px; line-height: 1.65; flex: 1; }
+  .mode .go {
+    margin-top: 18px; font-weight: 700; font-size: 14px; color: var(--blue-deep);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .mode .new {
+    background: linear-gradient(90deg, var(--pink-deep), var(--pink));
+    color: #fff; font-size: 10.5px; padding: 2px 9px; border-radius: 999px;
+    margin-left: 6px; vertical-align: 2px;
+  }
+
+  /* ---------- 歌词单词区 ---------- */
+  .grid-lyrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  .lyric {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 20px; padding: 22px;
+    position: relative; overflow: hidden;
+  }
+  .lyric::before {
+    content: "♪"; position: absolute; right: -6px; top: -16px;
+    font-size: 96px; color: #f2f5ff;
+  }
+  .lyric .word { font-size: 24px; font-weight: 800; }
+  .lyric .word small { font-size: 13px; color: var(--ink-2); font-weight: 600; margin-left: 8px; }
+  .lyric .def { color: var(--ink-2); font-size: 13.5px; margin: 6px 0 14px; }
+  .lyric .quote {
+    background: #f6f8ff; border-left: 4px solid var(--blue);
+    border-radius: 8px; padding: 12px 14px;
+    font-size: 14.5px; font-weight: 600; color: #3c4670;
+    margin-bottom: 14px;
+  }
+  .lyric .src { font-size: 12.5px; color: var(--ink-2); margin-bottom: 16px; }
+  .lyric .src b { color: var(--ink); }
+  .lyric .actions { display: flex; gap: 10px; }
+  .btn-play {
+    border: 0; cursor: pointer;
+    background: linear-gradient(90deg, var(--blue), var(--pink));
+    color: #fff; font-weight: 700; font-size: 13px;
+    padding: 9px 18px; border-radius: 999px;
+  }
+  .btn-audio {
+    border: 1.5px solid var(--pink); cursor: pointer;
+    background: #fff; color: #e0528f;
+    font-weight: 700; font-size: 13px;
+    padding: 8px 16px; border-radius: 999px;
+  }
+
+  /* ---------- 统计区 ---------- */
+  .grid-stats { display: grid; grid-template-columns: 1.6fr 1.4fr 1fr; gap: 18px; }
+  .panel {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 20px; padding: 24px;
+  }
+  .panel h3 { font-size: 15.5px; margin-bottom: 4px; }
+  .panel .sub { font-size: 12.5px; color: var(--ink-2); margin-bottom: 16px; }
+  .heatmap { display: grid; grid-template-rows: repeat(7, 12px); grid-auto-flow: column; grid-auto-columns: 12px; gap: 4px; }
+  .heatmap .cell { width: 12px; height: 12px; border-radius: 3.5px; }
+  .legend { display: flex; align-items: center; gap: 6px; font-size: 11.5px; color: var(--ink-2); margin-top: 14px; }
+  .legend i { width: 11px; height: 11px; border-radius: 3px; display: inline-block; }
+  .curve-wrap { height: 150px; position: relative; }
+  .week-list { display: flex; flex-direction: column; gap: 12px; }
+  .week-item { display: flex; justify-content: space-between; font-size: 13.5px; }
+  .week-item .k { color: var(--ink-2); }
+  .week-item .v { font-weight: 700; }
+
+  footer {
+    margin-top: 56px; text-align: center;
+    color: var(--ink-2); font-size: 12.5px; line-height: 2;
+  }
+  footer .dots { display: inline-flex; gap: 4px; margin-right: 6px; }
+  footer .dots span { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+  footer .dots span:nth-child(1) { background: var(--blue); }
+  footer .dots span:nth-child(2) { background: var(--pink); }
+</style>
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <nav class="nav">
+    <div class="logo">
+      <span class="dots"><span></span><span></span></span>
+      BluePink 한글 <small>蓝粉韩语单词</small>
+    </div>
+    <div class="nav-links">
+      <a class="active" href="#">首页</a>
+      <a href="#">单词书</a>
+      <a href="#">检测</a>
+      <a href="#">词汇量测试</a>
+      <a href="#">统计</a>
+    </div>
+    <div class="avatar">😊</div>
+  </nav>
+
+  <div class="wrap">
+
+    <!-- Hero -->
+    <section class="hero">
+      <div>
+        <div class="hello">안녕하세요! 👋 오늘도 화이팅!</div>
+        <h1>今天也一起背单词吧</h1>
+        <div class="sub">延世 · TOPIK 词书 × SEVENTEEN 歌词语境，让单词住进耳朵里 💙💗</div>
+        <div class="cta-row">
+          <button class="btn-main">▶ 开始今日学习</button>
+          <button class="btn-ghost">📖 浏览单词书</button>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-card">
+          <div class="label">今日进度</div>
+          <div class="value">20 <small>/ 30 词</small></div>
+          <div class="mini-bar"><i style="width:66%"></i></div>
+        </div>
+        <div class="stat-card">
+          <div class="label">连续打卡</div>
+          <div class="value">12 <small>天 🔥</small></div>
+        </div>
+        <div class="stat-card">
+          <div class="label">待复习</div>
+          <div class="value">15 <small>词</small></div>
+        </div>
+        <div class="stat-card">
+          <div class="label">估算词汇量</div>
+          <div class="value">1,204 <small>词 ⭐</small></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 单词书 -->
+    <section class="section">
+      <div class="sec-head">
+        <h2>📚 选择单词书</h2>
+        <span class="hint">延世韩国语系列 · TOPIK 考级词表</span>
+      </div>
+      <div class="grid-books">
+        <div class="book">
+          <span class="tag tag-blue">初级</span>
+          <div class="name">延世韩国语 1</div>
+          <div class="meta">586 词 · 已学 246</div>
+          <div class="prog"><i style="width:42%"></i></div>
+          <div class="prog-text">42%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-blue">初级</span>
+          <div class="name">延世韩国语 2</div>
+          <div class="meta">620 词 · 已学 112</div>
+          <div class="prog"><i style="width:18%"></i></div>
+          <div class="prog-text">18%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-pink">中级</span>
+          <div class="name">延世韩国语 3</div>
+          <div class="meta">650 词 · 未开始</div>
+          <div class="prog"><i style="width:0%"></i></div>
+          <div class="prog-text">0%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-pink">中级</span>
+          <div class="name">延世韩国语 4</div>
+          <div class="meta">680 词 · 未开始</div>
+          <div class="prog"><i style="width:0%"></i></div>
+          <div class="prog-text">0%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-pink">高级</span>
+          <div class="name">延世韩国语 5</div>
+          <div class="meta">700 词 · 未开始</div>
+          <div class="prog"><i style="width:0%"></i></div>
+          <div class="prog-text">0%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-pink">高级</span>
+          <div class="name">延世韩国语 6</div>
+          <div class="meta">720 词 · 未开始</div>
+          <div class="prog"><i style="width:0%"></i></div>
+          <div class="prog-text">0%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-blue">TOPIK</span>
+          <div class="name">TOPIK 初级词表</div>
+          <div class="meta">1,800 词 · 已学 1,170</div>
+          <div class="prog"><i style="width:65%"></i></div>
+          <div class="prog-text">65%</div>
+        </div>
+        <div class="book">
+          <span class="tag tag-blue">TOPIK</span>
+          <div class="name">TOPIK 中高级词表</div>
+          <div class="meta">3,600 词 · 已学 430</div>
+          <div class="prog"><i style="width:12%"></i></div>
+          <div class="prog-text">12%</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 学习模式 -->
+    <section class="section">
+      <div class="sec-head">
+        <h2>🎮 学习模式</h2>
+        <span class="hint">直接背 · 每日计划 · 词汇量检测</span>
+      </div>
+      <div class="grid-modes">
+        <div class="mode">
+          <div class="icon">📖</div>
+          <h3>直接背诵</h3>
+          <p>打开词书直接进入闪卡模式：翻面、发音、NAVER 释义、歌词语境，随到随背。</p>
+          <div class="go">进入闪卡模式 →</div>
+        </div>
+        <div class="mode">
+          <div class="icon">🎯</div>
+          <h3>每日计划 + 检测</h3>
+          <p>设定每天背 N 个词 → 背完自动进入四种题型检测，答对弹夸奖表情包，答错进入艾宾浩斯复习队列。</p>
+          <div class="go">设定今日计划 →</div>
+        </div>
+        <div class="mode">
+          <div class="icon">🧪</div>
+          <h3>词汇量检测<span class="new">NEW</span></h3>
+          <p>3 分钟随机抽样估算：按 TOPIK 词频分层出词，你自评认识与否，估算总词汇量并对照 TOPIK 等级。</p>
+          <div class="go">开始测试 →</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 歌词单词特色区 -->
+    <section class="section">
+      <div class="sec-head">
+        <h2>🎵 GOING! 歌词单词</h2>
+        <span class="hint">同一个单词，在歌里遇见一次就忘不掉（示例数据）</span>
+      </div>
+      <div class="grid-lyrics">
+        <div class="lyric">
+          <div class="word">기분 <small>[名]</small></div>
+          <div class="def">心情 · 气氛 · 情绪</div>
+          <div class="quote">기분 기분 기분이 좋아져!</div>
+          <div class="src">出自 🎵 <b>SEVENTEEN</b> 《아주 NICE》 副歌</div>
+          <div class="actions">
+            <button class="btn-play">▶ 跳转播放 0:42</button>
+            <button class="btn-audio">🔊 站内音频</button>
+          </div>
+        </div>
+        <div class="lyric">
+          <div class="word">파이팅 <small>[感]</small></div>
+          <div class="def">加油！</div>
+          <div class="quote">파이팅 해야지, 파이팅 해야지!</div>
+          <div class="src">出自 🎵 <b>BSS</b> 《파이팅 해야지》 副歌</div>
+          <div class="actions">
+            <button class="btn-play">▶ 跳转播放 0:35</button>
+            <button class="btn-audio">🔊 站内音频</button>
+          </div>
+        </div>
+        <div class="lyric">
+          <div class="word">미안해요 <small>[形/动]</small></div>
+          <div class="def">对不起 · 抱歉</div>
+          <div class="quote">미안해요~ 정말 미안해요~</div>
+          <div class="src">出自 📺 <b>GOING SEVENTEEN</b> 示例片段</div>
+          <div class="actions">
+            <button class="btn-play">▶ 跳转播放</button>
+            <button class="btn-audio">🔊 站内音频</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 统计区 -->
+    <section class="section">
+      <div class="sec-head">
+        <h2>📈 我的学习足迹</h2>
+        <span class="hint">打卡热力图 · 记忆保持率 · 本周小结</span>
+      </div>
+      <div class="grid-stats">
+        <div class="panel">
+          <h3>🔥 每日打卡</h3>
+          <div class="sub">最近 15 周 · 颜色越深学习越多</div>
+          <div class="heatmap" id="heatmap"></div>
+          <div class="legend">
+            少 <i style="background:#e9eefb"></i><i style="background:#b3ccff"></i><i style="background:#6f95f7"></i><i style="background:#ff9ecb"></i> 多
+          </div>
+        </div>
+        <div class="panel">
+          <h3>🧠 记忆保持率</h3>
+          <div class="sub">艾宾浩斯复习让曲线变平缓（示例）</div>
+          <div class="curve-wrap">
+            <svg width="100%" height="150" viewBox="0 0 300 150" preserveAspectRatio="none">
+              <defs>
+                <linearGradient id="curveGrad" x1="0" y1="0" x2="1" y2="0">
+                  <stop offset="0%" stop-color="#5B8DFF"/><stop offset="100%" stop-color="#FF8FC7"/>
+                </linearGradient>
+              </defs>
+              <polyline points="0,30 30,78 60,96 90,104 120,60 150,88 180,97 210,55 240,84 270,93 300,50"
+                fill="none" stroke="url(#curveGrad)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <polyline points="0,30 30,72 60,88 90,98 120,98 150,104 180,104 210,104 240,104 270,104 300,104"
+                fill="none" stroke="#d5deee" stroke-width="2" stroke-dasharray="5 5"/>
+            </svg>
+          </div>
+          <div class="legend" style="margin-top:4px">🟦 有复习计划 &nbsp;·&nbsp; ⬜ 无复习（遗忘快）</div>
+        </div>
+        <div class="panel">
+          <h3>📝 本周小结</h3>
+          <div class="sub">8.13 – 8.19</div>
+          <div class="week-list">
+            <div class="week-item"><span class="k">新学单词</span><span class="v">92 词</span></div>
+            <div class="week-item"><span class="k">复习次数</span><span class="v">210 次</span></div>
+            <div class="week-item"><span class="k">检测正确率</span><span class="v">87% 🎉</span></div>
+            <div class="week-item"><span class="k">活跃天数</span><span class="v">6 / 7 天</span></div>
+            <div class="week-item"><span class="k">错词本</span><span class="v">23 词</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <span class="dots"><span></span><span></span></span> BluePink 한글 · 蓝粉韩语单词 — 主页设计预览 v0.1（静态示例，交互未接入）
+    </footer>
+  </div>
+
+<script>
+  // 热力图示例数据（伪随机生成）
+  const grid = document.getElementById('heatmap');
+  const levels = ['#e9eefb', '#d5e2ff', '#b3ccff', '#8fb0ff', '#6f95f7', '#c98ae8', '#ff9ecb'];
+  for (let i = 0; i < 105; i++) {
+    const r = (i * 37 + 11) % 100;
+    const lvl = r < 30 ? 0 : r < 48 ? 1 : r < 62 ? 2 : r < 74 ? 3 : r < 85 ? 4 : r < 93 ? 5 : 6;
+    const d = document.createElement('div');
+    d.className = 'cell';
+    d.style.background = levels[lvl];
+    grid.appendChild(d);
+  }
+</script>
+</body>
+</html>

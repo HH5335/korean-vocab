@@ -1,0 +1,8942 @@
+[
+ {
+  "hangul": "어디",
+  "meaningEn": "where",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "은행이 어디에 있어요?",
+  "exampleEn": "Where is the bank?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가방",
+  "meaningEn": "bag",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 가방 안에는 책과 공책이 있어요.",
+  "exampleEn": "There are some books and notebooks in my bag.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "공원",
+  "meaningEn": "park",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 친구와 공원에서 자전거를 타요.",
+  "exampleEn": "I ride a bike at the park with my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "시장",
+  "meaningEn": "market",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "시장에서 과일을 사요.",
+  "exampleEn": "I buy some fruit at the market.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "식당",
+  "meaningEn": "restaurant",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "학교 앞 식당은 맛있어요.",
+  "exampleEn": "The restaurant in front of the school serves delicious foods.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아침",
+  "meaningEn": "morning",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 아침 7시에 일어나요.",
+  "exampleEn": "I get up at 7 o’ clock in the morning.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오전",
+  "meaningEn": "morning",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 오전에 수업이 있어요.",
+  "exampleEn": "I have a class in the morning.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "운동",
+  "meaningEn": "exercise",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "‘축구, 수영, 테니스’는 모두 운동이에요.",
+  "exampleEn": "Soccer, swimming and tennis’ are all exercise.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "일주일",
+  "meaningEn": "one week",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "일주일 동안 여행을 갔다 왔어요.",
+  "exampleEn": "I had a travel for one week.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "주말",
+  "meaningEn": "weekend",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이번 주말에 부산 여행을 가요.",
+  "exampleEn": "I am going on a trip to Busan this weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "책상",
+  "meaningEn": "desk",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "책상에서 공부를 해요.",
+  "exampleEn": "I study at my desk.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "친구",
+  "meaningEn": "friend",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 친구는 한국 사람이에요.",
+  "exampleEn": "My friend is a Korean.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "학교",
+  "meaningEn": "school",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "오늘은 일요일이라서 학교에 안 가요.",
+  "exampleEn": "Today is Sunday, so I don’t go to school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "무슨",
+  "meaningEn": "what",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아주",
+  "meaningEn": "so/very",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "제 동생은 공부를 아주 잘해요.",
+  "exampleEn": "My little brother/sister is very good at studying.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "얼마나",
+  "meaningEn": "how",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "한국어를 얼마나 공부했어요?",
+  "exampleEn": "How long did you study Korean?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가다",
+  "meaningEn": "go",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "공부하다",
+  "meaningEn": "study",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 한국어를 열심히 공부해요.",
+  "exampleEn": "I study Korean hard.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "좋아하다",
+  "meaningEn": "like",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 축구를 좋아해요.",
+  "exampleEn": "I like soccer.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "마시다",
+  "meaningEn": "drink",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "운동을 한 후에 물을 마셔요.",
+  "exampleEn": "I drink water after exercising.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "만나다",
+  "meaningEn": "meet",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "학교 앞에서 친구하고 만날 거예요.",
+  "exampleEn": "I will meet my friend in front of the school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "먹다",
+  "meaningEn": "eat",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "아침에 밥을 먹었어요.",
+  "exampleEn": "I ate breakfast in the morning.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "배우다",
+  "meaningEn": "learn",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 한국에서 한국어를 배워요.",
+  "exampleEn": "I learn Korean in Korea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "사다",
+  "meaningEn": "buy",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "시장에서 사과를 사요.",
+  "exampleEn": "I buy apples at the market.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여행하다",
+  "meaningEn": "travel",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "주말에 제주도를 여행했어요.",
+  "exampleEn": "I traveled Jeju Island last weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "많다",
+  "meaningEn": "many/much",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "공항에 사람이 많아요.",
+  "exampleEn": "There are many people at the airport.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "맛없다",
+  "meaningEn": "tasteless",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "음식이 맛없어서 조금만 먹었어요.",
+  "exampleEn": "I ate a little as the food was tasteless.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "맛있다",
+  "meaningEn": "delicious",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "음식이 맛있어서 많이 먹었어요.",
+  "exampleEn": "I ate a lot as the food was delicious.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "비싸다",
+  "meaningEn": "expensive",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "사과 값이 비싸요.",
+  "exampleEn": "Apples are expensive.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "싸다",
+  "meaningEn": "cheap",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "예쁘다",
+  "meaningEn": "pretty",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "꽃이 예뻐요.",
+  "exampleEn": "The flower is pretty.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "작다",
+  "meaningEn": "small/short",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "동생은 손이 작아요.",
+  "exampleEn": "My little brother/sister has small hands.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "크다",
+  "meaningEn": "big",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "수박은 사과보다 커요.",
+  "exampleEn": "A watermelon is bigger than an apple.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어제",
+  "meaningEn": "yesterday",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "어제는 토요일이고 오늘은 일요일이에요.",
+  "exampleEn": "Yesterday was Saturday, and today is Sunday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다음",
+  "meaningEn": "next",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "이번 주말은 바쁘니까 다음 주말에 만나요.",
+  "exampleEn": "I am busy on this weekend, so let’s meet on next weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "연락",
+  "meaningEn": "contact",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "부모님께 전화로 연락을 해요.",
+  "exampleEn": "I contact my parents by telephone.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "요즘",
+  "meaningEn": "nowadays",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "전화",
+  "meaningEn": "telephone/phone call",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "친구에게 전화를 해요.",
+  "exampleEn": "I make a phone call to my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "집",
+  "meaningEn": "home",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "내일은 집에서 쉴 거예요.",
+  "exampleEn": "I will take a rest at home tomorrow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "처음",
+  "meaningEn": "first",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "우리는 한국에서 처음 만났어요.",
+  "exampleEn": "We met first in Korea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "너무",
+  "meaningEn": "so/very",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "밥을 많이 먹어서 배가 너무 불러요.",
+  "exampleEn": "I ate a lot, so I’m so full.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다시",
+  "meaningEn": "again",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "제주도는 정말 아름다워요. 내년에 다시 가고 싶어요.",
+  "exampleEn": "Jeju Island is so beautiful. I like to visit there again next year.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "또",
+  "meaningEn": "again",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "어제 입은 옷을 오늘 또 입어요.",
+  "exampleEn": "I wear the clothes I wore yesterday for today again.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "도와주다",
+  "meaningEn": "help",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구가 이사를 해서 제가 친구를 도와줬어요.",
+  "exampleEn": "My friend moved, so I helped him(her).",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "들어오다",
+  "meaningEn": "come into",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "받다",
+  "meaningEn": "receive",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구의 전화를 제가 받았어요.",
+  "exampleEn": "I received a phone call from my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "부탁하다",
+  "meaningEn": "ask/request",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구에게 도움을 부탁해요.",
+  "exampleEn": "Ask your friend for help.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "알다",
+  "meaningEn": "know",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 민수 씨를 알아요.",
+  "exampleEn": "I know Mr. Minsu.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오다",
+  "meaningEn": "come",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구가 우리 집에 와요.",
+  "exampleEn": "My friend is coming to my home.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "축하하다",
+  "meaningEn": "congratulate",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "결혼을 축하해요.",
+  "exampleEn": "I congratulate you on your marriage. (Congratulations on your marriage.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "고맙다",
+  "meaningEn": "thank",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "도와줘서 고마워요.",
+  "exampleEn": "Thank you for helping.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "괜찮다",
+  "meaningEn": "fine",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "가: 늦게 와서 미안해요. / 나: 괜찮아요. A: I am sorry for being late. / B: That’s fine.",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "미안하다",
+  "meaningEn": "sorry",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "바쁘다",
+  "meaningEn": "busy",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "할 일이 많아서 바빠요.",
+  "exampleEn": "I am busy with so much work.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "반갑다",
+  "meaningEn": "glad",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "만나서 반가워요.",
+  "exampleEn": "I am glad to meet you.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "죄송하다",
+  "meaningEn": "sorry (more formal than 미안하다)",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "약속 시간에 늦어서 죄송해요.",
+  "exampleEn": "I am sorry for being late for the appointment.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "감사하다",
+  "meaningEn": "thank (more formal than 고맙다)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "도와주셔서 감사해요.",
+  "exampleEn": "Thank you for helping.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "우리",
+  "meaningEn": "we/us/our",
+  "posEn": "pronoun",
+  "freqMark": "",
+  "exampleKo": "우리 네 명은 한국대학교 학생이에요.",
+  "exampleEn": "Four of us are students of Hankuk University.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "낮",
+  "meaningEn": "afternoon",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 낮에 한국어를 배우고 저녁에 아르바이트를 해요.",
+  "exampleEn": "I learn a foreign language in the afternoon and do a part-time job in the evening.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "비행기",
+  "meaningEn": "airplane",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "시간",
+  "meaningEn": "time",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "시간을 몰라서 시계를 봐요.",
+  "exampleEn": "I wonder what time it is, so I am watching the clock.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "얼마",
+  "meaningEn": "how much",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "사과 하나에 얼마예요?",
+  "exampleEn": "How much is this apple?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "음식",
+  "meaningEn": "food",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 한국 음식을 좋아해요.",
+  "exampleEn": "I like Korean food.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "의사",
+  "meaningEn": "doctor",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "의사는 병원에서 일해요.",
+  "exampleEn": "A doctor works at a hospital.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "책",
+  "meaningEn": "book",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "도서관에서 책을 읽어요.",
+  "exampleEn": "I read books in the library.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "편지",
+  "meaningEn": "letter",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "부모님께 편지를 써요.",
+  "exampleEn": "I write a letter to my parents.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "표",
+  "meaningEn": "ticket",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "기차 표 한 장 주세요.",
+  "exampleEn": "Please give me one train ticket.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다른",
+  "meaningEn": "other",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "꼭",
+  "meaningEn": "surely",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "내일 시험이 아침 9시니까 꼭 9시 전에 와야 해요.",
+  "exampleEn": "Tomorrow’s test will start at 9 a.m., so you should surely come before then.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "많이",
+  "meaningEn": "a lot",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "밥을 많이 먹어서 배가 불러요.",
+  "exampleEn": "I ate a lot, so I am full.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "빨리",
+  "meaningEn": "quickly",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아직",
+  "meaningEn": "still",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "밤 10시인데 아직 회사에서 일해요.",
+  "exampleEn": "It’s 10 p.m., but I am still working at the company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가져오다",
+  "meaningEn": "bring",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 수업 시간에 사전을 가져와요.",
+  "exampleEn": "I bring a dictionary to my class.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나가다",
+  "meaningEn": "leave",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "아버지는 매일 아침 7시에 집에서 나가요.",
+  "exampleEn": "My father leaves home at 7 every morning.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나오다",
+  "meaningEn": "come out",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "오늘 아침 9시 집에서 나왔어요.",
+  "exampleEn": "I came out from home at 9 a.m. today.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "도착하다",
+  "meaningEn": "arrive",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "이 버스를 타면 30분 후에 도착해요.",
+  "exampleEn": "If you take this bus, you will arrive after 30 minutes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "드리다",
+  "meaningEn": "give",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "오늘은 어머니 생신이라서 어머니께 선물을 드릴 거예요.",
+  "exampleEn": "Today is my mother’s birthday, so I am going to give her a gift.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "바꾸다",
+  "meaningEn": "exchange",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "옷이 작아서 큰 옷으로 바꿨어요.",
+  "exampleEn": "The clothes were small, so I exchanged it into a bigger one.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "보내다",
+  "meaningEn": "send",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "고향에 계신 부모님께 편지를 보냈어요.",
+  "exampleEn": "I sent a letter to my parents in my hometown.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "시작하다",
+  "meaningEn": "start/begin",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "한국어 수업은 9시에 시작해요.",
+  "exampleEn": "Korean language class starts at 9 a.m.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "찾다",
+  "meaningEn": "find",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "잃어버린 지갑을 찾았어요.",
+  "exampleEn": "I found my lost wallet.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "타다",
+  "meaningEn": "ride/take",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "지하철을 타고 학교에 가요.",
+  "exampleEn": "I ride the subway to go to school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "맵다",
+  "meaningEn": "spicy/hot",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "한국의 김치는 맛있지만 매워요.",
+  "exampleEn": "Kimchi of Korea is delicious but spicy.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "무섭다",
+  "meaningEn": "afraid",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아프다",
+  "meaningEn": "sick",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "배가 아파서 병원에 가요.",
+  "exampleEn": "My stomach is sick, so I am going to hospital.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "재미있다",
+  "meaningEn": "fun/interesting",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "생일 파티가 정말 재미있었어요.",
+  "exampleEn": "The birthday party was so fun.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "좋다",
+  "meaningEn": "good",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "짧다",
+  "meaningEn": "short",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저는 짧은 치마를 좋아해요.",
+  "exampleEn": "I like short skirts.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "언제",
+  "meaningEn": "when",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "민수 씨, 언제 학교에 가요?",
+  "exampleEn": "Minsu, when do you go to school?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "내일",
+  "meaningEn": "tomorrow",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "오늘은 금요일이고 내일은 토요일이에요.",
+  "exampleEn": "Today is Friday and tomorrow is Saturday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "먼저",
+  "meaningEn": "first",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "밥을 먹기 전에 먼저 손을 씻어요.",
+  "exampleEn": "Before you eat your meal, wash your hands first.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "지금",
+  "meaningEn": "now",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "지금 저는 한국어를 공부하고 있어요.",
+  "exampleEn": "Now, I am studying Korean language.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "건강",
+  "meaningEn": "health",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "계획",
+  "meaningEn": "plan",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "고향",
+  "meaningEn": "hometown",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가족",
+  "meaningEn": "family",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "기분",
+  "meaningEn": "feeling",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나이",
+  "meaningEn": "age",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "날짜",
+  "meaningEn": "date",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "사진",
+  "meaningEn": "photograph",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "여행을 가서 사진을 찍었어요.",
+  "exampleEn": "I took photographs on my travel.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "생일",
+  "meaningEn": "birthday",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "생일을 축하해요.",
+  "exampleEn": "Happy birthday!",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "선물",
+  "meaningEn": "present",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "친구에게 생일 선물을 주었어요.",
+  "exampleEn": "I gave a birthday present to my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "쇼핑",
+  "meaningEn": "shopping",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "백화점에서 쇼핑을 해요.",
+  "exampleEn": "I do shopping at a department store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "신발",
+  "meaningEn": "shoes",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "구두, 운동화, 등산화는 모두 신발이에요.",
+  "exampleEn": "Dress shoes, sneakers, and hiking boots are all shoes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "옷",
+  "meaningEn": "clothes",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "백화점에서 옷을 샀어요.",
+  "exampleEn": "I bought some clothes at the department store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "직업",
+  "meaningEn": "job/occupation",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "우리 형의 직업은 선생님이에요.",
+  "exampleEn": "My brother’s job is a teacher.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "휴일",
+  "meaningEn": "holiday",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "둘",
+  "meaningEn": "(두)two",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "하나",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "한",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "두",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "셋",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "세",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "넷",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "네",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다섯",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여섯",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "일곱",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여덟",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아홉",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "열",
+  "meaningEn": "One, two, three, four, five, six, seven, eight, nine, ten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "별로",
+  "meaningEn": "not so",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "오늘은 별로 덥지 않아요.",
+  "exampleEn": "Today is not so hot.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "정말",
+  "meaningEn": "very/so",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "삼계탕이 정말 맛있어요.",
+  "exampleEn": "Samgyetang (chicken soup with ginseng) is very delicious.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "하지만",
+  "meaningEn": "however",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 듣기를 잘 해요. 하지만 쓰기를 잘 못 해요.",
+  "exampleEn": "I am good at listening. However, I am not good at writing.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "일하다",
+  "meaningEn": "work",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 병원에서 일해요.",
+  "exampleEn": "I work at a hospital.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "읽다",
+  "meaningEn": "re",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 매일 신문을 읽어요.",
+  "exampleEn": "I read a newspaper every day.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "지나다",
+  "meaningEn": "pass",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "봄이 지나고 여름이 왔어요.",
+  "exampleEn": "Spring has passed and summer has come.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "태어나다",
+  "meaningEn": "born",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "같다",
+  "meaningEn": "same",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저와 제 친구는 20살이에요. 우리는 나이가 같아요.",
+  "exampleEn": "I and my friend are 20 years old. We are the same age.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "재미없다",
+  "meaningEn": "boring",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "이 영화는 재미없어요.",
+  "exampleEn": "This movie is boring.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여기",
+  "meaningEn": "here",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "여기가 민수 씨 학교예요?",
+  "exampleEn": "Is here Mr. Minsu’s school? (= Is this Mr. Minsu’s school?)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "더",
+  "meaningEn": "more/-er",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "형은 동생보다 키가 더 커요.",
+  "exampleEn": "The elder brother is taller.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "한번",
+  "meaningEn": "once",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "이 음식 한번 드셔 보세요.",
+  "exampleEn": "Try this food (once).",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "고치다",
+  "meaningEn": "fix",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "휴대전화가 고장 나서 고쳐야 해요.",
+  "exampleEn": "My cell phone is out of order, so I need to fix it.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "보다",
+  "meaningEn": "look",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "옷을 입고 거울을 봐요.",
+  "exampleEn": "Wear your clothes and look at the mirror.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "식사하다",
+  "meaningEn": "have a meal",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "점심에 같이 식사할까요?",
+  "exampleEn": "Shall we have a meal for lunch? (= Shall we have lunch together?)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "쓰다",
+  "meaningEn": "use/write/wear",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "공책에 이름을 쓰세요.",
+  "exampleEn": "Write your name on the notebook.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어울리다",
+  "meaningEn": "suit",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "이 바지에는 흰 티셔츠가 어울려요.",
+  "exampleEn": "A white shirt suits this pants. (= A white shirt is matched with this pants.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "일어나다",
+  "meaningEn": "get up",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 아침에 일찍 일어나요.",
+  "exampleEn": "I get up early in the morning.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "자다",
+  "meaningEn": "go to bed",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 밤 11시쯤 자요.",
+  "exampleEn": "I go to bed around 11 p.m.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "자르다",
+  "meaningEn": "cut",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "머리를 자르려고 미용실에 갔어요.",
+  "exampleEn": "I went to hair salon to have my hair cut.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "조심하다",
+  "meaningEn": "careful",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "길이 미끄러워요. 조심하세요.",
+  "exampleEn": "The road is slippery. Be careful.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어떻다",
+  "meaningEn": "how",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "피곤하다",
+  "meaningEn": "tired",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "요즘 회사에 일이 많아서 너무 피곤해요.",
+  "exampleEn": "Nowadays, I am so tired because there is so much work at the company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "조금",
+  "meaningEn": "a little",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "학교에 조금 더 일찍 오세요.",
+  "exampleEn": "Come to school a little earlier.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "마음에 들다",
+  "meaningEn": "like",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "새로 산 옷이 마음에 들어요.",
+  "exampleEn": "I like my new clothes I bought.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "수업",
+  "meaningEn": "class",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "학교에서 한국어 수업을 해요.",
+  "exampleEn": "I take Korean language classes in Korea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "신청서",
+  "meaningEn": "application form",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 몸이 아파서 회사에 휴가 신청서를 냈어요.",
+  "exampleEn": "I was sick, so I submitted an application form for a day-off.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "약속",
+  "meaningEn": "appointment",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 주말에 친구와 약속이 있어요.",
+  "exampleEn": "I have an appointment with my friend this weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "의자",
+  "meaningEn": "chair",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "여기 의자에 앉으세요.",
+  "exampleEn": "Sit in this chair.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "자전거",
+  "meaningEn": "bicycle",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "자전거를 타고 공원에 갔어요.",
+  "exampleEn": "I went to the part by bicycle.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "잠시",
+  "meaningEn": "a moment (indicates a short time)",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "민수 씨를 만나려면 잠시 기다려 주세요.",
+  "exampleEn": "If you want to see Minsu, please wait for a moment.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "장소",
+  "meaningEn": "place",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "약속 장소가 어디예요?",
+  "exampleEn": "Where is the place of appointment?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "정도",
+  "meaningEn": "level",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이 책은 초등학생 정도의 아이가 읽을 수 있어요.",
+  "exampleEn": "This book can be read by children of elementary-school level.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "고르다",
+  "meaningEn": "choose",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "어떤 음료수를 드시겠어요? 골라 보세요.",
+  "exampleEn": "Which beverage do you want? Choose one.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모르다",
+  "meaningEn": "do not know",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "그 사람의 얼굴은 알지만 이름은 몰라요.",
+  "exampleEn": "I know his face but do not know his name.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "묻다",
+  "meaningEn": "ask",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "그가 이름을 물어서 제가 큰 소리로 대답했어요.",
+  "exampleEn": "He asked my name, so I answered it loudly.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "주다",
+  "meaningEn": "give",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "초대하다",
+  "meaningEn": "invite",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "생일에 친구들을 초대하려고 해요.",
+  "exampleEn": "I am going to invite my friends to my birthday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "출발하다",
+  "meaningEn": "depart/leave/start",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "비행기가 3시에 출발해요.",
+  "exampleEn": "The plane departs at 3:00.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "취소하다",
+  "meaningEn": "cancel",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "회사에 일이 있어서 약속을 취소했어요.",
+  "exampleEn": "I canceled the appointment because I had some work to do at the company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "확인하다",
+  "meaningEn": "confirm/check",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "시험 결과를 확인했어요.",
+  "exampleEn": "I checked the test result.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "불편하다",
+  "meaningEn": "inconvenient/uncomfortable",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "다리를 다쳐서 걷기가 불편해요.",
+  "exampleEn": "I hurt my leg, so it is uncomfortable to walk.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "특별하다",
+  "meaningEn": "special",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "방학에 특별한 계획이 있어요?",
+  "exampleEn": "Do you have a special plan for vacation?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "알려 주다",
+  "meaningEn": "tell/teach",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 친구에게 한국 노래를 알려 주고 있어요.",
+  "exampleEn": "I am teaching my friend Korean songs.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "교통",
+  "meaningEn": "traffic",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가격",
+  "meaningEn": "price",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다행",
+  "meaningEn": "fortune",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "산책",
+  "meaningEn": "walk",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "식사 후에 공원에서 산책을 해요.",
+  "exampleEn": "I take a walk in the park after a meal.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "생각",
+  "meaningEn": "idea",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "다음을 듣고 여자의 중심 생각을 고르십시오.",
+  "exampleEn": "Listen to the following and choose the woman’s main idea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이사",
+  "meaningEn": "move",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 다음 달에 학교 근처로 이사를 가요.",
+  "exampleEn": "I will move to a neighborhood near my school next month.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "인기",
+  "meaningEn": "popularity",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "그 가수는 우리나라에서 인기가 많아요.",
+  "exampleEn": "That singer has high popularity in my country. (= That singer is very popular in my country.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "화장실",
+  "meaningEn": "restroom/toilet",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "남자 화장실은 1층에 있고 여자 화장실은 2층에 있어요.",
+  "exampleEn": "The men’s restroom is on the first floor and the women’s is on the second floor.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "내리다",
+  "meaningEn": "fall/lower/go down",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "세일 기간입니다. 내일부터 물건 값을 내립니다.",
+  "exampleEn": "It is a bargain sale season. Starting tomorrow, the goods’ prices will go down.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "놀라다",
+  "meaningEn": "be surprised",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "부모님이 갑자기 학교에 오셔서 깜짝 놀랐어요.",
+  "exampleEn": "I was surprised because my parents suddenly visited my school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "사용하다",
+  "meaningEn": "use",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "이 기계는 위험하니까 사용할 때 조심하세요.",
+  "exampleEn": "This machine is dangerous, so be careful when you use it.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "소개하다",
+  "meaningEn": "introduce",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "제 고향을 친구들에게 소개하려고 해요.",
+  "exampleEn": "I will introduce my hometown to my friends.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "수리하다",
+  "meaningEn": "repair",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "고장 난 컴퓨터를 수리해요.",
+  "exampleEn": "I am fixing my broken computer.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이기다",
+  "meaningEn": "win/beat/defeat",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "우리 학교가 축구 경기에서 한국대학교를 이겼습니다.",
+  "exampleEn": "My school won Hankuk University in the soccer match.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이야기하다",
+  "meaningEn": "talk",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "잘하다",
+  "meaningEn": "be good at",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 한국에 살아서 한국어를 잘해요.",
+  "exampleEn": "I am good at Korean language as I live in Korea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "걱정하다",
+  "meaningEn": "be concerned about",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "제가 한국에서 혼자 살고 있어서 어머니는 항상 걱정해요.",
+  "exampleEn": "I live alone in Korea, so my mother is always concerned about me.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "힘들다",
+  "meaningEn": "tired",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "오늘 오래 걸어서 힘들어요.",
+  "exampleEn": "Today, I walked for a long time, so I am tired.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가깝다",
+  "meaningEn": "near",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "우리 집은 학교에서 가까워요.",
+  "exampleEn": "My home is near from school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "깨끗하다",
+  "meaningEn": "clean",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "조금 전에 방을 청소해서 깨끗해요.",
+  "exampleEn": "I just cleaned up my room, so it is clean.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "편리하다",
+  "meaningEn": "convenient",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "지하철이 빠르고 편리해요.",
+  "exampleEn": "The subway is fast and convenient.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "방법",
+  "meaningEn": "way/method",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "비",
+  "meaningEn": "rain",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "비가 와서 우산을 써요.",
+  "exampleEn": "It is raining, so I am using an umbrella.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "생활",
+  "meaningEn": "life",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "학교생활이 힘들지만 재미있어요.",
+  "exampleEn": "Life in school is hard but fun.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "설명",
+  "meaningEn": "explanation",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "설명이 너무 어려워요.",
+  "exampleEn": "The explanation is too difficult.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "연휴",
+  "meaningEn": "consecutive holidays",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "옛날",
+  "meaningEn": "old days",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "질문",
+  "meaningEn": "question",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "하루",
+  "meaningEn": "one day",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이틀",
+  "meaningEn": "one day, two days, three days, four days",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "사흘",
+  "meaningEn": "one day, two days, three days, four days",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나흘",
+  "meaningEn": "one day, two days, three days, four days",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "그리다",
+  "meaningEn": "draw",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 여행을 가면 아름다운 경치를 그리는 것을 좋아해요.",
+  "exampleEn": "I like to draw beautiful scenery when I travel.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "들어가다",
+  "meaningEn": "go into",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "문을 열고 교실에 들어가요.",
+  "exampleEn": "Open the door and go into the classroom.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모이다",
+  "meaningEn": "gather/get together",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "제 생일을 축하하려고 친구들이 모였어요.",
+  "exampleEn": "My friends gathered to celebrate my birthday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "바뀌다",
+  "meaningEn": "change",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "제 신발이 친구의 신발과 바뀌었어요.",
+  "exampleEn": "My shoes were changed with my friend’s.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "버리다",
+  "meaningEn": "dump/throw away",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "쓰레기를 쓰레기통에 버리세요.",
+  "exampleEn": "Dump trash into a trash bin.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "신나다",
+  "meaningEn": "excited",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 내일 여행을 가서 신나요.",
+  "exampleEn": "I am excited about going on a travel tomorrow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "신다",
+  "meaningEn": "put on/wear (footwear)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "정하다",
+  "meaningEn": "decide",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "약속 장소를 정해서 말해 주세요.",
+  "exampleEn": "Decide the place of appointment and tell me.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "높다",
+  "meaningEn": "high",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "산이 높아서 등산이 힘들어요.",
+  "exampleEn": "The mountain is high, so it is hard to hike.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다르다",
+  "meaningEn": "different",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "나라마다 국기가 달라요.",
+  "exampleEn": "Each country has a different national flag.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "즐겁다",
+  "meaningEn": "enjoyable",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "한국 생활이 즐거워요.",
+  "exampleEn": "Life in Korea is enjoyable.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "매일",
+  "meaningEn": "every day",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 매일 일기를 써요.",
+  "exampleEn": "I write a diary every day.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "매주",
+  "meaningEn": "every week",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "매주 일요일은 집에서 쉬어요.",
+  "exampleEn": "I take a rest at home on Sunday every week. (= I rest at home on every Sunday.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "방금",
+  "meaningEn": "just",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "방금 전에 만난 사람이 누구예요?",
+  "exampleEn": "Whom did you meet just before?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가지고 가다",
+  "meaningEn": "take",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가구",
+  "meaningEn": "furniture",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "근처",
+  "meaningEn": "near",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "우리 집 근처에는 공원도 있고 백화점도 있어요.",
+  "exampleEn": "There is a park and department store near my house.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "기간",
+  "meaningEn": "period",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "우리 학교는 방학 기간이 2달이에요.",
+  "exampleEn": "The vacation period of my school is two months.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이유",
+  "meaningEn": "reason",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "민수 씨가 학교에 안 온 이유를 알고 싶어요.",
+  "exampleEn": "I want to know the reason why Minsu did not come to school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "종류",
+  "meaningEn": "kind",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "백화점에는 여러 종류의 물건이 있어요.",
+  "exampleEn": "There are many kinds of goods in a department store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "퇴근",
+  "meaningEn": "leaving the office",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "퇴근 시간에는 길이 막혀요.",
+  "exampleEn": "Traffic is congested during the hours of leaving the office.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "같이",
+  "meaningEn": "together",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "일찍",
+  "meaningEn": "early",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 아침 6시에 일찍 학교에 가요.",
+  "exampleEn": "I go to school early at 6 a.m.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가르치다",
+  "meaningEn": "teach",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "선생님은 한국어를 가르쳐요.",
+  "exampleEn": "The teacher teaches us Korean language.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다니다",
+  "meaningEn": "go",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "아버지는 회사에 다녀요.",
+  "exampleEn": "My father goes to company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "지내다",
+  "meaningEn": "live/be",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "한국에서 지낸 기간이 얼마나 되세요?",
+  "exampleEn": "How long have you been in Korea?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "취직하다",
+  "meaningEn": "get a job",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "올해 대학교를 졸업하고 회사에 취직했어요.",
+  "exampleEn": "In this year, I graduated from university and got a job in a company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "심심하다",
+  "meaningEn": "bored",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 주말에 친구가 없어서 심심해요.",
+  "exampleEn": "I have no friends, so I am bored during weekends.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "혼자",
+  "meaningEn": "alone",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 혼자 살고 있어요.",
+  "exampleEn": "I live alone.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "경치",
+  "meaningEn": "scenery",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "내용",
+  "meaningEn": "contents",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이 책의 내용은 재미있어요.",
+  "exampleEn": "The contents of this book are fun.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "성함",
+  "meaningEn": "name",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "그 분의 성함을 가르쳐 주세요.",
+  "exampleEn": "Please tell me his name.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "손님",
+  "meaningEn": "customers/guests",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "가게에 손님이 많아요.",
+  "exampleEn": "There are many customers in the store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "연락처",
+  "meaningEn": "contact information",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "예약",
+  "meaningEn": "reservation/booking",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "아직 비행기 표 예약을 하지 않았어요.",
+  "exampleEn": "I still haven’t made a reservation for an air ticket.(= I still haven’t booked for an air ticket.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이름",
+  "meaningEn": "name",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 이름은 민수예요.",
+  "exampleEn": "My name is Minsu.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "전화번호",
+  "meaningEn": "telephone number",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "전화번호가 어떻게 되세요?",
+  "exampleEn": "What is your telephone number?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "그러면",
+  "meaningEn": "then",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "가: 다이어트를 하고 싶어요. / 나: 그러면 저하고 같이 운동해요. A: I want to go on a diet. / B: Then let’s work out together.",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이미",
+  "meaningEn": "already",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 그 일을 3일 전에 이미 알고 있었어요.",
+  "exampleEn": "I have already known the fact three days ago.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "교환하다",
+  "meaningEn": "exchange",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "모자가 커서 좀 작은 것으로 교환하고 싶어요.",
+  "exampleEn": "The hat is big for me, so I want to exchange it to a smaller one.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "싫어하다",
+  "meaningEn": "dislike",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 추운 계절을 싫어해요.",
+  "exampleEn": "I dislike cold weather.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "앉다",
+  "meaningEn": "sit",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "의자에 앉으세요.",
+  "exampleEn": "Sit in the chair.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이해하다",
+  "meaningEn": "understand",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "이 책은 너무 어려워서 이해할 수 없어요.",
+  "exampleEn": "This book is too hard for me to understand.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "입다",
+  "meaningEn": "wear (clothing)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "환불하다",
+  "meaningEn": "refund",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "지난주에 산 티셔츠가 작아서 돈으로 환불했어요.",
+  "exampleEn": "The T-shirt I bought last week was too small, so I refunded it.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "쉽다",
+  "meaningEn": "easy",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "시험 문제가 쉬워서 다 맞았어요.",
+  "exampleEn": "The test questions were easy, so I got all the questions.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어렵다",
+  "meaningEn": "difficult",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "한국어로 이야기하는 것이 어려워요.",
+  "exampleEn": "It is difficult to speaking in Korean.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "유명하다",
+  "meaningEn": "famous",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "한국의 김치는 외국에서도 유명해요.",
+  "exampleEn": "Korean Kimchi is famous also in foreign countries.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "하얗다",
+  "meaningEn": "white",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "어젯밤에 하얀 눈이 많이 내렸어요.",
+  "exampleEn": "Heavy white snow fell down last night.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "날씨",
+  "meaningEn": "weather",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "오늘은 하늘이 맑고 날씨가 좋습니다.",
+  "exampleEn": "Today, the sky is clear and the weather is fine.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "눈",
+  "meaningEn": "snow",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "눈이 내려서 아이들이 눈사람을 만듭니다.",
+  "exampleEn": "As it snowed, children are making a snowman.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "방학",
+  "meaningEn": "vacation",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "내일부터 방학이라서 학교에 가지 않습니다.",
+  "exampleEn": "Vacation begins tomorrow, so I will not go to school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여름",
+  "meaningEn": "summer",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "여행",
+  "meaningEn": "travel",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "주말에 제주도 여행을 다녀왔습니다.",
+  "exampleEn": "I went on a travel to Jeju Island last weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "취미",
+  "meaningEn": "hobby",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 취미는 요리입니다.",
+  "exampleEn": "My hobby is cooking.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "자주",
+  "meaningEn": "often",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 영화를 자주 봅니다.",
+  "exampleEn": "I often watch a movie.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "춥다",
+  "meaningEn": "cold",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "날씨가 추워서 옷을 많이 입었습니다.",
+  "exampleEn": "The weather was cold, so I wore a lot of clothes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오늘",
+  "meaningEn": "today",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "어제는 토요일이고 오늘은 일요일입니다.",
+  "exampleEn": "Yesterday was Saturday, and today is Sunday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "시험",
+  "meaningEn": "test",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "내일 시험이 있어서 공부를 합니다.",
+  "exampleEn": "I will take a test tomorrow, so I am studying.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가끔",
+  "meaningEn": "sometimes",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 운동을 자주 하지만 친구는 가끔 합니다.",
+  "exampleEn": "I often work out, but my friend does it sometimes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오래",
+  "meaningEn": "for a long time",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "컴퓨터를 오래 하면 눈에 좋지 않습니다.",
+  "exampleEn": "Using the computer for a long time is not good for your eyes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "걷다",
+  "meaningEn": "walk",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 집에서 회사까지 걸어서 갑니다.",
+  "exampleEn": "I walk to work from home.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "기다리다",
+  "meaningEn": "wait",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구가 약속 시간에 안 와서 지금 기다리고 있습니다.",
+  "exampleEn": "My friend has not come in time, so I am waiting for him.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "끝나다",
+  "meaningEn": "end/finish",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "우리 회사는 일이 오후 6시에 끝납니다.",
+  "exampleEn": "Our company finishes work at 6 p.m.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "만들다",
+  "meaningEn": "make",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "나무로 종이를 만듭니다.",
+  "exampleEn": "Paper is made from wood.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "물어보다",
+  "meaningEn": "ask",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "길을 몰라서 친구에게 물어봤습니다.",
+  "exampleEn": "I did not know the direction, so I asked my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "불다",
+  "meaningEn": "blow",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "따뜻한 바람이 붑니다.",
+  "exampleEn": "Warm breeze is blowing.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "빌리다",
+  "meaningEn": "lend",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "돈이 없어서 친구에게 돈을 빌렸습니다.",
+  "exampleEn": "I had no money, so I borrowed some from my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나쁘다",
+  "meaningEn": "bad",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "날씨가 나빠서 밖에 나가기 싫습니다.",
+  "exampleEn": "The weather was bad, so I do not want to go outside.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "더럽다",
+  "meaningEn": "dirty",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "청소를 안 해서 방이 너무 더럽습니다.",
+  "exampleEn": "I have not cleaned up my room, so it is so dirty.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "따뜻하다",
+  "meaningEn": "warm",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "봄에는 날씨가 따뜻합니다.",
+  "exampleEn": "In the spring, it is warm.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "있다",
+  "meaningEn": "have",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "조용하다",
+  "meaningEn": "quiet",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "교실에 학생들이 없어서 조용합니다.",
+  "exampleEn": "The classroom is quiet as there are no students in it.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "친절하다",
+  "meaningEn": "kind",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "우리 선생님은 친절하십니다.",
+  "exampleEn": "My teacher is kind.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아까",
+  "meaningEn": "a while ago",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "동생이 아까부터 잤는데 지금도 자고 있습니다.",
+  "exampleEn": "My younger brother/sister has been sleeping since a while ago.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "값",
+  "meaningEn": "price",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이 자동차는 값이 아주 비쌉니다.",
+  "exampleEn": "The price of this car is very high.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "등산",
+  "meaningEn": "hiking",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 등산을 좋아해서 자주 산에 갑니다.",
+  "exampleEn": "I like hiking, so I often go to mountains.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "무료",
+  "meaningEn": "free",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "오늘은 무료니까 돈이 필요 없습니다.",
+  "exampleEn": "It is free for today, so we don’t need to pay.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "밤",
+  "meaningEn": "night",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "밤에는 잠을 잡니다.",
+  "exampleEn": "I sleep at night.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "부엌",
+  "meaningEn": "kitchen",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "부엌에서 요리를 합니다.",
+  "exampleEn": "I cook in the kitchen.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "사무실",
+  "meaningEn": "office",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "사무실에서 회의를 합니다.",
+  "exampleEn": "We have a meeting in the office.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "안내",
+  "meaningEn": "guide",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "약",
+  "meaningEn": "medicine",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "배가 아파서 약을 먹었습니다.",
+  "exampleEn": "I have a stomachache, so I took some medicine.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "영화",
+  "meaningEn": "movie",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "지금 영화관에서 영화를 봅니다.",
+  "exampleEn": "I am now watching a movie in the cinema.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오후",
+  "meaningEn": "afternoon",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "오전에 수업이 끝나면 오후에는 도서관에 갑니다.",
+  "exampleEn": "After classes end in the morning, I go to library in the afternoon.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "점심",
+  "meaningEn": "lunch",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "저녁",
+  "meaningEn": "breakfast, lunch, dinner",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "행복",
+  "meaningEn": "happiness/happy",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "회의",
+  "meaningEn": "meeting",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저희 회사는 매주 월요일에 회의를 합니다.",
+  "exampleEn": "Our company has a meeting every Monday.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모든",
+  "meaningEn": "all/everyarticle",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "모든 책을 다 읽어서 더 읽을 책이 없습니다.",
+  "exampleEn": "I have read all the books, so I have no more books to read.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "내다",
+  "meaningEn": "pay",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "오늘 식사 값은 제가 내겠습니다.",
+  "exampleEn": "I will pay for the meal today.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "열다",
+  "meaningEn": "open",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "날씨가 더워서 창문을 열었습니다.",
+  "exampleEn": "The weather was hot, so I opened the window.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "맑다",
+  "meaningEn": "clear/sunny",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "오늘은 구름이 없고 맑겠습니다.",
+  "exampleEn": "Today will be sunny with no clouds.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "쉬다",
+  "meaningEn": "rest",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "일요일에는 집에서 쉽니다.",
+  "exampleEn": "On Sundays, I rest at home.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "기차",
+  "meaningEn": "train",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "서울역에서 기차를 타고 부산까지 갔습니다.",
+  "exampleEn": "I took a train at Seoul Station to go to Busan.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "부모님",
+  "meaningEn": "parents",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "부모님은 아버지와 어머니를 함께 부르는 말입니다.",
+  "exampleEn": "Parents’ means both of father and mother.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "요리",
+  "meaningEn": "cooking",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "함께",
+  "meaningEn": "together",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "이번 주말에 부모님과 함께 제주도에 갑니다.",
+  "exampleEn": "I am going to Jeju Island together with my parents this weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "구경하다",
+  "meaningEn": "browse",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "명동에서 여러 가지 옷과 화장품을 구경했습니다.",
+  "exampleEn": "I browsed a variety of clothes and cosmetics at Myoung-dong.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "놀다",
+  "meaningEn": "play",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구들과 공원에서 놉니다.",
+  "exampleEn": "I play at the park with my friends.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "부르다",
+  "meaningEn": "sing",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "노래방에서 노래를 부릅니다.",
+  "exampleEn": "I sing songs in a Karaoke room.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아름답다",
+  "meaningEn": "beautiful",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "한국의 제주도는 경치가 아름답습니다.",
+  "exampleEn": "The scenery is Jeju Island in Korea is beautiful.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "앞",
+  "meaningEn": "front",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "키",
+  "meaningEn": "height",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 친구는 저보다 키가 작습니다.",
+  "exampleEn": "han me.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "그런데",
+  "meaningEn": "by the way",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "그리고",
+  "meaningEn": "moreover/and",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "그 식당은 음식이 맛있습니다. 그리고 값도 쌉니다.",
+  "exampleEn": "That restaurant serves delicious foods. Moreover, their prices are also low as well.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "찍다",
+  "meaningEn": "take (photographs)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "토요일에 친구들과 공원에 가서 사진을 찍었습니다.",
+  "exampleEn": "On last Saturday, I went to the park with my friends and took photographs.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어리다",
+  "meaningEn": "young",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "보통",
+  "meaningEn": "usually",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "주말에는 보통 친구를 만납니다.",
+  "exampleEn": "I usually meet my friends on weekends.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "버스",
+  "meaningEn": "bus",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 버스를 타고 회사에 갑니다.",
+  "exampleEn": "I go to work by bus.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "주인",
+  "meaningEn": "owner",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이 책의 주인은 누구입니까?",
+  "exampleEn": "Who is the owner of this book?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "직원",
+  "meaningEn": "staff/employee",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "회사",
+  "meaningEn": "company",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 한국 회사에 취직하려고 합니다.",
+  "exampleEn": "I am trying to get a job at a Korean company.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "새",
+  "meaningEn": "new",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "새 옷을 샀습니다.",
+  "exampleEn": "I bought new clothes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "바로",
+  "meaningEn": "immediately",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "집에 도착하면 바로 연락하십시오.",
+  "exampleEn": "If you arrive home, call me immediately.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "살다",
+  "meaningEn": "live",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 서울에 삽니다.",
+  "exampleEn": "I live in Seoul.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "인사하다",
+  "meaningEn": "greet/say hello",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "학교에서 친구를 만나면 반갑게 인사합니다.",
+  "exampleEn": "I greet my friends when I meet them at school.(= When I see my friends at school, I say hello to them.)",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "졸업하다",
+  "meaningEn": "graduate",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 내년에 대학교를 졸업합니다.",
+  "exampleEn": "I will graduate from university next year.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "길다",
+  "meaningEn": "long",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "넓다",
+  "meaningEn": "spacious/wide/broad",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "제 방은 아주 넓습니다.",
+  "exampleEn": "My room is very spacious.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "멀다",
+  "meaningEn": "far",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "학교가 멀어서 걸어갈 수 없습니다.",
+  "exampleEn": "The school is too far to walk.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "좁다",
+  "meaningEn": "narrow",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "지금 사는 방이 조금 좁지만 깨끗합니다.",
+  "exampleEn": "The room I live in is a little narrow but clean.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "편하다",
+  "meaningEn": "convenient/comfortable",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "운동화를 신으면 발이 편합니다.",
+  "exampleEn": "When we wear sneakers, it makes your feet comfortable.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "감기",
+  "meaningEn": "cold",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "감기에 걸려서 열이 납니다.",
+  "exampleEn": "I caught a cold, so I have fever.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "과일",
+  "meaningEn": "fruit",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "여름에는 수박, 포도 같은 과일을 많이 먹습니다.",
+  "exampleEn": "I eat a lot of fruit such as watermelon and grapes in the summer.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "마지막",
+  "meaningEn": "last",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "마지막 사람이 문을 닫았습니다.",
+  "exampleEn": "The last person closed the door.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "순서",
+  "meaningEn": "order",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "요리하는 순서가 중요합니다.",
+  "exampleEn": "The order of cooking is important.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "차",
+  "meaningEn": "tea",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 자기 전에 따뜻한 차를 마십니다.",
+  "exampleEn": "Before going to bed, I drink warm tea.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "돌아오다",
+  "meaningEn": "come back",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "고향에 가면 한 달 후에 서울에 돌아옵니다.",
+  "exampleEn": "After going to my hometown, I will come back to Seoul after a month.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "떠나다",
+  "meaningEn": "leave/get out",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 내일 여행을 떠납니다.",
+  "exampleEn": "I will leave for a travel tomorrow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "신청하다",
+  "meaningEn": "ask/apply/request",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 몸이 아파서 회사에 휴가를 신청했습니다.",
+  "exampleEn": "I was sick, so I requested my company for a day-off.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "씻다",
+  "meaningEn": "wash",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "비누로 손을 씻습니다.",
+  "exampleEn": "I wash hands with soap.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "예약하다",
+  "meaningEn": "book/reserve",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 고향으로 갈 비행기 표를 예약했습니다.",
+  "exampleEn": "I reserved an air ticket to go to my hometown.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "이용하다",
+  "meaningEn": "use",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "지나가다",
+  "meaningEn": "pass by",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "그 버스는 학교 앞을 지나갑니다.",
+  "exampleEn": "That bus passes by the school.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "지키다",
+  "meaningEn": "keep",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "건강을 지키려면 운동을 해야 합니다.",
+  "exampleEn": "To keep your health, you need to work out.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "건강하다",
+  "meaningEn": "healthy",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "우리 형은 운동을 해서 아주 건강합니다.",
+  "exampleEn": "My elder brother is very healthy because he works out.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "중요하다",
+  "meaningEn": "important",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "무엇보다 건강이 중요합니다.",
+  "exampleEn": "Your health is more important than any others.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "필요하다",
+  "meaningEn": "need",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "다른 나라로 여행을 가려면 비자가 필요합니다.",
+  "exampleEn": "To go on a travel to other countries, you need to get a visa.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모두",
+  "meaningEn": "all",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "날",
+  "meaningEn": "day",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모양",
+  "meaningEn": "shape/form/style",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저와 동생은 머리 모양이 다릅니다.",
+  "exampleEn": "I and my younger brother/sister have different hair styles.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "색깔",
+  "meaningEn": "color",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "옷 색깔이 예쁩니다.",
+  "exampleEn": "The color of the clothes is pretty.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "어른",
+  "meaningEn": "adult",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "어른을 만나면 먼저 인사해야 합니다.",
+  "exampleEn": "When you see an adult, you should greet first.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "얼굴",
+  "meaningEn": "face",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 여동생은 얼굴이 예쁩니다.",
+  "exampleEn": "My little sister has a pretty face.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "흰색",
+  "meaningEn": "white",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제 남자 친구는 흰색이 잘 어울립니다.",
+  "exampleEn": "My boyfriend looks good in white.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "특히",
+  "meaningEn": "especially",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 운동을 좋아합니다. 특히 축구를 좋아합니다.",
+  "exampleEn": "I like working out. Especially, I like playing soccer.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "항상",
+  "meaningEn": "always",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 공부할 때 항상 음악을 듣습니다.",
+  "exampleEn": "I always listen to music while studying.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "벗다",
+  "meaningEn": "take off",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "집에 들어갈 때에는 신발을 벗습니다.",
+  "exampleEn": "When you go into the house, you should take off your shoes.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "생각하다",
+  "meaningEn": "think",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "내일 할 일을 생각하고 있습니다.",
+  "exampleEn": "I am thinking of what to do tomorrow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "올라가다",
+  "meaningEn": "go up",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "주말마다 산에 올라갑니다.",
+  "exampleEn": "I go up on a mountain every weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "웃다",
+  "meaningEn": "smile/laugh",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "웃는 얼굴이 예쁩니다.",
+  "exampleEn": "A smiling face looks pretty.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "노랗다",
+  "meaningEn": "yellow",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "그 옷은 색깔이 노랗습니다.",
+  "exampleEn": "The color of the clothes is yellow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "비슷하다",
+  "meaningEn": "similar",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저와 제 동생은 얼굴이 비슷합니다.",
+  "exampleEn": "I and my younger brother/sister have similar faces.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "빨갛다",
+  "meaningEn": "red",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "가을에는 단풍의 색이 빨갛습니다.",
+  "exampleEn": "The color of leaves is red in autumn.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다",
+  "meaningEn": "all",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "가: 숙제 다 했습니까? / 나: 네, 다 했습니다.A: Have you finished all of your homework? / B: Yes, I have finished them all.",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "화가 나다",
+  "meaningEn": "angry (feel anger)",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "저는 친구가 약속 시간에 늦어서 화가 났습니다.",
+  "exampleEn": "I was angry because my friend was late for the appointment.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "화를 내다",
+  "meaningEn": "get angry (express anger to someone else)",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "물건",
+  "meaningEn": "thing/stuff",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "오랜만",
+  "meaningEn": "after a long time",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "오랜만에 친구를 만났습니다.",
+  "exampleEn": "I have met my friend after a long time.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "올해",
+  "meaningEn": "this year",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 올해 스무 살입니다.",
+  "exampleEn": "I am twenty years old this year.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "팔다",
+  "meaningEn": "sell",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "백화점에서는 여러 가지 물건을 팝니다.",
+  "exampleEn": "Many kinds of things are sold in a department store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "바라다",
+  "meaningEn": "wish",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "시험에 합격하기를 바랍니다.",
+  "exampleEn": "I wish you would pass the exam.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "주고받다",
+  "meaningEn": "exchange",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구들과 문자를 주고받았습니다.",
+  "exampleEn": "I exchanged text messages with my friends.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다양하다",
+  "meaningEn": "various",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "시장에 가면 다양한 음식과 물건이 있습니다.",
+  "exampleEn": "There are various foods and things at the market.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "소중하다",
+  "meaningEn": "precious/valuable",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저에게 제일 소중한 물건은 아버지의 편지입니다.",
+  "exampleEn": "The most valuable thing to me is my father’s letters.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "공항",
+  "meaningEn": "airport",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "공항에서 비행기를 탑니다.",
+  "exampleEn": "I am riding an airplane at the airport.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "노래",
+  "meaningEn": "song",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "노래방에서 노래를 부릅니다.",
+  "exampleEn": "I sing songs in a Karaoke room.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가입하다",
+  "meaningEn": "join",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 대학교에서 태권도 동아리에 가입했습니다.",
+  "exampleEn": "I joined the Taekwondo club at my university.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다녀오다",
+  "meaningEn": "go and be back",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "어머니, 학교에 다녀오겠습니다.",
+  "exampleEn": "Mom, I am going to school (and will be back).",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "잃어버리다",
+  "meaningEn": "lose",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "아침에 지하철에서 지갑을 잃어버렸습니다.",
+  "exampleEn": "In the morning, I lost my wallet in the subway train.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "그립다",
+  "meaningEn": "miss/long for",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "유학",
+  "meaningEn": "studying abroad",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 한국어를 공부하러 한국에 유학을 왔습니다.",
+  "exampleEn": "I came to Korea to study Korean language.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "작년",
+  "meaningEn": "last year",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 작년에 대학교를 졸업했습니다.",
+  "exampleEn": "I graduated from university last year.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "점심 식사",
+  "meaningEn": "lunch",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "점심 식사를 맛있게 드셨습니까?",
+  "exampleEn": "Was your lunch delicious?",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "직접",
+  "meaningEn": "directly",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "제가 선생님을 만나서 직접 이야기하겠습니다.",
+  "exampleEn": "I will meet the teacher and tell him directly.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "천천히",
+  "meaningEn": "slowly",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "저는 친구와 천천히 걸으면서 많은 이야기를 했습니다.",
+  "exampleEn": "Walking slowly, I talked a lot with my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "듣다",
+  "meaningEn": "listen",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 음악을 좋아해서 항상 음악을 들으면서 공부합니다.",
+  "exampleEn": "I like music, so I always listen to music while studying.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "싫다",
+  "meaningEn": "dislike",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저는 겨울이 싫습니다.",
+  "exampleEn": "I dislike winter.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "가게",
+  "meaningEn": "store/shop",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "가게에서 주스를 삽니다.",
+  "exampleEn": "I am buying juice at the store.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "경험",
+  "meaningEn": "experience",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 여러 가지 아르바이트를 해 봐서 경험이 많습니다.",
+  "exampleEn": "I have a lot of experience since I have had  various part-time jobs.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "기억하다",
+  "meaningEn": "remember",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "10년 전 친구를 만났는데 그 친구는 저를 기억하지 못합니다.",
+  "exampleEn": "I met my friend ten years ago, but he/she doesn’t remember me.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "느끼다",
+  "meaningEn": "feel",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 친구가 도와줄 때, 친구의 사랑을 느낍니다.",
+  "exampleEn": "When my friend helps me, I feel his/her  affection.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "생각나다",
+  "meaningEn": "think of/remind",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "고향 사진을 보면 부모님이 생각납니다.",
+  "exampleEn": "When I see some photographs of my hometown, I think of my parents.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "원하다",
+  "meaningEn": "want/wish",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "사람들은 건강하게 살기를 원합니다.",
+  "exampleEn": "People want to live healthy life.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "발표",
+  "meaningEn": "make a presentation",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "우리 반 학생들 앞에서 발표를 했습니다.",
+  "exampleEn": "I made a presentation in front of my classmates.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "유학생",
+  "meaningEn": "international student",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "저는 한국에 유학 온 유학생입니다.",
+  "exampleEn": "I am an international student who came to Korea to study.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "제목",
+  "meaningEn": "title",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "내일 보기로 한 영화 제목을 알려 주십시오.",
+  "exampleEn": "Tell me the title of the movie we will watch tomorrow.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "참석",
+  "meaningEn": "attendance",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "유학생은 모두 이번 행사에 참석을 합니다.",
+  "exampleEn": "International students will all attend this event.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "계획하다",
+  "meaningEn": "plan",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "방학에 여행을 하고 싶어서 요즘 여행 일정을 계획하고 있습니다.",
+  "exampleEn": "I want to travel during the vacation, so I am planning it these days.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "열리다",
+  "meaningEn": "be held",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "참가하다",
+  "meaningEn": "enter/participate",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "저는 이번 말하기 대회에 참가합니다.",
+  "exampleEn": "I will enter this speech competition.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "전",
+  "meaningEn": "beforenoun/article",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "시작 시간 10분 전까지 오시기 바랍니다.",
+  "exampleEn": "Make sure to arrive no later than 10 minutes before the starting time.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "관심",
+  "meaningEn": "(이) 있다 be interested in",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "저는 한국 영화에 관심이 있어서 한국어를 배우게 됐습니다.",
+  "exampleEn": "I am interested in Korean movies, so I learned Korean language.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "최근",
+  "meaningEn": "recently",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "이 티셔츠는 최근 유행하는 옷입니다.",
+  "exampleEn": "This T-shirt is a popular outfit recently.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "선택하다",
+  "meaningEn": "select (more formal than choose)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "먹고 싶은 음식을 선택하면 만들어 줍니다.",
+  "exampleEn": "After you select a food you want to eat, they will make it for you.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "유행하다",
+  "meaningEn": "get popular/spread (of illness)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "요즘 감기가 유행하고 있습니다.",
+  "exampleEn": "The cold is spreading these days.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "준비하다",
+  "meaningEn": "prepare",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "생일 선물을 준비하려고 선물 가게에 갔습니다.",
+  "exampleEn": "I went to a gift shop to prepare a birthday present.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "참여하다",
+  "meaningEn": "take part in/participate",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "한글날 행사에 참여하고 싶은 분은 연락을 주시기 바랍니다.",
+  "exampleEn": "Those who want to take part in the event of the Hangul Proclamation Day.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "따라 하다",
+  "meaningEn": "follow",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "엄마가 인사를 하니까 아이가 따라 합니다.",
+  "exampleEn": "As the mother greets others, her child follows her.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나누다",
+  "meaningEn": "share",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "빵이 하나 있어서 친구하고 나누어 먹었습니다.",
+  "exampleEn": "I had a piece of bread, so I shared it with my friend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "넣다",
+  "meaningEn": "put in",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "음식을 냉장고에 넣습니다.",
+  "exampleEn": "I put some food in the refrigerator.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "놓다",
+  "meaningEn": "put on",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "책을 책상 위에 놓습니다.",
+  "exampleEn": "I put a book on the desk.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모으다",
+  "meaningEn": "save/gather/collect",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "여행을 가려고 돈을 모았습니다.",
+  "exampleEn": "I saved money to go traveling.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "정리하다",
+  "meaningEn": "arrange/clean up",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "주말에 방을 깨끗하게 정리했습니다.",
+  "exampleEn": "I cleaned up my room last weekend.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "나라",
+  "meaningEn": "country/nation",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "가: 어느 나라 사람입니까? / 나: 저는 한국 사람입니다. A: Which country are you from? / B: I am a Korean.(= I am from Korea.)",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "내년",
+  "meaningEn": "next year",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "올해 열심히 공부해서 내년에는 꼭 대학교에 들어갈 겁니다.",
+  "exampleEn": "I will study hard this year and surely go on to  university next year.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "모임",
+  "meaningEn": "meeting/gathering",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "가족 모임에 참석했습니다.",
+  "exampleEn": "I attended my family gathering.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "점점",
+  "meaningEn": "more and more/gradually",
+  "posEn": "adverb",
+  "freqMark": "",
+  "exampleKo": "요즘 날씨가 점점 추워지고 있습니다.",
+  "exampleEn": "These days the weather is getting cold more and more.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "다치다",
+  "meaningEn": "get hurt",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "친구는 교통사고가 나서 많이 다쳤습니다.",
+  "exampleEn": "My friend had a traffic accident and got hurt.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "달리다",
+  "meaningEn": "run",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "아침에 일찍 일어나서 운동장을 달렸습니다.",
+  "exampleEn": "I got up early in the morning and ran in the track field.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "드시다",
+  "meaningEn": "(들다)eat (honorific form of 먹다)",
+  "posEn": "verb",
+  "freqMark": "",
+  "exampleKo": "제가 만든 요리입니다. 많이 드십시오.",
+  "exampleEn": "I cooked this dish. Enjoy yourself.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "친하다",
+  "meaningEn": "be close to/be friendly with",
+  "posEn": "adjective",
+  "freqMark": "",
+  "exampleKo": "저는 우리 반 친구들과 친합니다.",
+  "exampleEn": "I am close to my classmates.",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "거의",
+  "meaningEn": "almost",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "검사",
+  "meaningEn": "examination/inspection",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어디가 아픈지 검사를 해 봅시다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "구매",
+  "meaningEn": "purchase",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘은 충동적으로 구매를 하는 경우가 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "나타나다",
+  "meaningEn": "show/appear",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 기획안을 검토해 보니 문제가 많이 나타났다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "늘다",
+  "meaningEn": "increase",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "처음 동호회 활동을 시작했을 때 한 명이던 회원이 지금은 백 명으로 늘었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "맡기다",
+  "meaningEn": "leave",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 도서관에 신분증을 맡기고 책을 빌렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "쏟다",
+  "meaningEn": "spill",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "물을 쏟아서 바닥이 미끄럽다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "젖다",
+  "meaningEn": "get wet",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "비가 와서 옷이 다 젖었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "조사하다",
+  "meaningEn": "research/investigate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "외국인을 대상으로 한국에서 가장 가고 싶은 곳을 조사했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "줄어들다",
+  "meaningEn": "decrease/shrink",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "농촌 인구가 계속 줄어들고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "켜지다",
+  "meaningEn": "(light or power) turn on",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "밤이 되자 가게에 하나둘 불이 켜졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "뒤를 잇다",
+  "meaningEn": "follow/succeed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "외국인이 가장 좋아하는 음식으로 비빔밥이 1위를 차지했고 불고기, 삼계탕이 그 뒤 를 이었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고객",
+  "meaningEn": "client/customer",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "저희 식당은 고객님의 만족을 위해 언제나 노력하겠습니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보호",
+  "meaningEn": "protection",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리는 문화재 보호를 위해 노력해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "소음",
+  "meaningEn": "noise",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 지역은 소음으로 인한 문제가 너무 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "접수",
+  "meaningEn": "receipt/reception",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회원 접수는 인터넷 홈페이지에서만 가능하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "마음껏",
+  "meaningEn": "as much as one wants",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "음식을 많이 준비했으니 마음껏 드세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "망설이다",
+  "meaningEn": "hesitate",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "잠시 무엇을 사야 할지 망설였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "방문하다",
+  "meaningEn": "visit",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "이번 전시회를 방문한 사람이 만 명이 넘었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "알리다",
+  "meaningEn": "notify/inform",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "도착하면 저에게 알려 주십시오.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "알아보다",
+  "meaningEn": "find",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 옮길 직장을 알아보고 있어요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "이사하다",
+  "meaningEn": "move",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "내년 6월에 부모님 집으로 이사할 겁니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "아쉽다",
+  "meaningEn": "sorry, regretful",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자주 가던 도서관이 없어져서 아쉽다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고장",
+  "meaningEn": "breakdown/out of order",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "텔레비전은 고장이 나서 소리가 안 난다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "배송",
+  "meaningEn": "delivery",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "온라인 쇼핑몰은 물건 배송이 빠르다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "원인",
+  "meaningEn": "cause",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경찰은 이번 사건의 원인을 조사하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "정확히",
+  "meaningEn": "exactly/accurately",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "예전 집 주소가 정확히 기억은 안 나지만 찾아갈 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "관련되다",
+  "meaningEn": "be related to/be involved in",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 일에 관련된 사람들이 모두 모였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수집하다",
+  "meaningEn": "collect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 사람은 취미로 우표를 수집한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "작성하다",
+  "meaningEn": "write/fill out",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신청서를 작성하여 사무실에 제출하세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제출하다",
+  "meaningEn": "submit/hand in",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "교수님께서 이번 주말까지 과제를 제출하라고 하셨다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "주문하다",
+  "meaningEn": "order",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리는 배가 고파서 식당에 들어가자마자 음식을 주문했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "짜다",
+  "meaningEn": "make/organize",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 시험보기 전에 공부 계획을 짰다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "비용이 들다",
+  "meaningEn": "cost",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "공공",
+  "meaningEn": "public",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "공공 기관에서는 예절을 지켜야 합니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시설",
+  "meaningEn": "facility",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "시민들의 편의를 위한 시설에 많은 투자를 하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "예정",
+  "meaningEn": "schedule",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 출장은 예정보다 길어질 것 같다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "위기",
+  "meaningEn": "crisis",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사라질 위기에 놓인 동물들을 보호해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "점검",
+  "meaningEn": "checkup",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지역",
+  "meaningEn": "region/area",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 지역은 관광지로 유명한 곳이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "감소하다",
+  "meaningEn": "decrease",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "비우다",
+  "meaningEn": "empty/vacate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "새로운 사람이 오기 전에 방을 비워 주세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "실시하다",
+  "meaningEn": "implement/carry out",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "올해부터 분리수거를 실시하기로 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "양해하다",
+  "meaningEn": "understand",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "열차가 지연되고 있으니 양해해 주시기 바랍니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "연장하다",
+  "meaningEn": "extend",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 행사는 고객들의 호응이 좋은 편이어서 일주일 더 연장하기로 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "작동되다",
+  "meaningEn": "work/operate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "기계가 제대로 작동되는지 확인해 봅시다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "확대하다",
+  "meaningEn": "expand/enlarge",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 복지 시설을 확대하기 위해 시민들의 의견을 조사했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기술",
+  "meaningEn": "technology/technique",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "과학 기술은 나날이 발전하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "나중",
+  "meaningEn": "future",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나중을 위해서 돈을 아껴 두는 것도 좋다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "업무",
+  "meaningEn": "work/business",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회사 업무가 많아 야근을 자주 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "칭찬",
+  "meaningEn": "praise/compliment",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "오늘 수업 시간에 한국어 발음이 좋다고 칭찬을 받았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "충분히",
+  "meaningEn": "enough",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "학생들에게 생각할 시간을 충분히 주어야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "강조하다",
+  "meaningEn": "emphasize/stress",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아이들에게 저축의 필요성을 강조했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거절하다",
+  "meaningEn": "reject/refuse",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "민수는 나의 부탁을 거절했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "구하다",
+  "meaningEn": "look for/seek for",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경기가 어려워서 그런지 일자리를 구하기가 쉽지 않네요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "따라가다",
+  "meaningEn": "follow/catch up",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "식당 음식이 아무리 맛있어도 어머니 손맛은 따라갈 수 없다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무리하다",
+  "meaningEn": "overdo",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "너무 무리하지 말고 좀 쉬세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반복하다",
+  "meaningEn": "repeat",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "너는 왜 같은 말을 반복하니?",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "빠지다",
+  "meaningEn": "fall out/fall into",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "수업에 빠지지 말고 학교에 오세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "참석하다",
+  "meaningEn": "participate/attend",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 회의는 회장님도 참석하시는 중요한 회의입니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "여유",
+  "meaningEn": "composure",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "자기 개발",
+  "meaningEn": "self-development",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "평소에 자기 개발을 게을리하면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "쓸데없이",
+  "meaningEn": "unnecessarily/uselessly",
+  "posEn": "",
+  "freqMark": "3",
+  "exampleKo": "쓸데없이 돈을 낭비하지 마세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "구비되다",
+  "meaningEn": "be equipped with",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "백화점에 다양한 전자 제품이 구비되어 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "권하다",
+  "meaningEn": "recommend",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "억지로 술을 권하는 것은 좋지 않다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "막다",
+  "meaningEn": "block/stop",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "에너지 손실을 막기 위한 시설을 만들었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "숨기다",
+  "meaningEn": "hide/conceal",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "민수는 나에게 그 사실을 숨겼다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "유출되다",
+  "meaningEn": "leak",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "시험 정보가 유출되지 않게 관리를 잘 해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "후회하다",
+  "meaningEn": "regret",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "부담스럽다",
+  "meaningEn": "feel uncomfortable",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "민수는 부담스러울 정도로 나에게 잘해 준다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "철저하다",
+  "meaningEn": "thorough",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 병원은 고객 관리를 철저하게 하기로 유명하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "긍정적",
+  "meaningEn": "positive",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "항상 긍정적인 생각을 하며 산다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "노년층",
+  "meaningEn": "the elderly",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "한국의 노년층 인구가 계속 증가하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반응",
+  "meaningEn": "reaction",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "이번에 음반을 출시했는데 반응이 아주 좋다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "적성",
+  "meaningEn": "aptitude",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "적성에 맞는 전공을 찾아서 공부해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "허락",
+  "meaningEn": "permission",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "청소년들은 부모님의 허락을 받고 여행을 가야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "괜히",
+  "meaningEn": "without reason",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "괜히 쓸데없는 곳에 돈 쓰지 말고 나중을 위해 저축해.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "권장하다",
+  "meaningEn": "recommend",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "학교에서는 학생들에게 독서를 권장한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "옮기다",
+  "meaningEn": "move/transmit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 책상을 옆 교실로 옮겨 주세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제안하다",
+  "meaningEn": "suggest",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 모임에서 동창들에게 해외여행을 가자고 제안했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "처리하다",
+  "meaningEn": "handle",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "저에게 그 일을 맡겨 주시면 신속하게 처리하겠습니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "홍보하다",
+  "meaningEn": "promote",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회사를 홍보하기 위해 열심히 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "간단하다",
+  "meaningEn": "simple",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 컴퓨터 프로그램의 이용 방법은 아주 간단해요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기부",
+  "meaningEn": "donation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어려운 사람들을 위한 기부가 나날이 증가하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "나눔",
+  "meaningEn": "share",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나눔의 실천은 행복의 지름길입니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "만족",
+  "meaningEn": "satisfaction",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 사람은 몸이 불편한데도 삶에 만족을 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "재능",
+  "meaningEn": "talent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 재능을 기부하는 사람들이 많아졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "함부로",
+  "meaningEn": "recklessly",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "남의 물건을 함부로 쓰면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "도전하다",
+  "meaningEn": "challenge",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그녀는 늘 새로운 일에 도전하고 연구하는 것을 좋아한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "안심하다",
+  "meaningEn": "relax/be relieved",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘은 안심하고 먹을 수 있는 음식이 별로 없다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "차별화",
+  "meaningEn": "(되다)2 bedifferentiated",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "독특하고 차별화된 제품은 젊은이들 사이에서 인기가 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "평가하다",
+  "meaningEn": "evaluate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "너무 쉽게 그 사람을 평가하지 마세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "포기하다",
+  "meaningEn": "give up",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나이가 어리기 때문에 공부를 포기하면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "효과를 거두다",
+  "meaningEn": "make fruit/ make an effect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "음악을 활용한 치료 방법이 스트레스를 줄이는 데 많은 효과를 거두었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "규정",
+  "meaningEn": "regulation",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반칙",
+  "meaningEn": "foul",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "온통",
+  "meaningEn": "all/entirely",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "눈이 많이 와서 세상이 온통 하얗다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "처벌",
+  "meaningEn": "punishment/penalty",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "잘못을 했으면 당연히 처벌을 받아야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "검토하다",
+  "meaningEn": "review",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대신하다",
+  "meaningEn": "replace/substitute",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "나는 아침마다 빵으로 아침을 대신한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "비판하다",
+  "meaningEn": "criticize",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지적하다",
+  "meaningEn": "point out",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "선생님은 내 태도에 문제가 있다고 지적하셨다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "마땅하다",
+  "meaningEn": "suitable",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "안타깝다",
+  "meaningEn": "regretful",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 대회에서 일등을 하지 못한 것이 안타깝다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "유도하다",
+  "meaningEn": "induce",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "금연을 유도하기 위해 금연 광고를 하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반감을 사다",
+  "meaningEn": "antagonize (a person)",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 남자는 교수님 앞에서 예의 없는 모습을 보이는 바람에 친구들의 반감을 샀다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "일리가 있다",
+  "meaningEn": "make sense",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신경을 많이 쓰면 머리카락이 하얘진다는 말은 일리가 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "가치관",
+  "meaningEn": "value",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "교육은 올바른 가치관을 형성하는 데 도움을 준다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "교육적",
+  "meaningEn": "educational",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 영화는 폭력적인 장면이 많아서 교육적으로 좋지 않다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "금지",
+  "meaningEn": "prohibition",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "출입 금지 구역에는 들어가면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "사고방식",
+  "meaningEn": "point of view",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사고방식의 차이로 오해가 생기기도 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "성장",
+  "meaningEn": "growth/development",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어렸을 때의 가정환경은 아이들의 성장에 영향을 준다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "정서적",
+  "meaningEn": "emotional",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "게임은 정서적인 면에서 아이들에게 좋지 않다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "초점",
+  "meaningEn": "focus",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "글을 쓸 때는 주제에 초점을 맞춰야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개방시키다",
+  "meaningEn": "open",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "문화를 개방시키면 다양한 문화에 대한 이해도가 높아진다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "관리하다",
+  "meaningEn": "manage",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어릴 때부터 돈을 관리하는 방법을 배워야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "교체하다",
+  "meaningEn": "exchange/replace",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "오래된 컴퓨터를 새 컴퓨터로 교체했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "손상되다",
+  "meaningEn": "get damaged",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "파마를 많이 해서 머리가 많이 손상되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수용하다",
+  "meaningEn": "accept",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "다른 사람의 의견을 수용하지 못하고 자신의 주장만 내세운다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "훼손하다",
+  "meaningEn": "damaged",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "등산을 하는 것은 좋지만 자연은 훼손하지 말아야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "귀중하다",
+  "meaningEn": "valuable",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "부모님께 받은 귀중한 반지를 잃어버려서 속상했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고충",
+  "meaningEn": "difficultly/trouble",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "고충 센터는 사람들의 고민을 들어 주는 곳이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "근본적",
+  "meaningEn": "fundamental",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "근본적인 문제를 해결하지 않으면 문제는 또 발생할 것이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기존",
+  "meaningEn": "existing",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이사하면서 기존에 사용하던 전자제품을 모두 버렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대안",
+  "meaningEn": "alternative",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 문제를 해결할 다른 대안이 없다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "편의 시설",
+  "meaningEn": "convenience facilities",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "집 주변에는 도서관, 은행, 병원 등의 편의 시설이 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "혜택",
+  "meaningEn": "benefit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아이를 많이 낳을수록 정부에서 주는 해택도 커진다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "효율",
+  "meaningEn": "efficiency",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사무실의 환경을 변화시켜 일의 효율을 높이기 위해 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "동의하다",
+  "meaningEn": "agree",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "저도 사장님의 의견과 같으므로 동의합니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "분석하다",
+  "meaningEn": "analyze",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "교통사고의 원인을 분석한 자료가 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "설득시키다",
+  "meaningEn": "persuade",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "유학을 반대하는 부모님을 어렵게 설득시켜서 유학을 오게 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "유지하다",
+  "meaningEn": "maintain",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "몸무게를 일정하게 유지하기 위해서 항상 운동을 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "존중하다",
+  "meaningEn": "respect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "다른 사람의 의견을 존중해야 좋은 리더가 될 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지지하다",
+  "meaningEn": "support",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부의 정책에 반대하는 사람이 있는 반면 지지하는 사람도 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "가능성",
+  "meaningEn": "possibility",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 일은 실현 가능성이 적다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "성공",
+  "meaningEn": "success",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "성공만을 추구하다가는 작은 행복을 놓칠 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시기",
+  "meaningEn": "time",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지금은 그런 말을 할 시기가 아니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "실패",
+  "meaningEn": "failure",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "누구나 한 번쯤은 실패를 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "인맥",
+  "meaningEn": "human network",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "인맥 없이 능력만으로 사장이 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "한계",
+  "meaningEn": "limit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 자기 능력의 한계를 넘어 한 단계 더 성장했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "공유하다",
+  "meaningEn": "share",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 팀원들은 서로 정보를 공유하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "교류하다",
+  "meaningEn": "interchange",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "동양과 서양은 서로 교류하면서 발전했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "발휘하다",
+  "meaningEn": "show/prove",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자기가 가지고 있는 실력을 최대한 발휘해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보살피다",
+  "meaningEn": "look after",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 아이는 어린 나이에도 불구하고 동생들을 잘 보살핀다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "소외되다",
+  "meaningEn": "be neglected/be isolated",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "국가에서는 소외된 계층에 생활비를 지원해 주고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "형성하다",
+  "meaningEn": "form",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "청소년기는 인격을 형성하는 데 중요한 시기이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "사소하다",
+  "meaningEn": "trivial",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "친구하고 사소한 일로 다투고 나니 기분이 안 좋다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개발",
+  "meaningEn": "development",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 회사는 새로운 제품을 개발 중이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "신념",
+  "meaningEn": "belief",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신념이 강한 사람은 어떤 유혹에도 흔들리지 않는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제작",
+  "meaningEn": "production",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "휴대 전화를 이용한 영화 제작이 유행이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거듭나다",
+  "meaningEn": "be reborn/be born again",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "부산은 국제 영화제를 통해 국제적인 도시로 거듭나고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "나아가다",
+  "meaningEn": "advance/go forward",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "앞으로 더 나아가기 위해서는 우선 이 문제를 해결해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "되돌아보다",
+  "meaningEn": "look back",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지난 과거를 되돌아보니 많은 아쉬움이 남는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시달리다",
+  "meaningEn": "suffer",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "밤새도록 불면증에 시달렸더니 오늘 하루가 너무 힘들다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "전시하다",
+  "meaningEn": "display/exhibit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이곳에서는 유명한 화가의 작품을 전시하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "중시하다",
+  "meaningEn": "emphasize/ put importance on",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자신의 건강을 중시하는 현대인들은 건강식품에 관심이 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "판단하다",
+  "meaningEn": "determine/judge",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "위기 상황에서는 정확하게 판단할 수 있어야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "향하다",
+  "meaningEn": "face toward/head",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 모두 미래를 향해서 앞으로 나아갑시다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "후원하다",
+  "meaningEn": "sponsor/aid",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 사진 전시회는 각 방송사에서 후원한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "눈부시다",
+  "meaningEn": "dazzling",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "한국은 50년 만에 눈부신 경제 성장을 이루었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "최선을 다하다",
+  "meaningEn": "do one’s best",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리는 이번 경기에서 최선을 다해 반드시 이기겠습니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "가치",
+  "meaningEn": "value",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "승부",
+  "meaningEn": "game/victory",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "요령",
+  "meaningEn": "knack/know-how",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자전거는 타는 요령만 알면 어렵지 않다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "질병",
+  "meaningEn": "disease/illness",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 커서 질병을 치료하는 의사가 되고 싶다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "체내",
+  "meaningEn": "interior of body/in vitro",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "짠 음식은 체내에 나쁜 영향을 준다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "체중",
+  "meaningEn": "body weight",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "화제",
+  "meaningEn": "topic",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "전통술인 막걸리가 해외에서도 화제가 되고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "감량하다",
+  "meaningEn": "reduce weight",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "단기간에 체중을 감량하기란 매우 어려운 일이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "갖추다",
+  "meaningEn": "prepare",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 응모전에 모든 서류를 갖춰서 지원했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거치다",
+  "meaningEn": "pass/go through",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "공정한 심사를 거쳐 이번 대회의 합격자를 뽑았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대처하다",
+  "meaningEn": "cope with/deal with",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "동물마다 추위에 대처하는 방법이 다르다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "저장하다",
+  "meaningEn": "save/store",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "옛날에 장독대는 음식을 저장하는 공간이었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "회피하다",
+  "meaningEn": "avoid/dodge",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어려운 일은 회피하기보다는 해결하려고 노력해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흔들리다",
+  "meaningEn": "shake",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "대지진으로 건물이 흔들렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "공급",
+  "meaningEn": "supply",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "전기료를 안 냈더니 전기 공급을 해 주지 않는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "균형",
+  "meaningEn": "balance",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "토론할 때 사회자는 균형을 잘 잡아야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "양육",
+  "meaningEn": "nurture",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자녀 양육을 위해 직장을 그만두어야 하는 여성들이 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "요인",
+  "meaningEn": "factor",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지구가 따뜻해지는 요인은 무엇인가?",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "우울증",
+  "meaningEn": "depression",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우울증에는 가족과 친구들의 사랑이 약이 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "측면",
+  "meaningEn": "aspect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "교육적 측면에서 체벌은 좋은 지도 방법이 아니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "희생",
+  "meaningEn": "sacrifice",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "부모는 자식을 위해서라면 어떤 희생도 감수한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "극복하다",
+  "meaningEn": "overcome",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "암을 극복하고 새 삶을 살고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "분포되다",
+  "meaningEn": "be distributed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 지역은 다양한 연령대가 분포되어 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "분해하다",
+  "meaningEn": "dissolve",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "고장이 난 휴대 전화를 하나씩 분해했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "섭취하다",
+  "meaningEn": "ingest",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "인간은 음식을 섭취해야 살아갈 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "소비되다",
+  "meaningEn": "be consumed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 일을 진행하려면 많은 돈과 시간이 소비된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지원하다",
+  "meaningEn": "support/assist",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지진으로 피해를 입은 지역에 의료 장비를 지원했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "투자하다",
+  "meaningEn": "invest",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근 직장인들 사이에 자기 개발을 위해 시간과 돈을 투자하는 사람이 늘고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "괴로움",
+  "meaningEn": "pain/distress",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "두려움",
+  "meaningEn": "fear",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "어두운 방안에 혼자 남자 두려움이 생겼다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "사망자",
+  "meaningEn": "casualty",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "매년 암으로 인한 사망자가 늘고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "생태계",
+  "meaningEn": "eco-system",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수명",
+  "meaningEn": "lifespan",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "조화",
+  "meaningEn": "harmony",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "차이",
+  "meaningEn": "difference",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리는 문화적 차이를 극복하고 결혼을 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "파괴",
+  "meaningEn": "destruction",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "산림 파괴로 지구의 사막화가 빠르게 진행되고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "평균",
+  "meaningEn": "average",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "직장인의 평균 근무 시간은 8시간이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "공존하다",
+  "meaningEn": "coexist",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 건축물은 고전과 현대가 절묘하게 공존한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시급하다",
+  "meaningEn": "urgent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "보육 시설 부족에 대한 정부의 대책 마련이 시급하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "치료하다",
+  "meaningEn": "cure/heal",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "비만을 치료하기 위해서 하루에 세 시간씩 걸었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무분별하다",
+  "meaningEn": "thoughtless",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "무분별한 개발로 동물들의 살 곳이 사라지고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "완벽하다",
+  "meaningEn": "perfect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "평소에 완벽하고 철저한 그녀가 실수를 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상황",
+  "meaningEn": "situation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "만일의 상황에 대비해 돈을 모아야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "신뢰",
+  "meaningEn": "trust",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "한번 무너진 신뢰는 회복하기가 어렵다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "집단",
+  "meaningEn": "group",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "집단 생활을 하는 기숙사에서는 담배를 피우면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "깨닫다",
+  "meaningEn": "realize/notice",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "독서를 통해 삶의 의미를 깨닫고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "배출되다",
+  "meaningEn": "emit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "공장에서 배출되는 폐수로 인해 수질 오염이 심각해졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보존하다",
+  "meaningEn": "preserve",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리의 아름다운 문화유산을 잘 보존해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상징하다",
+  "meaningEn": "symbolize",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "한국에서 돼지는 복과 돈을 상징한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "이동하다",
+  "meaningEn": "move",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "철새들은 추운 겨울이 되면 남쪽으로 이동한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "통제되다",
+  "meaningEn": "be controlled",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 지역은 언론이 통제된 곳이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "포함하다",
+  "meaningEn": "include",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 가족은 나를 포함해 모두 다섯 명이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "회복하다",
+  "meaningEn": "recover",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "잘 쉬시고 빨리 회복하시기 바랍니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무관하다",
+  "meaningEn": "irrelevant",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 사건과 나는 전혀 무관하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "쓸모없다",
+  "meaningEn": "useless",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "쓸모없는 공간을 활용해서 작업실을 만들었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "우수하다",
+  "meaningEn": "excellent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "비싼 물건이라고 해서 모두 품질이 우수한 것은 아니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "과언이 아니다",
+  "meaningEn": "no exaggeration",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 세계 제일의 성악가라고 해도 과언이 아니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고유문화",
+  "meaningEn": "native culture",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "근거",
+  "meaningEn": "reason/ground",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "근거도 없는 소문을 믿으면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "논리",
+  "meaningEn": "logic",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "이해할 수 없는 논리로 자신의 의견을 내세우고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "분야",
+  "meaningEn": "field/area",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 컴퓨터 분야에서만큼은 능력을 인정받고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "인공적",
+  "meaningEn": "artificial",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사람들에 의해서 만들어진 것을 인공적이라고 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "창조적",
+  "meaningEn": "creative",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "협조",
+  "meaningEn": "cooperation",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기증하다",
+  "meaningEn": "donate",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대체하다",
+  "meaningEn": "replace/substitute",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "화석 연료를 대체할 새로운 에너지 개발이 한창이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "소통하다",
+  "meaningEn": "communicate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "여기다",
+  "meaningEn": "regard",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 신세대 직장인들은 일보다 가족을 더 소중히 여긴다고 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제시하다",
+  "meaningEn": "propose",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "문제를 해결할 수 있는 좋은 대안을 제시했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "중요시하다",
+  "meaningEn": "emphasize/stress",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "결과보다는 일의 과정을 중요시해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "드물다",
+  "meaningEn": "rare",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "겨울에는 눈이 많이 와서 등산하는 사람이 드물다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "경쟁력",
+  "meaningEn": "competitiveness",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경쟁력을 키우기 위해 새로운 기술 개발에 많은 투자를 하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "구성원",
+  "meaningEn": "member",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "올해는 가족 구성원 모두가 건강했으면 좋겠습니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "선진국",
+  "meaningEn": "developed(advanced) countries",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정치, 경제, 문화 등이 발달한 나라를 선진국이라고 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "원자력",
+  "meaningEn": "nuclear power",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "원자력 에너지 대신에 사용할 수 있는 대체 에너지 개발이 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "현황",
+  "meaningEn": "present situation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신제품의 판매 현황을 조사하여 사장님께 보고서로 제출했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기대하다",
+  "meaningEn": "anticipate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 연극은 기대했던 만큼 재미있지는 않았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "발맞추다",
+  "meaningEn": "keep up",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "세계와 발맞추어 나가기 위해서는 빠른 정보력이 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "복원하다",
+  "meaningEn": "restore",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "전쟁으로 사라졌던 문화재를 다시 복원하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "선호하다",
+  "meaningEn": "prefer",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "젊은 사람들은 주택보다 아파트를 선호한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "육성하다",
+  "meaningEn": "nurture/foster",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 나라의 발전을 위해 젊은 인재를 육성하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흥행하다",
+  "meaningEn": "have a hit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "영화는 사람들에게 인기를 얻어야 흥행할 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거창하다",
+  "meaningEn": "grandiose/portentous",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "방학이 시작되기 전에는 거창한 계획을 세워 놓았지만 모두 지키지 못했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "뛰어나다",
+  "meaningEn": "outstanding",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 그림에 뛰어난 소질을 갖고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "절실하다",
+  "meaningEn": "urgent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 시험에서 떨어지면 더 이상 기회가 없기 때문에 더 절실하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "관점",
+  "meaningEn": "point of view",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기아",
+  "meaningEn": "hunger",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "많은 사람들이 아직도 기아로 인해 고통 받고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "발효",
+  "meaningEn": "fermentation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "김치, 된장, 고추장 등은 한국의 발효 식품이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수단",
+  "meaningEn": "way/means",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지하철은 빠르고 편리한 교통수단이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "저서",
+  "meaningEn": "books/works",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지구촌",
+  "meaningEn": "global village",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지구촌은 지구가 한 마을과 같다는 뜻이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "확보",
+  "meaningEn": "securing",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "많은 일자리 확보를 위해 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "가공하다",
+  "meaningEn": "process",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "직접 짠 우유를 가공해서 치즈를 만들어서 팔았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반박하다",
+  "meaningEn": "refute",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "반박할 수 없는 완벽한 논리로 주장을 펼쳤다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보도하다",
+  "meaningEn": "report",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 화재 사건을 신문과 텔레비전에서 보도하였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "증명하다",
+  "meaningEn": "prove",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 사람의 무죄를 증명할 수 있는 증거 자료가 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "해석하다",
+  "meaningEn": "interpret",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "역사는 어떻게 해석하느냐에 따라 달라진다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "바람직하다",
+  "meaningEn": "desirable",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아이가 잘못을 했을 때는 따끔하게 야단을 치는 것이 바람직하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "풍부하다",
+  "meaningEn": "abundant",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경제적으로 풍부한 그는 모든 것을 가지고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대표",
+  "meaningEn": "representative",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 우리 반 대표로 반장이 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "부서",
+  "meaningEn": "department",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 부서에서는 기획 업무를 맡고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "일정",
+  "meaningEn": "schedule",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "갑자기 내린 폭우로 여행 일정이 모두 취소되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "취소되다",
+  "meaningEn": "be canceled",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "주연 배우가 사고가 나는 바람에 공연이 취소되었다고 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "목적지",
+  "meaningEn": "destination",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "실수",
+  "meaningEn": "mistake",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "실수로 어머니께서 아끼시는 그릇을 깨뜨렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반드시",
+  "meaningEn": "surely",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "아무리",
+  "meaningEn": "however/no matter how",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아무리 바빠도 부모님께 가끔 안부는 전해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "잘못",
+  "meaningEn": "wrong/by mistake",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "버스를 잘못 타는 바람에 학교에 늦게 도착했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "견디다",
+  "meaningEn": "endure",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "힘들어도 참고 견디면 좋은 날이 올 거야.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "서두르다",
+  "meaningEn": "hurry/rush",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 시간에는 길이 막힐 테니까 서둘러야 해요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "연락하다",
+  "meaningEn": "contact/call",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "급할 때에 연락할 수 있는 전화번호를 써 주세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "참다",
+  "meaningEn": "bear/persevere",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "병원에 다 왔으니 조금만 참으세요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "사용",
+  "meaningEn": "usage",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "이상",
+  "meaningEn": "abnormality/disorder",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "제품에 이상이 생기면 언제든지 교환해 드립니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지식",
+  "meaningEn": "knowledge",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "학교에서는 지식 이외에도 많은 것을 배울 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "간직하다",
+  "meaningEn": "keep",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 너와의 추억을 소중하게 간직하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "놓치다",
+  "meaningEn": "miss/lose",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "집으로 가는 막차를 놓쳐서 택시를 탔다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "늘리다",
+  "meaningEn": "increase/expand",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "학교는 학생을 위해 체육 시설을 늘렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보관하다",
+  "meaningEn": "keep/store",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "귀중한 물건은 개인이 따로 보관해 주십시오.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "복용하다",
+  "meaningEn": "take",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "약품을 복용할 때에는 의사나 약사와 상의하십시오.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상의하다",
+  "meaningEn": "discuss/consult",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 앞으로의 계획에 대해서 부모님과 상의하였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "썩다",
+  "meaningEn": "rot/decompose",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "음식이 썩지 않도록 냉장고에 보관해 주십시오.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "책임지다",
+  "meaningEn": "take responsibility for",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "그 일은 제가 책임지고 하겠습니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개성",
+  "meaningEn": "character",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "나는 개성 있는 옷차림이 좋다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "계기",
+  "meaningEn": "chance/opportunity",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "월드컵을 계기로 축구에 대한 관심이 많아졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고민",
+  "meaningEn": "worry/trouble",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 고민이 생기면 친구들에게 이야기한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대상",
+  "meaningEn": "subject/target",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "20대 남녀 500명을 대상으로 설문 조사를 하였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상담",
+  "meaningEn": "consulting/counselling",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "선생님은 학생들과 진로 상담을 할 계획이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제한",
+  "meaningEn": "limit",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이곳은 흡연 제한 구역입니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "주제",
+  "meaningEn": "topic",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지금 건강이라는 주제로 강의를 하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개최하다",
+  "meaningEn": "hold",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "우리나라는 올림픽을 성공적으로 개최했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "밀집되다",
+  "meaningEn": "be concentrated",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "서울은 인구가 밀집되어 있는 도시이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "해결하다",
+  "meaningEn": "solve",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "나는 친구의 고민을 해결해 주었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "자연스럽다",
+  "meaningEn": "natural",
+  "posEn": "",
+  "freqMark": "4",
+  "exampleKo": "외국인인데 한국어 발음이 자연스럽다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "규칙",
+  "meaningEn": "rule",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "사람들은 정해진 규칙에 맞게 행동해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "능률",
+  "meaningEn": "efficiency",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "스트레스가 많이 쌓이면 일의 능률이 떨어진다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반면",
+  "meaningEn": "whereas/on the other hand",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 운동은 잘하는 반면에 공부에는 취미가 없다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "위반",
+  "meaningEn": "violation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지난달 교통 신호 위반으로 벌금 10만원을 냈다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "축소",
+  "meaningEn": "reduction",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회사 규모 축소로 인해 많은 사원들이 퇴직을 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "판매",
+  "meaningEn": "sale",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 회사는 광고를 통해서 판매를 증가시켰다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "억지로",
+  "meaningEn": "by force",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 먹고 싶지 않은 밥을 억지로 먹었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "도입되다",
+  "meaningEn": "be introduced",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "새로 나온 휴대 전화에 신기술이 도입되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "우려하다",
+  "meaningEn": "concern/worry",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근 개발로 인한 환경 파괴를 우려하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "종사하다",
+  "meaningEn": "be engaged in",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 부모님은 시골에서 농업에 종사하고 계신다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "표시하다",
+  "meaningEn": "show/express",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 여행 가고 싶은 곳을 지도에 표시했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흔히",
+  "meaningEn": "commonly",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "서울 명동에서는 외국인을 흔히 볼 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "발생하다",
+  "meaningEn": "occur/happen",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지난 주말에 지하 노래방에서 화재가 발생했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "설레다",
+  "meaningEn": "flutter",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "내일 여행을 갈 생각을 하니 마음이 설렌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시들다",
+  "meaningEn": "wither/fade",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "오랫동안 꽃에 물을 주지 않아서 시들어 버렸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "싱싱해지다",
+  "meaningEn": "become fresh",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "채소에 물을 뿌렸더니 금방 싱싱해졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "움직이다",
+  "meaningEn": "move",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 너무 힘들어서 조금도 움직일 수 없었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "전달하다",
+  "meaningEn": "convey/pass",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "내가 쓴 편지를 그녀에게 직접 전달했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흡수되다",
+  "meaningEn": "be absorbed",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "이 옷은 땀이 잘 흡수되도록 만들어졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "강력하다",
+  "meaningEn": "powerful",
+  "posEn": "",
+  "freqMark": "4",
+  "exampleKo": "그는 자신의 의견을 강력하게 주장했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "뚜렷하다",
+  "meaningEn": "be clear",
+  "posEn": "",
+  "freqMark": "4",
+  "exampleKo": "나는 첫사랑의 기억이 아직도 뚜렷하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "자상하다",
+  "meaningEn": "considerate",
+  "posEn": "",
+  "freqMark": "4",
+  "exampleKo": "우리 아버지는 자상하고 인자하신 분이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "신경(을) 쓰다",
+  "meaningEn": "care about",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "부모들은 자식들 교육에 신경을 많이 쓴다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "유기농",
+  "meaningEn": "organic",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "친환경",
+  "meaningEn": "eco-friendly",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "그는 친환경 재료로 주택을 지었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "드디어",
+  "meaningEn": "finally",
+  "posEn": "",
+  "freqMark": "3",
+  "exampleKo": "드디어 기다리던 방학이 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무조건",
+  "meaningEn": "unconditional",
+  "posEn": "",
+  "freqMark": "3",
+  "exampleKo": "그는 내 말을 듣지도 않고 무조건 화부터 냈다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "어쩌면",
+  "meaningEn": "perhaps",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "어쩌면 그 말이 모두 거짓말일지도 몰라.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "오히려",
+  "meaningEn": "rather",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 자기가 잘못해 놓고 오히려 나에게 화를 냈다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고려하다",
+  "meaningEn": "consider",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "성인이 되면 다른 사람의 감정도 고려해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "생산하다",
+  "meaningEn": "produce",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 텔레비전은 우리 공장에서 생산하는 제품이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "인식되다",
+  "meaningEn": "be recognized",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "진행하다",
+  "meaningEn": "proceed",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "향상시키다",
+  "meaningEn": "improve",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 말하기 능력을 향상시키기 위해 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "신선하다",
+  "meaningEn": "fresh",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "주말에는 등산을 하면서 신선한 공기를 마시곤 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "주목을 받다",
+  "meaningEn": "get attention",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 영화는 세계인의 주목을 받고 있는 작품이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "방안",
+  "meaningEn": "way/measure",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 문제를 해결할 구체적인 방안을 마련해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "의지",
+  "meaningEn": "will",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "담배를 끊기 위해서는 강한 의지가 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지속적",
+  "meaningEn": "continuous",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 경기 회복을 위해 지속적으로 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거두다",
+  "meaningEn": "achieve/gain",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 팀은 이번 대회에서 좋은 성적을 거두었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "떠올리다",
+  "meaningEn": "recall",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그의 얼굴을 떠올리면 나도 모르게 미소를 짓게 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "마련하다",
+  "meaningEn": "prepare",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 결혼해서 살 집을 미리 마련해 두었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "예방하다",
+  "meaningEn": "prevent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "은행은 범죄를 예방하고자",
+  "exampleEn": "CCTV를 설치했다.",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "잠재우다",
+  "meaningEn": "control",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 새로운 정책으로 소비자들의 불만을 잠재웠다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제기하다",
+  "meaningEn": "raise/bring up",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "피해자 가족은 사고 처리에 대한 의문을 제기했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지도하다",
+  "meaningEn": "instruct",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 학생들에게 글쓰기를 지도하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "불필요하다",
+  "meaningEn": "unnecessary",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 이사를 가기 위해 불필요한 물건들을 정리했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "화려하다",
+  "meaningEn": "luxurious",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "서울 한강의 야경은 화려하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "비난을 받다",
+  "meaningEn": "be blamed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 배우는 잘못된 행동으로 시청자들에게 비난을 받았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "감시",
+  "meaningEn": "surveillance",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근 감시 카메라 설치가 확대되고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "살림",
+  "meaningEn": "housekeeping",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그녀는 직장을 그만두고 집에서 살림만 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "세월",
+  "meaningEn": "time",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "오랜 세월이 지났지만 그의 모습은 그대로였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "욕심",
+  "meaningEn": "greed/ambition",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 현재에 만족하지 못하고 항상 다른 것에 욕심을 낸다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "그제야",
+  "meaningEn": "only when",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아버지는 딸의 전화를 받고 그제야 안심이 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "때때로",
+  "meaningEn": "sometimes",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "바쁘게 살고 있지만 때때로 옛날 생각이 난다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "아예",
+  "meaningEn": "never",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 중국어를 아예 못 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "여전히",
+  "meaningEn": "still",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 여전히 멋있고 당당해 보였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "되풀이하다",
+  "meaningEn": "repeat",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "단어는 되풀이해서 외워야 잊어버리지 않는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "떠오르다",
+  "meaningEn": "rise/ come across one’s mind",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "옛 고향에 오니 어린 시절 추억이 떠오른다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "각박하다",
+  "meaningEn": "hard-hearted",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘은 세상이 각박해서 옆집에 누가 사는지도 모른다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "소홀하다",
+  "meaningEn": "neglectful",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 공사장은 안전 관리가 소홀해서 사고가 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "철없다",
+  "meaningEn": "immature",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "철없던 어린 시절의 행동들이 부끄럽게 느껴졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고개를 숙이다",
+  "meaningEn": "bow one’s head",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "벼는 익을수록 고개를 숙인다는 속담이 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "볼거리",
+  "meaningEn": "attraction",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "남산의 봄꽃 축제는 볼거리가 풍부합니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "전망",
+  "meaningEn": "view/prospect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 전망이 있는 회사에 취직했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "제자리",
+  "meaningEn": "in place",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "열심히 공부를 하고 있지만 실력은 제자리인 것 같다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "달다",
+  "meaningEn": "sweet",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사람들은 인터넷 기사를 보고 자기의 의견에 대해서 댓글을 단다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "달라붙다",
+  "meaningEn": "stick/cling",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "너무 달라붙는 옷은 활동하기에 불편하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상하다",
+  "meaningEn": "spoil/feel bad",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "상한 음식을 먹으면 식중독에 걸릴 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "즐기다",
+  "meaningEn": "enjoy",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근에는 많은 사람들이 인생을 즐기면서 살기를 원한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "퍼지다",
+  "meaningEn": "spread",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 사람에 대한 안 좋은 소문이 퍼지기 시작했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "한몫하다",
+  "meaningEn": "contribute",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 축구 경기에서 우리 팀의 우승에 내가 한몫했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "불쾌하다",
+  "meaningEn": "unpleasant",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그의 기분 나쁜 표정이 나를 불쾌하게 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "심각하다",
+  "meaningEn": "serious",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "무슨 일이 생겼는지 교실 분위기가 너무 심각했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "적절하다",
+  "meaningEn": "appropriate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "시간과 장소에 맞는 적절한 옷차림이 중요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지나치다",
+  "meaningEn": "excessive",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "너무 지나친 친절은 오히려 상대방을 불편하게 할 수도 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "영향을 끼치다",
+  "meaningEn": "affect/influence",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "불규칙한 식사는 건강에 안 좋은 영향을 끼친다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "비중",
+  "meaningEn": "portion",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "생활비에서 월세가 가장 큰 비중을 차지한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "역할",
+  "meaningEn": "role",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "올바른 자녀 교육을 위해서는 부모의 역할이 중요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "착각",
+  "meaningEn": "delusion",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "제주도에 살면 외국에 사는 듯한 착각이 든다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "결합되다",
+  "meaningEn": "be combined",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "두 종류 이상의 음식이 결합되어 만들어진 것이 퓨전 음식이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "끌다",
+  "meaningEn": "drag/attract",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아이들은 부모의 관심을 끌기 위해 이상한 행동을 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "반영되다",
+  "meaningEn": "be reflected",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "선정되다",
+  "meaningEn": "be selected",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 학교가 최우수 학교로 선정되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "설치되다",
+  "meaningEn": "be installed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "은행에는 범죄 예방을 위해",
+  "exampleEn": "CCTV가 설치되어 있다.",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시행하다",
+  "meaningEn": "implement",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 올해부터 도서정가제를 시행하기로 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "유발하다",
+  "meaningEn": "cause/trigger",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "독특한 영화 제목은 관객들의 흥미를 유발한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "지정하다",
+  "meaningEn": "assign/designate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 2013년부터 한글날을 공휴일로 지정했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "독특하다",
+  "meaningEn": "unique/unusual",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그녀는 말투가 독특해서 사람들이 잘 기억한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "색다르다",
+  "meaningEn": "unconventional",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "각광",
+  "meaningEn": "spotlight/be popular",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "간접",
+  "meaningEn": "indirectness",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근 영화나 드라마에는 간접 광고가 포함되어 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "낭비",
+  "meaningEn": "waste",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 낭비가 심해서 돈을 모으지 못한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "매출",
+  "meaningEn": "sale",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신제품 판매로 매출이 증가하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "오류",
+  "meaningEn": "error/mistake",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "현금인출기 비밀번호를 잘못 눌러서 오류가 발생했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "일석이조",
+  "meaningEn": "killing two birds with one stone",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "협력",
+  "meaningEn": "cooperation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 위기를 극복하려면 모두의 협력이 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "혼란",
+  "meaningEn": "confusion",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기획하다",
+  "meaningEn": "plan",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "바로잡다",
+  "meaningEn": "adjust/straighten",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 체형을 바로잡기 위해 요가를 배우고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "추진하다",
+  "meaningEn": "propel",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "구청에서는 다문화 가정을 위한 ‘세계인의 날’ 행사를 추진하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흘러나오다",
+  "meaningEn": "flow out",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그 가게 앞을 지날 때마다 추억의 음악이 흘러나온다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "번거롭다",
+  "meaningEn": "inconvenient",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 주부들은 김치 담기가 번거로워서 많이 사 먹는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "호황을 누리다",
+  "meaningEn": "enjoy booming",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경기가 회복되면서 부동산 시장이 호황을 누리고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "경향",
+  "meaningEn": "trend",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 젊은이들은 외모만을 중시하는 경향이 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "내면",
+  "meaningEn": "inside/interior",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사람을 볼 때에는 겉모습보다는 내면을 봐야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무작정",
+  "meaningEn": "recklessness",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "택시 기사는 목적지도 물어보지 않고 무작정 출발했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "호감",
+  "meaningEn": "good will",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 목소리가 좋은 남자에게 호감이 간다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "꾸준히",
+  "meaningEn": "steadily/consistently",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "꾸준히 노력하는 사람은 꿈을 이룰 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개선하다",
+  "meaningEn": "improve",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "난방 시설이 부족한 학교 환경을 개선해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "시도하다",
+  "meaningEn": "attempt",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "해 보지 않은 일을 시도하는 것은 누구에게나 어려운 일이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "인상되다",
+  "meaningEn": "increase",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "물가 상승으로 인해 버스 요금이 인상되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "추구하다",
+  "meaningEn": "pursue",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사람들은 모두 행복을 추구한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "출시하다",
+  "meaningEn": "release/launch",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리 회사에서 올해 새로운 제품을 출시하였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거세다",
+  "meaningEn": "fierce/strong",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지난밤 거센 비바람으로 나무가 많이 쓰러졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "만족스럽다",
+  "meaningEn": "satisfactory",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 졸업 시험 결과가 아주 만족스럽다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "거래",
+  "meaningEn": "trade",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘에는 휴대폰으로 증권 거래를 하는 사람이 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "결실",
+  "meaningEn": "fruit/achievement",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 대회에서 성실히 노력한 결과 큰 결실을 거두었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "권리",
+  "meaningEn": "right",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "사람들은 모두 교육을 받을 권리가 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "논의",
+  "meaningEn": "discussion",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "선생님들은 수학여행지 선정에 대해 논의 중이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "모범",
+  "meaningEn": "model/example",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "부모는 자식에게 모범이 되어야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "삭제",
+  "meaningEn": "deletion",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 인터넷에 등록된 개인 정보 삭제 방법을 알고 싶다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "연료",
+  "meaningEn": "fuel",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "자동차는 대부분 휘발유를 연료로 사용한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "본래",
+  "meaningEn": "originally",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "본래 이곳은 숲이었지만 지금은 아파트 단지로 바뀌었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "밝혀지다",
+  "meaningEn": "be revealed/be proved",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "화재의 원인이 관리 부주의로 밝혀졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "집중되다",
+  "meaningEn": "be focused",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "모든 사람들의 관심이 올림픽에 집중되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "용이하다",
+  "meaningEn": "easy/simple",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 휴대 전화는 사진 촬영이 용이하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "저렴하다",
+  "meaningEn": "cheap",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "한국의 화장품은 질이 좋을 뿐더러 가격도 저렴하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "평범하다",
+  "meaningEn": "ordinary",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 평범한 가정에서 태어난 보통 사람이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "인심",
+  "meaningEn": "generosity",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "무려",
+  "meaningEn": "as many as/no less than",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "지금까지 이곳을 방문한 사람이 무려 200명이 되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "문득",
+  "meaningEn": "suddenly",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "버럭",
+  "meaningEn": "abruptly",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "동생을 때리자 어머니께서 버럭 화를 내셨다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "좀처럼",
+  "meaningEn": "hardly/scarcely",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 좀처럼 화를 내지 않는다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "가엾다",
+  "meaningEn": "pitiful",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "길을 잃고 헤매는 강아지가 가엾어 보였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "서운하다",
+  "meaningEn": "regretful",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "같이 지내던 룸메이트와 헤어지게 되어서 서운하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "어색하다",
+  "meaningEn": "awkward",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그는 외국 사람이라서 한국말이 어색하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "엄하다",
+  "meaningEn": "strict",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "아버지는 어렸을 때부터 엄하게 교육하셨다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "착잡하다",
+  "meaningEn": "intricate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "더 이상 그를 볼 수 없다니 마음이 착잡해졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "말을 건네다",
+  "meaningEn": "begin to speak",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "처음 만난 사람이어서 말을 건네기가 쉽지 않았다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "폐를 끼치다",
+  "meaningEn": "give somebody trouble",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "그동안 폐를 끼쳐 죄송합니다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "단편적",
+  "meaningEn": "fragmentary",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "단편적인 모습만 보고 사람을 판단하면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보급",
+  "meaningEn": "supply",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 친환경 주택의 보급을 위해 힘쓰고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "설비",
+  "meaningEn": "facilities/equipment",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "가정에서는 가스 안전 설비를 제대로 갖추어야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "이득",
+  "meaningEn": "gain",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 일로 부당하게 이득을 취한 사람들이 많다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "합리적",
+  "meaningEn": "rational",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "일을 모두가 이해할 수 있도록 합리적으로 처리해야 한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "선뜻",
+  "meaningEn": "gladly",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 일은 선뜻 하겠다고 나서는 사람이 없다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "구축되다",
+  "meaningEn": "be established",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "최근 새로운 통신망이 구축되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수렴하다",
+  "meaningEn": "collet/gather",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이번 안건은 직원들의 의견을 수렴해서 결정하기로 했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "실현시키다",
+  "meaningEn": "realize",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 꿈을 실현시키기 위해 꾸준히 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "완화시키다",
+  "meaningEn": "alleviate",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 경제 활성화를 위해 부동산 규제를 완화시켰다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "재생시키다",
+  "meaningEn": "replay/reproduce",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리가 먹는 과일은 피부를 재생시키는 데 효과가 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "적용되다",
+  "meaningEn": "apply",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "새로 제정된 법은 국민 모두에게 공정하게 적용된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "창출하다",
+  "meaningEn": "create",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 일자리를 창출하기 위해 취업 박람회를 개최했다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "경제성",
+  "meaningEn": "economic feasibility",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 제품은 가격에 비해서 성능이 좋고 경제성이 뛰어나다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "고용",
+  "meaningEn": "employment",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "고용을 촉진하기 위해서는 정부와 기업의 협력이 필요하다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기술력",
+  "meaningEn": "technical power",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회사에서는 컴퓨터 분야의 기술력 향상을 위해 애쓰고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "논쟁",
+  "meaningEn": "argument",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부는 기금의 효율적인 운영을 위해 뜨거운 논쟁을 벌였다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "바탕",
+  "meaningEn": "basis/foundation",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "신제품은 새로 개발된 기술을 바탕으로 만들어졌다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "복지",
+  "meaningEn": "welfare",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "회사는 근로자의 복지 향상을 위해 노력하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "취지",
+  "meaningEn": "intent",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "이 법은 쓰레기를 줄이려는 취지에서 시행되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "흐름",
+  "meaningEn": "flow",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "전 세계 자동차 시장의 흐름이 바뀌고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "매진하다",
+  "meaningEn": "strive",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "나는 장학금을 타기 위해 학업에 매진하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "상승시키다",
+  "meaningEn": "raise/increase",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "정부의 부동산 정책은 서민들의 전월세 가격을 상승시켰다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "수거하다",
+  "meaningEn": "pickup/collect",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "우리나라에서는 빈 병을 수거하여 재활용한다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "전환되다",
+  "meaningEn": "change/switch",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "계약직 사원이 2년 이상 근무하면 정규직으로 전환될 수 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "차단시키다",
+  "meaningEn": "disconnect/cut off",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "스마트폰은 광고성 스팸 문자를 차단시키는 기능이 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "차지하다",
+  "meaningEn": "occupy",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "생활비에서 통신비가 차지하는 비중이 높은 편이다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "개혁",
+  "meaningEn": "reformation",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "대책",
+  "meaningEn": "measure",
+  "posEn": "",
+  "freqMark": "1",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "감수하다",
+  "meaningEn": "bear/endure",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "강요하다",
+  "meaningEn": "force",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "공개하다",
+  "meaningEn": "open/make public",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "급변하다",
+  "meaningEn": "change suddenly",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "기피하다",
+  "meaningEn": "avoid",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "요즘 사람들은 힘든 일을 기피하는 경향이 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "미루다",
+  "meaningEn": "delay/postpone",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "오늘 할 일을 내일로 미루면 안 된다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "보장되다",
+  "meaningEn": "be assured/ be guaranteed",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "부추기다",
+  "meaningEn": "incite/encourage",
+  "posEn": "",
+  "freqMark": "2",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "위축되다",
+  "meaningEn": "be frustrated",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "경기 불안으로 투자가 위축되었다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "주장하다",
+  "meaningEn": "assert/claim",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "시간제 노동자는 부당 해고를 당했다고 주장하고 있다.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "머지않다",
+  "meaningEn": "not long",
+  "posEn": "",
+  "freqMark": "",
+  "exampleKo": "조금만 더 참고 견디면 머지않아 좋은 일이 생길 거예요.",
+  "exampleEn": "",
+  "frequency": 2,
+  "src": "TOPIK 2.docx"
+ },
+ {
+  "hangul": "뒤",
+  "meaningEn": "back/behind",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "옆",
+  "meaningEn": "side/next to",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "위",
+  "meaningEn": "top/above/on",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "아래",
+  "meaningEn": "bottom/below/under",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "밑",
+  "meaningEn": "bottom/under",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "안",
+  "meaningEn": "inside",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "속",
+  "meaningEn": "inside/interior",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ },
+ {
+  "hangul": "밖",
+  "meaningEn": "outside",
+  "posEn": "noun",
+  "freqMark": "",
+  "exampleKo": "",
+  "exampleEn": "",
+  "frequency": 1,
+  "src": "TOPIK 1.docx"
+ }
+]

@@ -1,0 +1,38 @@
+# ===== 依赖 =====
+node_modules/
+
+# ===== 构建产物（Render 上由 Build Command 重新生成） =====
+client/dist/
+server/dist/
+
+# ===== SQLite 数据库（每次冷启动由 bootstrap 重建，绝不提交） =====
+server/prisma/dev.db*
+
+# ===== 媒体：只保留 mp3 剪辑音频与映射表，忽略视频/垃圾帧 =====
+media/*
+!media/clips/
+!media/mappings.json
+
+# ===== 数据源：忽略 PDF 原文与原始教材文档（大/有版权，运行时不需要） =====
+data/pdf-books/*.pdf
+data/pdf-books/text/
+data/custom/*.doc
+data/custom/*.docx
+data/custom/*.html
+data/custom/*.txt
+
+# ===== Python 流水线虚拟环境 =====
+scripts/pipeline/.venv/
+
+# ===== 日志 =====
+*.log
+tunnel.log*
+runtime.log
+
+# ===== Windows 本地部署脚本与工具 =====
+*.bat
+*.vbs
+tools/
+
+# ===== 本地配置 =====
+.npmrc

@@ -1,0 +1,163 @@
+// BluePink 한글 数据库设计
+// 后续如需公开部署，把 provider 改为 "postgresql" 并设置 url 即可迁移
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+// ---------- 用户 ----------
+model User {
+  id           String   @id @default(cuid())
+  username     String   @unique
+  passwordHash String? // scrypt 哈希，格式 scrypt:salt:hash；老 'me' 用户为 null 不可登录
+  dailyGoal    Int      @default(20) // 每日计划单词数
+  isAdmin      Boolean  @default(false) // 管理员：可访问 /admin 管理页
+  createdAt    DateTime @default(now())
+
+  progress   WordProgress[]
+  errorWords ErrorWord[]
+  studyLogs  StudyLog[]
+  plans      DailyPlan[]
+  vocabTests VocabTest[]
+  sessions   Session[]
+}
+
+// ---------- 登录会话（token 存数据库，可撤销） ----------
+model Session {
+  id        String   @id @default(cuid())
+  token     String   @unique // 256-bit 随机 hex
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  expiresAt DateTime // 30 天有效期，滑动续期
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+// ---------- 单词书 ----------
+model WordBook {
+  id       String @id @default(cuid())
+  name     String // 延世韩国语 1 / TOPIK 初级词表
+  category String // yonsei | topik
+  level    String // beginner | intermediate | advanced
+  words    Word[]
+}
+
+// ---------- 单词 ----------
+model Word {
+  id           String   @id @default(cuid())
+  hangul       String // 사랑하다
+  meaningCn    String // 中文释义
+  partOfSpeech String? // [名] [动] [形] [副] [感]
+  hanja        String? // 汉字词标注（如 학교=學校），中国学习者记忆辅助
+  frequency    Int      @default(0) // 词频分层 1~6，词汇量检测抽样用
+  audioUrl     String? // 发音音频（KRDict 真人发音）
+  exampleKo    String? // 文本例句（韩语）；有视频映射的词不填，视频例句在 MediaMapping
+  exampleZh    String? // 例句中文翻译
+  exampleSource String? // 例句来源：book（书中例句）| ai（AI 生成）
+  bookId       String
+  book         WordBook @relation(fields: [bookId], references: [id])
+
+  progress      WordProgress[]
+  mediaMappings MediaMapping[]
+  errorWords    ErrorWord[]
+
+  @@index([bookId])
+  @@index([hangul])
+}
+
+// ---------- 学习进度（艾宾浩斯遗忘曲线） ----------
+model WordProgress {
+  id            String    @id @default(cuid())
+  userId        String
+  wordId        String
+  user          User      @relation(fields: [userId], references: [id])
+  word          Word      @relation(fields: [wordId], references: [id])
+  status        String    @default("new") // new | learning | reviewing | mastered
+  stage         Int       @default(0) // 复习阶段，对应间隔档位
+  interval      Int       @default(0) // 当前间隔天数
+  ease          Float     @default(2.5) // 难度系数（SM-2 简化版）
+  reps          Int       @default(0) // 复习次数
+  correctCount  Int       @default(0)
+  wrongCount    Int       @default(0)
+  nextReviewAt  DateTime? // 下次复习时间
+  lastReviewedAt DateTime?
+  learnedAt     DateTime  @default(now())
+
+  @@unique([userId, wordId])
+}
+
+// ---------- 错词本 ----------
+model ErrorWord {
+  id          String   @id @default(cuid())
+  userId      String
+  wordId      String
+  user        User     @relation(fields: [userId], references: [id])
+  word        Word     @relation(fields: [wordId], references: [id])
+  errorCount  Int      @default(1)
+  lastErrorAt DateTime @default(now())
+
+  @@unique([userId, wordId])
+}
+
+// ---------- 学习日志（统计/热力图用） ----------
+model StudyLog {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  wordId    String?
+  action    String // learn | review | correct | wrong | start_session
+  createdAt DateTime @default(now())
+
+  @@index([userId, createdAt])
+}
+
+// ---------- 每日学习计划 ----------
+model DailyPlan {
+  id      String @id @default(cuid())
+  userId  String
+  user    User   @relation(fields: [userId], references: [id])
+  bookId  String?
+  date    String // YYYY-MM-DD
+  target  Int // 计划数量
+  learned Int    @default(0)
+  tested  Boolean @default(false) // 当天检测是否完成
+
+  @@unique([userId, date])
+}
+
+// ---------- 歌词/综艺片段映射（核心特色） ----------
+model MediaMapping {
+  id         String  @id @default(cuid())
+  wordId     String
+  word       Word    @relation(fields: [wordId], references: [id])
+  sourceType String // song | going
+  sourceName String // 아주 NICE / GOING SEVENTEEN EP.xx
+  artist     String? // SEVENTEEN / BSS
+  quote      String // 기분 기분 기분이 좋아져!
+  quoteZh    String? // 片段原句的中文翻译（歌曲歌词导入 / GOING 内嵌字幕 OCR）
+  surface    String? // 目标词在原句中的实际形态（用于高亮，如 살다 → 살아요）
+  startTime  Int // 片段开始（秒）
+  endTime    Int // 片段结束（秒）
+  linkUrl    String? // B站/YouTube 链接（带时间戳）
+  audioUrl   String? // 站内自动剪辑音频相对路径
+  verified   Boolean @default(false) // 是否已人工校对
+  createdAt  DateTime @default(now())
+
+  @@index([wordId])
+}
+
+// ---------- 词汇量检测记录 ----------
+model VocabTest {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  estimate  Int // 估算词汇量
+  toplevel  String // 对应 TOPIK 等级（1~6）
+  createdAt DateTime @default(now())
+}

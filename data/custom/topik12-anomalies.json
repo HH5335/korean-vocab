@@ -1,0 +1,1333 @@
+[
+ {
+  "src": "TOPIK 1.docx",
+  "table": 3,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "무슨",
+   "meaningEn": "what",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 4,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가다",
+   "meaningEn": "go",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 5,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "싸다",
+   "meaningEn": "cheap",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 6,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "요즘",
+   "meaningEn": "nowadays",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 7,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "들어오다",
+   "meaningEn": "come into",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 8,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "미안하다",
+   "meaningEn": "sorry",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 9,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "비행기",
+   "meaningEn": "airplane",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 10,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "다른",
+   "meaningEn": "other",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 11,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "빨리",
+   "meaningEn": "quickly",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 12,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "무섭다",
+   "meaningEn": "afraid",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 13,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "좋다",
+   "meaningEn": "good",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 15,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "건강",
+   "meaningEn": "health",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 16,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "계획",
+   "meaningEn": "plan",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 17,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "고향",
+   "meaningEn": "hometown",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 18,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가족",
+   "meaningEn": "family",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 19,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "기분",
+   "meaningEn": "feeling",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 20,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "나이",
+   "meaningEn": "age",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 21,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "날짜",
+   "meaningEn": "date",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 22,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "휴일",
+   "meaningEn": "holiday",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 23,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "둘",
+   "meaningEn": "(두)two",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 23,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "태어나다",
+   "meaningEn": "born",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 24,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "어떻다",
+   "meaningEn": "how",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 25,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "주다",
+   "meaningEn": "give",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 27,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "교통",
+   "meaningEn": "traffic",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 28,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가격",
+   "meaningEn": "price",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 29,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "다행",
+   "meaningEn": "fortune",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 30,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "이야기하다",
+   "meaningEn": "talk",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 32,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "방법",
+   "meaningEn": "way/method",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 33,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "연휴",
+   "meaningEn": "consecutive holidays",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 34,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "옛날",
+   "meaningEn": "old days",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 35,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "질문",
+   "meaningEn": "question",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 36,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "하루",
+   "meaningEn": "one day",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 36,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "신다",
+   "meaningEn": "put on/wear (footwear)",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 37,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가지고 가다",
+   "meaningEn": "take",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 38,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가구",
+   "meaningEn": "furniture",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 39,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "같이",
+   "meaningEn": "together",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 41,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "경치",
+   "meaningEn": "scenery",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 42,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "연락처",
+   "meaningEn": "contact information",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 43,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "입다",
+   "meaningEn": "wear (clothing)",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 44,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "여름",
+   "meaningEn": "summer",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 45,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "친구",
+   "meaningEn": "friend",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 47,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "수업",
+   "meaningEn": "class",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 49,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "나오다",
+   "meaningEn": "come out",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 50,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "지내다",
+   "meaningEn": "do/be",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 51,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "있다",
+   "meaningEn": "have",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 52,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "안내",
+   "meaningEn": "guide",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 53,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "점심",
+   "meaningEn": "lunch",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 53,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "행복",
+   "meaningEn": "happiness/happy",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 54,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "찾다",
+   "meaningEn": "find",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 56,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "경치",
+   "meaningEn": "scenery",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 57,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "요리",
+   "meaningEn": "cooking",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 58,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "그러면",
+   "meaningEn": "then",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 59,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "비싸다",
+   "meaningEn": "expensive",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 61,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "앞",
+   "meaningEn": "front",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 62,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "옛날",
+   "meaningEn": "old days/ancient times",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 63,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "사진",
+   "meaningEn": "photograph",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 64,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "그런데",
+   "meaningEn": "by the way",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 65,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "어리다",
+   "meaningEn": "young",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 66,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "직원",
+   "meaningEn": "staff/employee",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 67,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "화장실",
+   "meaningEn": "restroom",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 68,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "같이",
+   "meaningEn": "together",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 69,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "길다",
+   "meaningEn": "long",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 70,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "나가다",
+   "meaningEn": "go out/leave",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 71,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "이용하다",
+   "meaningEn": "use",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 72,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "모두",
+   "meaningEn": "all",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 73,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "날",
+   "meaningEn": "day",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 74,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "또",
+   "meaningEn": "again",
+   "posEn": "adverb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 75,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "태어나다",
+   "meaningEn": "born",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 76,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "둘",
+   "meaningEn": "two",
+   "posEn": "numeral",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 76,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "화를 내다",
+   "meaningEn": "get angry (express anger to someone else)",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 77,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "물건",
+   "meaningEn": "thing/stuff",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 79,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "그립다",
+   "meaningEn": "miss/long for",
+   "posEn": "adjective",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 82,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "열리다",
+   "meaningEn": "be held",
+   "posEn": "verb",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 83,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "알려 주다",
+   "meaningEn": "tell/teach",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 1.docx",
+  "table": 86,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "거의",
+   "meaningEn": "almost",
+   "posEn": "noun",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 5,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "비용이 들다",
+   "meaningEn": "cost",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 6,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "점검",
+   "meaningEn": "checkup",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 7,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "감소하다",
+   "meaningEn": "decrease",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 9,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "여유",
+   "meaningEn": "composure",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 10,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "후회하다",
+   "meaningEn": "regret",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 14,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "규정",
+   "meaningEn": "regulation",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 15,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "반칙",
+   "meaningEn": "foul",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 16,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "검토하다",
+   "meaningEn": "review",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 17,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "비판하다",
+   "meaningEn": "criticize",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 18,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "마땅하다",
+   "meaningEn": "suitable",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 25,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "가치",
+   "meaningEn": "value",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 26,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "승부",
+   "meaningEn": "game/victory",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 27,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "체중",
+   "meaningEn": "body weight",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 30,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "괴로움",
+   "meaningEn": "pain/distress",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 31,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "생태계",
+   "meaningEn": "eco-system",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 32,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "수명",
+   "meaningEn": "lifespan",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 33,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "조화",
+   "meaningEn": "harmony",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 36,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "고유문화",
+   "meaningEn": "native culture",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 37,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "창조적",
+   "meaningEn": "creative",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 38,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "협조",
+   "meaningEn": "cooperation",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 39,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "기증하다",
+   "meaningEn": "donate",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 40,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "소통하다",
+   "meaningEn": "communicate",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 42,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "관점",
+   "meaningEn": "point of view",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 43,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "저서",
+   "meaningEn": "books/works",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 45,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "목적지",
+   "meaningEn": "destination",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 46,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "반드시",
+   "meaningEn": "surely",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 47,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "사용",
+   "meaningEn": "usage",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 52,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "유기농",
+   "meaningEn": "organic",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 53,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "인식되다",
+   "meaningEn": "be recognized",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 54,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "진행하다",
+   "meaningEn": "proceed",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 59,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "반영되다",
+   "meaningEn": "be reflected",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 60,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "색다르다",
+   "meaningEn": "unconventional",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 61,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "각광",
+   "meaningEn": "spotlight/be popular",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 62,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "일석이조",
+   "meaningEn": "killing two birds with one stone",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 63,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "혼란",
+   "meaningEn": "confusion",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 64,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "기획하다",
+   "meaningEn": "plan",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 68,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "인심",
+   "meaningEn": "generosity",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 69,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "문득",
+   "meaningEn": "suddenly",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 73,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "개혁",
+   "meaningEn": "reformation",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 74,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "대책",
+   "meaningEn": "measure",
+   "posEn": "",
+   "freqMark": "1"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 75,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "감수하다",
+   "meaningEn": "bear/endure",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 76,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "강요하다",
+   "meaningEn": "force",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 77,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "공개하다",
+   "meaningEn": "open/make public",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 78,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "급변하다",
+   "meaningEn": "change suddenly",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 79,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "보장되다",
+   "meaningEn": "be assured/ be guaranteed",
+   "posEn": "",
+   "freqMark": ""
+  }
+ },
+ {
+  "src": "TOPIK 2.docx",
+  "table": 80,
+  "type": "word-without-example",
+  "word": {
+   "hangul": "부추기다",
+   "meaningEn": "incite/encourage",
+   "posEn": "",
+   "freqMark": "2"
+  }
+ }
+]
