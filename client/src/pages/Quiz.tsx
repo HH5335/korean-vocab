@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { api } from '../api';
-import { playWordAudio } from '../audio';
+import { playClip, playWordAudio, stopAllAudio } from '../audio';
 import type { DistractorCandidate, StudyWord } from '../types';
 
 // ---------- 题型与数据 ----------
@@ -39,11 +39,6 @@ function shuffle<T>(arr: T[]): T[] {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
-}
-
-// 站内剪辑音频（歌词/综艺片段）
-function playAudio(url: string) {
-  new Audio(url).play();
 }
 
 // ---------- 出题 ----------
@@ -176,7 +171,7 @@ function RevealModal({
                       className="btn-audio"
                       onClick={(e) => {
                         e.stopPropagation();
-                        playAudio(m.audioUrl!);
+                        playClip(m.audioUrl!);
                       }}
                     >
                       🔊 站内音频
@@ -280,6 +275,7 @@ export default function Quiz() {
   }
 
   function nextQuestion() {
+    stopAllAudio(); // 翻题/结束：立即停止上一题还在播放的发音/剪辑
     setRevealed(false);
     setPicked(null);
     setTyped('');

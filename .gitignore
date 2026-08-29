@@ -12,6 +12,7 @@ server/prisma/dev.db*
 media/*
 !media/clips/
 !media/mappings.json
+media/word-audio/ # 单词原声（edge-tts 生成，可由 gen_word_audio.py 重建）
 
 # ===== 数据源：忽略 PDF 原文与原始教材文档（大/有版权，运行时不需要） =====
 data/pdf-books/*.pdf

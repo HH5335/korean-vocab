@@ -19,6 +19,7 @@ export interface Word {
   exampleKo?: string | null; // 文本例句（韩语）；有视频映射的词无此字段
   exampleZh?: string | null; // 例句中文翻译
   exampleSource?: string | null; // book（书中例句）| ai（AI 生成）
+  audioUrl?: string | null; // 站内单词原声发音（/media/word-audio/xxx.mp3，全词表生成）
 }
 
 /** 干扰项候选（轻量，仅出题所需字段） */

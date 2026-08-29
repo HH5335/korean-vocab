@@ -1,5 +1,11 @@
+import { useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../auth';
+import SurveyInviteModal from './SurveyInviteModal';
+
+// 退出登录时邀请填写的问卷星反馈问卷链接
+const SURVEY_URL = 'https://v.wjx.cn/vm/PqT1G17.aspx#';
+const SURVEY_ASKED_KEY = 'korean-vocab-survey-asked'; // 每浏览器只问一次
 
 const baseLinks = [
   { to: '/', label: '首页' },
@@ -14,7 +20,21 @@ const baseLinks = [
 export default function NavBar() {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
+  const [showSurvey, setShowSurvey] = useState(false);
   const links = user?.isAdmin ? [...baseLinks, { to: '/admin', label: '🛠️ 管理' }] : baseLinks;
+
+  const doLogout = async () => {
+    await logout();
+    navigate('/login');
+  };
+
+  const handleLogoutClick = () => {
+    if (localStorage.getItem(SURVEY_ASKED_KEY)) {
+      doLogout();
+      return;
+    }
+    setShowSurvey(true);
+  };
 
   return (
     <nav className="nav">
@@ -33,18 +53,26 @@ export default function NavBar() {
         <div className="nav-user">
           <div className="avatar">{user.username.slice(0, 1).toUpperCase()}</div>
           <span className="uname">{user.username}</span>
-          <button
-            className="btn-logout"
-            onClick={async () => {
-              await logout();
-              navigate('/login');
-            }}
-          >
+          <button className="btn-logout" onClick={handleLogoutClick}>
             退出登录
           </button>
         </div>
       ) : (
         <div className="avatar">😊</div>
+      )}
+      {showSurvey && (
+        <SurveyInviteModal
+          onAgree={() => {
+            window.open(SURVEY_URL, '_blank', 'noopener');
+            localStorage.setItem(SURVEY_ASKED_KEY, '1');
+            doLogout();
+          }}
+          onDecline={() => {
+            localStorage.setItem(SURVEY_ASKED_KEY, '1');
+            doLogout();
+          }}
+          onCancel={() => setShowSurvey(false)}
+        />
       )}
     </nav>
   );

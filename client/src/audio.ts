@@ -45,18 +45,37 @@ export function stopSpeaking() {
   if ('speechSynthesis' in window) window.speechSynthesis.cancel();
 }
 
-/** 播放站内剪辑音频（含目标词的整句原声）；返回 Audio 元素便于切词时暂停 */
-export function playClip(url: string): HTMLAudioElement {
+// 当前正在播放的站内音频（模块级唯一），换播/停止时自动暂停上一个
+let currentClip: HTMLAudioElement | null = null;
+
+/** 播放站内音频（单词原声/整句剪辑）；自动暂停上一个，返回 Audio 元素；onend 用于链式播放 */
+export function playClip(url: string, onend?: () => void): HTMLAudioElement {
+  currentClip?.pause();
   const a = new Audio(url);
+  if (onend) a.onended = onend;
   a.play().catch(() => {});
+  currentClip = a;
   return a;
 }
 
+/** 停止一切发声：TTS + 站内音频（翻题/切词/关弹窗时调用） */
+export function stopAllAudio() {
+  stopSpeaking();
+  currentClip?.pause();
+  currentClip = null;
+}
+
 /**
- * 播放单词本身的发音：优先 TTS 单读单词（设备有韩语语音包时），
- * 没有语音包时退回站内剪辑音频（整句，仍能听到该词的真实人声）。
+ * 播放单词本身的发音（优先级）：
+ * ① 站内单词原声（Word.audioUrl，全词表生成，所有设备一致）
+ * ② 设备 TTS 单读单词（设备装了韩语语音包时）
+ * ③ 站内整句剪辑兜底（含目标词的视频/歌词原声）
  */
 export function playWordAudio(word: StudyWord): void {
+  if (word.audioUrl) {
+    playClip(word.audioUrl);
+    return;
+  }
   if (speakKorean(word.hangul)) return;
   const m = word.mediaMappings?.find((x) => x.audioUrl);
   if (m?.audioUrl) playClip(m.audioUrl);

@@ -110,7 +110,10 @@ export default function Study() {
         speakKorean(w.exampleKo);
       }
     };
-    if (!speakKorean(w.hangul, playMedia)) playMedia(); // 设备无韩语语音包：直接播片段
+    if (w.audioUrl) {
+      // ① 站内单词原声（全词表生成，所有设备一致）→ 读完链播视频/音频片段
+      clipRef.current = playClip(w.audioUrl, playMedia);
+    } else if (!speakKorean(w.hangul, playMedia)) playMedia(); // 无原声：TTS 或直接播片段
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index]);
 

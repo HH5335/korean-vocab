@@ -533,6 +533,49 @@ button { font-family: inherit; }
   100% { transform: scale(1); opacity: 1; }
 }
 
+/* ---------- 退出问卷邀请弹窗 ---------- */
+.survey-overlay {
+  position: fixed; inset: 0; z-index: 120;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(43, 52, 82, .35);
+  backdrop-filter: blur(4px);
+}
+.survey-pop {
+  position: relative;
+  background: #fff; border-radius: 28px; padding: 40px 46px;
+  max-width: 400px; margin: 0 16px;
+  display: flex; flex-direction: column; align-items: center; gap: 12px;
+  text-align: center;
+  box-shadow: 0 24px 60px rgba(43, 52, 82, .28);
+  animation: fb-bounce .45s cubic-bezier(.3, 1.4, .6, 1);
+}
+.survey-x {
+  position: absolute; top: 14px; right: 16px;
+  border: none; background: none; cursor: pointer;
+  font-size: 16px; color: var(--ink-2); padding: 4px;
+}
+.survey-x:hover { color: var(--ink); }
+.survey-emoji { font-size: 52px; line-height: 1; }
+.survey-pop h2 { font-size: 22px; font-weight: 800; color: var(--ink); }
+.survey-pop p { font-size: 14.5px; line-height: 1.7; color: var(--ink-2); margin: 0; }
+.survey-actions { display: flex; gap: 12px; margin-top: 10px; flex-wrap: wrap; justify-content: center; }
+.survey-agree {
+  border: none; cursor: pointer;
+  background: var(--grad); color: #fff;
+  border-radius: 999px; padding: 12px 28px;
+  font-size: 15px; font-weight: 700;
+  box-shadow: 0 6px 18px rgba(93, 141, 255, .35);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.survey-agree:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(93, 141, 255, .45); }
+.survey-decline {
+  border: 2px solid var(--line); background: #f8f9ff; cursor: pointer;
+  color: var(--ink-2); border-radius: 999px; padding: 12px 28px;
+  font-size: 15px; font-weight: 600;
+  transition: transform .15s ease, border-color .15s ease, color .15s ease;
+}
+.survey-decline:hover { transform: translateY(-2px); border-color: var(--blue); color: var(--ink); }
+
 /* ---------- 测试题：控件行 / 不确定选项 / 释义弹窗 ---------- */
 .q-controls { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 16px; flex-wrap: wrap; }
 .q-option.q-uncertain { border-style: dashed; color: var(--ink-2); background: #fbfcff; grid-column: 1 / -1; } /* 独占一行 */
