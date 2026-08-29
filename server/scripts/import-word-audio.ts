@@ -19,25 +19,20 @@ async function main() {
 
   let ok = 0;
   let miss = 0;
-  const BATCH = 500; // SQLite in 查询参数上限，分批处理
-  for (let i = 0; i < entries.length; i += BATCH) {
-    const batch = entries.slice(i, i + BATCH);
-    const words = await prisma.word.findMany({
-      where: { hangul: { in: batch.map(([h]) => h) } },
-      select: { id: true, hangul: true },
-    });
-    const idByHangul = new Map(words.map((w) => [w.hangul, w.id]));
-    for (const [hangul, url] of batch) {
-      const id = idByHangul.get(hangul);
-      if (!id) {
-        miss++;
-        continue;
-      }
-      await prisma.word.update({ where: { id }, data: { audioUrl: url } });
-      ok++;
+  // 同一 hangul 在多个词书里可能有多行 Word，按 hangul 整体更新，保证全覆盖
+  const hanguls = entries.map(([h]) => h);
+  const existing = new Set(
+    (await prisma.word.findMany({ where: { hangul: { in: hanguls } }, select: { hangul: true } })).map((w) => w.hangul),
+  );
+  for (const [hangul, url] of entries) {
+    if (!existing.has(hangul)) {
+      miss++;
+      continue;
     }
+    const r = await prisma.word.updateMany({ where: { hangul }, data: { audioUrl: url } });
+    ok += r.count;
   }
-  console.log(`✅ 完成：写入 ${ok} 词${miss > 0 ? `，词表未匹配 ${miss} 词` : ''}`);
+  console.log(`✅ 完成：写入 ${ok} 行${miss > 0 ? `，词表未匹配 ${miss} 词` : ''}`);
 }
 
 main()
