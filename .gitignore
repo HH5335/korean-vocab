@@ -34,5 +34,10 @@ runtime.log
 *.vbs
 tools/
 
+# 例外：日常使用的一键脚本（使用说明.md 有引用）
+!启动网站-natfrp.vbs
+!查网址.vbs
+!停止网站.bat
+
 # ===== 本地配置 =====
 .npmrc

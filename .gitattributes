@@ -1,1 +1,4 @@
 * text=auto
+
+# 查网址.vbs 本地是 GBK 编码（wscript 兼容），仓库内统一存 UTF-8
+查网址.vbs text working-tree-encoding=GBK
